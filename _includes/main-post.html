@@ -1,0 +1,31 @@
+    {% assign url_array = page.url | remove_first:'/' | remove: "index.html" | split: '/' %}
+    {% assign url_last = url_array | last %}
+    {% assign url_size = url_array | size %}
+	
+	<!-- main-right -->
+	<div id="main-right" class="col-xs-12 col-sm-9 col-md-9 pull-right">
+		<!-- content -->
+		<div id="content">
+		{% if url_size <= 1 %}
+		{% else %}
+		<ol class="breadcrumb">
+		{% for item in url_array %}
+		{% if item == url_last %}
+		<li class="active">{{ item }}</li>
+		{% else %}
+		<li><a href="/
+		{% for item in url_array limit:forloop.index %}
+		{{ item }}/
+		{% endfor %}
+		">{{ item }}</a></li>
+		{% endif %}
+		{% endfor %}
+		</ol>
+		{% endif %}		
+
+		<h3>{{ page.title }}</h3>
+		{{ content }}
+		<hr />	
+		<p>Created: {{ page.date | date_to_string }} {% if page.update %}| Updated: {{ page.update }}{% endif %} | Author: {{ page.author }} | Tags: {% for tag in page.tags %} <a href="/tags/{{ tag }}">{{ tag }}</a>{% if forloop.last != true %}, {% endif %} {% endfor %} | Anchor: <a href="#top">Top</a></p>
+    	</div><!-- /content -->	
+    </div><!-- /main-right -->

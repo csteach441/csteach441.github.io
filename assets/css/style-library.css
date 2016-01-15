@@ -1,0 +1,164 @@
+/*
+* custom styles for library layout
+*/
+
+body {
+font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+color:#555;
+font-weight:300;
+}
+
+a {
+color: #6491b2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+color: #1a3852;
+}
+
+div.wrapper {
+min-height: 100%;
+width: 100%;
+position: absolute;
+top: 0;
+left: 0;
+}
+
+#header {
+padding: 0 0 10px 10px;
+
+}
+
+#side-left {
+position: fixed;
+height: 100%;
+overflow-y: auto;
+margin-top: 0px;
+padding: 0;
+border-right: 1px solid #eeeeee;
+}
+
+#side-left .list-group-item {
+border-radius: 0;
+border-left: 0;
+border-right: 0;
+border-top: 0;
+border-bottom: 1px solid #eeeeee;
+}
+
+/* customised nav */
+#side-left .navbar-default  {
+background-color: #1a3852;
+border-bottom: 1px solid #eeeeee;
+padding: 10px;
+margin-bottom: 5px;
+}
+
+#side-left .navbar-default  a {
+color: #ffffff;
+}
+
+#side-left .navbar-collapse {
+padding-left: 0;
+padding-right: 0;
+}
+
+/* navbar-default mods */
+#side-left .navbar-default .navbar-toggle {
+border-color: #eeeeee;
+}
+
+#side-left .navbar-default .navbar-toggle:hover {
+border-color: #eeeeee;
+background-color: #aaaaaa;
+}
+
+#side-left .navbar-default .navbar-toggle:focus {
+border-color: #eeeeee;
+background-color: #1a3852;
+}
+
+#side-left .navbar-default .navbar-toggle .icon-bar {
+background-color: #ffffff;
+}
+
+#bs-example-navbar-collapse-1 ul li.active a {
+color: #000000;
+text-decoration: underline;
+}
+
+/* main content wrapper div */
+#main-right {
+height: 100%;
+overflow-y: auto;
+padding: 0 0 0 0;
+margin-top: -11px;
+}
+
+/* main content div */
+#content {
+position: relative;
+height: 100%;
+overflow-y: auto;
+padding: 10px 25px 40px 25px;
+}
+
+#content h3 {
+padding: 0 0 11px 0;
+font-size: 18px;
+}
+
+#content h4 {
+padding-top: 10px;
+font-size: 15px;
+}
+
+#content .breadcrumb {
+background-color: #ffffff;
+padding: 20px 5px 0 5px;
+font-size: 12px;
+}
+
+#content table{
+border: 1px solid #eeeeee;
+padding: 10px;
+font-size: 13px;
+}
+
+#content table thead tr {
+background-color: #f7f7f7;
+}
+
+#content table thead tr th {
+padding: 5px;
+border: 1px solid #eeeeee;
+}
+
+#content table tbody tr td {
+padding: 5px;
+border: 1px solid #eeeeee;
+}
+
+#content pre{
+background-color: #f9f9f9;
+border: 1px solid #eeeeee;
+word-wrap: normal;
+overflow: auto;
+}
+
+#footer {
+position: fixed;
+padding: 15px 0 0 0;
+bottom: 20px;
+font-size: 13px;
+}
+
+@media print, screen and (max-width: 768px) {
+
+#side-left, #main-right, #footer {
+float:none;
+position: static;
+width: 100%;
+}
+
+}

@@ -1,0 +1,22 @@
+---
+title: All Site Posts
+author: ancientlives
+layout: default-vertical
+
+categories:
+- general
+- site
+
+tags: general site content
+published: true
+summary: a list of all site content posts
+---
+
+<p>The following is a list of all site content posts, descending order from most recent post.</p>
+
+<ul>
+{% for post in site.posts %}
+<li>{{ post.date | date: "%d-%m-%Y" }} | <a href="{{ post.url }}">{{ post.title }}</a></li>
+  <p>{{ post.summary }}</p>
+{% endfor %}
+</ul>

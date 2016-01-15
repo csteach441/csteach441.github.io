@@ -1,0 +1,26 @@
+---
+title: Index - Categories
+author: ancientlives
+layout: index-vertical
+
+categories:
+- general
+- site
+- indices
+
+tags: general site indices categories
+published: true
+summary: an index of site post categories
+---
+
+{% capture get_items %}
+ {% for cat in site.categories %}
+   {{ cat | first }}
+ {% endfor %}
+{% endcapture %}
+{% capture num_words %}
+ {{ get_items | split:' ' |  sort | join:' ' | number_of_words }}
+{% endcapture %}
+{% for item in (1..num_words) %}
+ <li><a href="/cats/{{ get_items | split:' ' |  sort | join:' ' | truncatewords:item | remove:'...' |    split:' ' | last }}">{{ get_items | split:' ' |  sort | join:' ' | truncatewords:item | remove:'...' |    split:' ' | last }}</a></li>
+{% endfor %}
