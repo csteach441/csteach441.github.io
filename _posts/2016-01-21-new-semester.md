@@ -9,7 +9,7 @@ categories:
 tags: general news
 year: 2016
 month: 01
-day: 15
+day: 21
 published: true
 summary: welcome to the new Spring semester, 2016
 menu: new-semester
