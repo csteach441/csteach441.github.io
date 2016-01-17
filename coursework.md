@@ -54,11 +54,11 @@ A composite grade will then be available at the end of the semester for the over
 
 Grades will use the following scale,
 
-  * 100% to 91% = A+
-  * 90% to 81%  = A
-  * 80% to 71%  = A-
-  * 70% to 61%  = B+
-  * 60% to 51%  = B
-  * 50% to 41%  = B-
-  * 40% to 31%  = C
-  * 30% to 0%   = F
+  * 100% to 91% = A
+  * 90% to 81%  = A-
+  * 80% to 71%  = B+
+  * 70% to 61%  = B
+  * 60% to 51%  = B-
+  * 50% to 41%  = C
+  * 40% to 31%  = F
+  * 30% to 0%   = ?

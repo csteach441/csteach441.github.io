@@ -270,7 +270,6 @@ good and bad, to the [Product Brainstorming](https://trello.com/comp388441luc) b
 This Trello organisation is private, and only visible to those enrolled in this course.
 
 We will discuss these products during next week's class.
--->
 
 #### Week 1 - 21st January 2016
 
@@ -282,3 +281,4 @@ We will discuss these products during next week's class.
     or on a [Trello](https://trello.com/) board
 
 [An Introduction to Pocket](http://vimeo.com/40168555)
+-->

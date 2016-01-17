@@ -75,7 +75,6 @@ There is no specific textbook for this course.
   * Okabe, M. & Ito, K. *Color Universal Design (CUD) - How to make figures and presentations that are friendly to Colorblind people.* J*Fly. 2008. [http://jfly.iam.u-tokyo.ac.jp/color/](http://jfly.iam.u-tokyo.ac.jp/color/).
   * Waloszek, G. *Vision and visual disabilities: An introduction.* SAP Design Guild. 2005.
     [http://www.sapdesignguild.org/editions/highlight_articles_01/vision_physiology.asp](http://www.sapdesignguild.org/editions/highlight_articles_01/vision_physiology.asp)
--->
 
 ###### Week 1 - 21st January 2016
 
@@ -83,3 +82,4 @@ There is no specific textbook for this course.
 Seattle. 1990. PP.249-256.
   * Shneiderman, B. & Plaisant, C. *Designing the user interface: Strategies for effective human-computer
 interaction.* 5th Edition. Addison-Wesley. 2009.
+-->

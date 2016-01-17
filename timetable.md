@@ -16,7 +16,7 @@ summary: course timetable for COMP 388/441, Spring 2016
 
 This class will meet at the following time and place,
 
-* Time: 7pm to 9.30pm
+* Time: Thursday 7pm to 9.30pm
 * Place: [Corboy Law Center - Room 711](http://www.luc.edu/media/lucedu/wtc.pdf)
 
 #### Important Dates
