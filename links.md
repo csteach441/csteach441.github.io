@@ -22,14 +22,13 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
-#### Articles / Papers
 <!--
+#### Articles / Papers
 * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
 * [Microsoft's Metro Design](/assets/docs/Windows_Metro.PDF)
 -->
-
-#### Frameworks & Libraries - CSS, JS... (a few examples)
 <!--
+#### Frameworks & Libraries - CSS, JS... (a few examples)
   * [Bootstrap](http://getbootstrap.com/)
   * [D3](http://d3js.org/)
   * [Foundation](http://foundation.zurb.com/)
@@ -45,8 +44,8 @@ If you have any suggestions for additions to this section of the site, please fe
 and choose your favourite.
 -->
 
-#### Mockup and Prototype Tools - a few examples
 <!--
+#### Mockup and Prototype Tools - a few examples
   * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
   * [Apple's Keynote](http://keynotopia.com/guides/) (useful for iOS)
   * [Bootstrap](http://getbootstrap.com/)
@@ -60,21 +59,20 @@ and choose your favourite.
 -->
 
 #### Videos
-<!--
-* [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
+<!--* [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
 * [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
 * [Andi Bell explains the 'link method' memory technique](https://www.youtube.com/watch?v=9NROegsMqNc)
 * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
 * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
 * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
 * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
-* [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
+* [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)-->
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
-* [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
+<!--* [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
 * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
-* [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
+* [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)-->
 * [Milton Glaser](http://vimeo.com/11577085)
-* [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
+<!--* [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
 * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
 * [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
 * [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)
@@ -83,23 +81,20 @@ and choose your favourite.
   * [Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
   * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
 * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
-* [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
--->
+* [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)-->
 #### Websites
-<!--
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
-* [Dark Patterns](http://darkpatterns.org/)
+<!--* [Dark Patterns](http://darkpatterns.org/)
 * Gamification - [Yu-Kai Chou & Gamification](http://www.yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/#.VN0SLFPF-Qw)
 * Gestalt Principles - Brief Overviews
   * [APRK Topics](http://frnsys.com/topics/gestalt)
-  * [Web Designer Depot](http://www.webdesignerdepot.com/2011/08/strengthening-behavioral-cues-in-ux-web-design-with-gestalt-principles/)
+  * [Web Designer Depot](http://www.webdesignerdepot.com/2011/08/strengthening-behavioral-cues-in-ux-web-design-with-gestalt-principles/)-->
 * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
 * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
-* Khan Academy - [Exercise Dashboard](https://www.khanacademy.org/exercisedashboard)
+<!--* Khan Academy - [Exercise Dashboard](https://www.khanacademy.org/exercisedashboard)-->
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
-* [usability.gov](http://www.usability.gov/)
+<!--* [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
-* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
--->
+* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)-->

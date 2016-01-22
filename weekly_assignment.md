@@ -270,15 +270,23 @@ good and bad, to the [Product Brainstorming](https://trello.com/comp388441luc) b
 This Trello organisation is private, and only visible to those enrolled in this course.
 
 We will discuss these products during next week's class.
-
+-->
 #### Week 1 - 21st January 2016
 
 * Review this week's [notes and material](/notes), which includes the class notes
-* Research and review the work of graphic designer, Milton Glaser, for next week's class
-  * a good place to start is his website, [miltonglaser.com](http://www.miltonglaser.com)
-  * keep a record of any notes, images, snippets, web clippings etc for review later in the semester
-    * eg: you might wish to store these notes in [Pocket](http://getpocket.com), [Pinterest](http://www.pinterest.com/)
-    or on a [Trello](https://trello.com/) board
+* Research and review the work of graphic designer, Milton Glaser
+  * a good place to start is his website, [miltonglaser.com](http://www.miltonglaser.com)  
+* Start keeping a record of any notes, images, snippets etc that you find interesting each week
+  * these may include different examples of typography, logos, billboards, colour designs and usage, adverts, and so on...
+  * effectively, any art, graphic design etc that catches your eye, and may later serve as a useful influence for design
+  * you'll find these notes etc very useful for future reference during the course. They will also help explain some of your design choices and decisions relative to the final project assessment
 
-[An Introduction to Pocket](http://vimeo.com/40168555)
--->
+I have now created a Trello group for this course, which is available at the following URL,
+
+  * [https://trello.com/comp4412016luc](https://trello.com/comp4412016luc)
+
+Please [contact me](mailto:nhayward@luc.edu?subject=COMP441-Trello) by the end of Monday 25th January 2016 with your [Trello](https://trello.com/) username. If you are new to [Trello](https://trello.com/), you will need to register for their service.
+
+I have also created a Slack group for this course, which is called **COMP 441 @ LUC**. I shall send an invite to this group to each member of the class. Please accept this invite as soon as possible. We shall be using Slack for class-wide communication, announcements, and discussions.
+
+Any questions, please let me know.
