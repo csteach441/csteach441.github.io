@@ -55,4 +55,4 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/Comp388-441-week2.pdf)
 -->
 ##### Week 1 - 21st January 2016
-  * [course](/assets/docs/Comp441-hci-week1.pdf)
+  * [course](/assets/docs/comp441-hci-week1.pdf)
