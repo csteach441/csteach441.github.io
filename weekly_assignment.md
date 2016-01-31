@@ -290,6 +290,7 @@ We will discuss these products during next week's class.
     * what is the design and development history for your chosen products?
       * ie: can you trace a series of design compromises and improvements in previous models up to the current product release?
   * an example of the above might be the design and development of the user interface for the Apple iPod, iPad, or iPhone...
+  * a website, mobile or desktop application etc is also an acceptable product to consider and review
   * this product review provides an initial opportunity to consider products and designs for your final course assessment
   * add details for the above on the [Week 2 board](https://trello.com/b/GfuSKSTH/week-2)
     * further instructions are available in the 'Analysis of Devices' list on the [Week 2 board](https://trello.com/b/GfuSKSTH/week-2)
