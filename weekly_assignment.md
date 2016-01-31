@@ -11,6 +11,11 @@ tags: coursework weekly
 published: true
 summary: weekly assignment for COMP 388/441
 ---
+
+#### Assignment submission
+* Weekly assignments are due by the start of the next week's class, unless a specific date is given to the contrary.
+* Submissions should normally be posted to the applicable week's Trello board, unless otherwise stated.
+
 <!--
 #### Week 15 - 23rd April 2015
 * Please complete your final course assessment, the 'Demo and Report of Final Assessment'. An outline report is available at the following URL,
