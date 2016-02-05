@@ -239,16 +239,24 @@ Presentations will be scheduled for the start of next week's class, which begins
   * if you have not received your result by the weekend, please [contact](/contact) me
 
 3) Please ensure you have read through all of the course [notes](/notes) for the first four weeks of the semester.
+-->
 
-#### Week 3 - 29th January 2015
+#### Week 3 - 4th February 2016
+* Review this week's [notes and material](/notes), which includes the class notes
+* Please ensure you have now added your group's details to the course's Trello group
+  * add group members, name etc to the [Week 1 board](https://trello.com/b/xFQB0sss/week-1)
+  * further instructions are available in the 'Project Teams' list on the [Week 1 board](https://trello.com/b/xFQB0sss/week-1)
 * Please prepare for a quiz at the start of next week's class. This quiz will include the following:
   * material covered within the class [notes](/notes), weeks 1 to 3, and material discussed in class
   * multiple choice questions
+  * you will be given 45 minutes to complete the quiz in class
   * please ensure you have a registered Google account, which we'll use to complete the online form
   * please ensure you bring an internet enabled device to class
     * eg: laptop, tablet, smartphone...
 
 <!--Quiz URL = [http://goo.gl/forms/pi9Xcm7Hv3](http://goo.gl/forms/pi9Xcm7Hv3)-->
+
+Any questions, please let me know.
 
 <!--
 #### Week 2 - 22nd January 2015
