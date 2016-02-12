@@ -44,10 +44,10 @@ This material will be updated on a weekly basis.
 
 ##### Week 5 - 12th February 2015
   * N/A
-
-##### Week 4 - 5th February 2015
-  * [course](/assets/docs/Comp388-441-week4.pdf)
 -->
+##### Week 4 - 11th February 2016
+  * [course](/assets/docs/Comp441-hci-week4.pdf)
+
 ##### Week 3 - 4th February 2016
   * [course](/assets/docs/comp441-hci-week3.pdf)
 

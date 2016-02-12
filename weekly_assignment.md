@@ -216,30 +216,32 @@ Initial guidelines have been posted as a list within the above board. Any questi
 
 3)  Please add a weekly status report on work conducted towards your project on the above Trello board. Please consult the
 board's **Guidelines** list for further information.
+-->
 
-#### Week 4 - 5th February 2015
-1) The following assignment is your first preparatory work towards the final course assessment, as
+#### Week 4 - 11th February 2016
+1) The following assignment is your first formal preparatory work towards the final course assessment, as
 detailed in the overall [coursework](/coursework) outline, no.2.
 
-* Please prepare, either within your group or individually, a brief lightning presentation of approximately 5 minutes maximum.
+* Please prepare, either within your group or individually, a brief lightning presentation of approximately 5 minutes maximum. However, please try to keep it to 5 minutes or less.
 It should include the following information:
   * brief outline of your initial concept/concepts for the final assessment
   * what is good and bad with the current interface?
     * in particular, consider this with regard to material we have covered over the first four weeks of the semester
   * initial thoughts on aspects you'd like to improve and modify for your final assessment
-  * brief comments on proposed development plan up to Spring break, week 7 of the current semester
+  * brief comments on proposed development plan up to the end of Spring break of the current semester
 
-Presentations will be scheduled for the start of next week's class, which begins at 7pm on Thursday 12th February 2015.
+Presentations will be scheduled for the start of next week's class, which begins at 7pm on Thursday 18th February 2016.
 
-**NB:** A formal slide presentation is optional. It is up to you to decide upon a preferred presentation style for this assignment.
+**NB:** A formal slide presentation is optional. It is up to you to decide upon a preferred presentation style for this assignment. This style of quick presentation is becoming increasingly popular at less formal conferences.
+
+Please consider it useful practice for the final presentation.
 
 2) Please review your quiz result.
 
-  * your results will be sent out on Friday 6th February 2015 to the provided LUC email address
+  * your results will be sent out on Friday 12th February 2016 to the provided LUC email address
   * if you have not received your result by the weekend, please [contact](/contact) me
 
 3) Please ensure you have read through all of the course [notes](/notes) for the first four weeks of the semester.
--->
 
 #### Week 3 - 4th February 2016
 * Review this week's [notes and material](/notes), which includes the class notes
