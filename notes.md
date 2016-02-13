@@ -46,7 +46,7 @@ This material will be updated on a weekly basis.
   * N/A
 -->
 ##### Week 4 - 11th February 2016
-  * [course](/assets/docs/Comp441-hci-week4.pdf)
+  * [course](/assets/docs/comp441-hci-week4.pdf)
 
 ##### Week 3 - 4th February 2016
   * [course](/assets/docs/comp441-hci-week3.pdf)
