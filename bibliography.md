@@ -57,10 +57,11 @@ There is no specific textbook for this course.
   * Kieras, D. *Using the Keystroke-Level Model to Estimate Execution Times." 1993. [http://courses.wccnet.edu/~jwithrow/docs/klm.pdf](http://courses.wccnet.edu/~jwithrow/docs/klm.pdf)
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
 
-###### Week 5 - 12th February 2015
-
-  * N/A
 -->
+
+###### Week 5 - 18th February 2016
+
+  * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
 
 ###### Week 4 - 11th February 2016
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction*. Lawrence Erlbaum Associates. 1983.

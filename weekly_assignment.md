@@ -199,24 +199,22 @@ of the above completed work, and a brief bullet-point list of goals for the seco
 3)  Please add a weekly status report on work conducted towards your project on the above Trello board. This should
 include an analysis and initial results for the KLM-GOMS work completed above, and any other research or development conducted
 this week.
-
-#### Week 5 - 12th February 2015
-1) Please send me a copy of your presentation or accompanying notes, which was completed as part of your week 4 assignment.
-
-  * please feel free to send this as an email attachment or share via a service such as Google Drive, Dropbox etc.
-
-2) Please add your project's details to the following Trello board, which is available within the course's Trello organisation.
-
-  * [Group Projects](https://trello.com/b/Hik9bcmi/group-projects)
-
-I have created a separate list for each project announced last night. Please [contact](/contact) me if any of these details are
-incorrect or, indeed, if you do not see your project listed.
-
-Initial guidelines have been posted as a list within the above board. Any questions please [contact](/contact) me.
-
-3)  Please add a weekly status report on work conducted towards your project on the above Trello board. Please consult the
-board's **Guidelines** list for further information.
 -->
+
+#### Week 5 - 18th February 2016
+1) Please add a copy of your presentation or accompanying notes, which was completed as part of your week 4 assignment, to the following Trello board,
+
+  * [Week 5 - Presentation Details](https://trello.com/b/PNRxF5q5/week-5-presentation-details)
+
+Please create a separate list for your project on the above board. Then,  
+
+  * add your presentation files or notes to your project's list
+  * add a weekly status report on work conducted towards your project
+  * consider the primary focus of your project, and its site or app, and add details on the following,
+    * how does it create cognitive overload at the moment?
+    * how do you plan to initially modify the design to reduce this overload?
+
+Initial guidelines have been posted as a list on the above board. Any questions please [contact](/contact) me.
 
 #### Week 4 - 11th February 2016
 1) The following assignment is your first formal preparatory work towards the final course assessment, as
