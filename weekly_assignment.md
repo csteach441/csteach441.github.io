@@ -180,8 +180,8 @@ Please post this information to your project's list on the Group Projects board 
 
 3)  Please add a *Spring Break* status report on work conducted towards your project on the above Trello board. This should include an outline
 of the above completed work, and a brief bullet-point list of goals for the second half of the semester.
-
-#### Week 6 - 19th February 2015
+-->
+#### Week 6 - 25th February 2016
 1) Please review this week's [notes and material](/notes), in particular the material concerning the KLM-GOMS model.
 
 2) Relative to your chosen project for the final assessment, please consider and define the following,
@@ -193,13 +193,11 @@ of the above completed work, and a brief bullet-point list of goals for the seco
     * please refer to the KLM-GOMS model as defined in this week's notes
       * use the example listed in this week's notes as a guide to test your own project's product
       * test the original product, and then consider how this might be improved in your new design
-  * post this information to your project's list on the Group Projects board on the course's Trello organisation,
-    * [Group Projects](https://trello.com/b/Hik9bcmi/group-projects)
+    * Please add a copy of this material to the following Trello board,
+      * [Week 6 - Initial Testing](https://trello.com/b/aJEVwjid/week-6-initial-testing)
+       * instructions for this exercise are also available on the above Trello board
 
-3)  Please add a weekly status report on work conducted towards your project on the above Trello board. This should
-include an analysis and initial results for the KLM-GOMS work completed above, and any other research or development conducted
-this week.
--->
+Initial guidelines have been posted as a list on the above board. Any questions please [contact](/contact) me.
 
 #### Week 5 - 18th February 2016
 1) Please add a copy of your presentation or accompanying notes, which was completed as part of your week 4 assignment, to the following Trello board,
