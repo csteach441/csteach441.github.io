@@ -158,8 +158,7 @@ Please post this information to your project's list on the Group Projects board 
 
 <!--Quiz URL = [http://goo.gl/8mppRB](http://goo.gl/8mppRB) -->
 
-<!--
-#### Week 7 - 26th February 2015
+#### Week 7 - 3rd March 2016
 1) Please review this week's [notes and material](/notes).
 
 2) Relative to your chosen project for the final assessment, please consider and define the following,
@@ -175,12 +174,14 @@ Please post this information to your project's list on the Group Projects board 
     * does this page etc adhere to the *Laws of Gestalt*?
       * which laws, and how?
       * outline examples for each applicable law within your chosen page etc
-  * post this information to your project's list on the Group Projects board on the course's Trello organisation,
-      * [Group Projects](https://trello.com/b/Hik9bcmi/group-projects)
+  * Please add a copy of this material to the following Trello board,
+    * [Week 7 - Patterns & Laws](https://trello.com/b/ep4UqSAj/week-7-patterns-laws)
+     * instructions for this exercise are also available on the above Trello board
 
-3)  Please add a *Spring Break* status report on work conducted towards your project on the above Trello board. This should include an outline
-of the above completed work, and a brief bullet-point list of goals for the second half of the semester.
--->
+Initial guidelines have been posted as a list on the above board. Any questions please [contact](/contact) me.
+
+Enjoy your Spring Break.
+
 #### Week 6 - 25th February 2016
 1) Please review this week's [notes and material](/notes), in particular the material concerning the KLM-GOMS model.
 

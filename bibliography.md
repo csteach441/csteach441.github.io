@@ -39,12 +39,13 @@ There is no specific textbook for this course.
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
   * Cooper, A. et al. *About Face 3: The essentials of interaction design.* Wiley. 2007.
   * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
+-->
 
-###### Week 7 - 26th February 2015
+###### Week 7 - 3rd March 2016
 
+  * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
   * Nielsen, J. and Pernice, K. *Eyetracking web usability.* New Riders. 2009.
   * Wertheimer, M. *Laws of Organisation in Perceptual Forms.* 1923.
--->
 
 ###### Week 6 - 25th February 2016
 

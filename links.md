@@ -65,9 +65,7 @@ and choose your favourite.
 * [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
 -->
 * [Andi Bell explains the 'link method' memory technique](https://www.youtube.com/watch?v=9NROegsMqNc)
-<!--
 * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
--->
 * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
 * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
 <!--
@@ -75,8 +73,8 @@ and choose your favourite.
 * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
 -->
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
-<!--
 * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
+<!--
 * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
 * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)-->
 * [Milton Glaser](http://vimeo.com/11577085)
@@ -100,10 +98,9 @@ and choose your favourite.
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
 * [Dark Patterns](http://darkpatterns.org/)
 * Gamification - [Yu-Kai Chou & Gamification](http://www.yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/#.VN0SLFPF-Qw)
-<!--
 * Gestalt Principles - Brief Overviews
   * [APRK Topics](http://frnsys.com/topics/gestalt)
-  * [Web Designer Depot](http://www.webdesignerdepot.com/2011/08/strengthening-behavioral-cues-in-ux-web-design-with-gestalt-principles/)-->
+  * [Web Designer Depot](http://www.webdesignerdepot.com/2011/08/strengthening-behavioral-cues-in-ux-web-design-with-gestalt-principles/)
 * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
 * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 * Khan Academy - [Exercise Dashboard](https://www.khanacademy.org/exercisedashboard)
