@@ -34,12 +34,13 @@ There is no specific textbook for this course.
 
   * Robinson, W.L. *Conscious competency - the mark of a competent instructor.* Personnel Journal, 53. PP. 538-9. 1974.
 
-###### Week 9 - 12th March 2015
+-->
+###### Week 9 - 17th March 2016
 
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
   * Cooper, A. et al. *About Face 3: The essentials of interaction design.* Wiley. 2007.
   * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
--->
+
 
 ###### Week 7 - 3rd March 2016
 
