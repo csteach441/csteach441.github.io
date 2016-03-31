@@ -152,7 +152,7 @@ Please post this information to your project's list on the Group Projects board 
 * Please prepare for a quiz during our next class on Thursday 31st march 2016. This quiz will include the following:
   * material covered within the class [notes](/notes), weeks 4, 6, 7, and 9 inclusive
   * multiple choice questions
-  * you will be given 45 minutes to complete this quiz in class
+  * you will be given at least 45 minutes to complete this quiz in class
   * please ensure you have a registered Google account, which we'll use to complete the online form
   * please ensure you bring an internet enabled device to class
     * eg: laptop, tablet, smartphone...
