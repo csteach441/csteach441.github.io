@@ -127,27 +127,28 @@ Please post this information to your project's list on the Group Projects board 
 
 We shall also briefly discuss these prototypes and mockups at the start of our next class, Thursday 9th April 2015 at 7pm. Please
 ensure your initial mockup or prototype is ready for this class.
+-->
 
-#### Week 10 - 19th March 2015
+#### Week 11 - 31st March 2016
 1) Please review this week's [notes and material](/notes).
 
 2) Relative to your chosen project for the final assessment, please consider and define the following,
 
   * how you intend to encourage a user's competence relative to your application?
     * eg: consider the Robinson model of competence, and the various stages
-  * how are you planning to implement consistency within your application's design?
-    * consider patterns relative to design, interaction, knowledge learning...
-    * how will this consistency differ, if at all, relative to internal and external considerations
-    * what role will the Gestalt laws play in your consideration of consistency
   * how will visibility be integrated within your application to aid user feedback?
   * what is the role of affordance relative to feedback within your application?
     * consider both **activational** and **behavioural** feedback
+  * how will you use constraints within your UI
 
 Please post this information to your project's list on the Group Projects board on the course's Trello organisation,
 
-  * [Group Projects](https://trello.com/b/Hik9bcmi/group-projects)
+  * [Week 11 - Constraints & Feedback](https://trello.com/b/L3CX8rdo/week-11-constraints-and-feedback)
 
--->
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 9 - 17th March 2016
 * Please prepare for a quiz during our next class on Thursday 31st march 2016. This quiz will include the following:
   * material covered within the class [notes](/notes), weeks 4, 6, 7, and 9 inclusive
