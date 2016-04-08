@@ -31,6 +31,11 @@ There is no specific textbook for this course.
   * Tyldesley, D.A. *Employing usability engineering in the development of office products.* Computer Journal, Vol. 31. No. 5, PP. 431-436. 1988.
 -->
 
+###### Week 12 - 7th April 2016
+
+  * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
+  * Cooper, A. et al. *About Face 3: The essentials of interaction design.* Wiley. 2007.
+
 ###### Week 11 - 31st March 2016
 
   * Robinson, W.L. *Conscious competency - the mark of a competent instructor.* Personnel Journal, 53. PP. 538-9. 1974.

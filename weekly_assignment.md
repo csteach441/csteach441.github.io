@@ -127,7 +127,41 @@ Please post this information to your project's list on the Group Projects board 
 
 We shall also briefly discuss these prototypes and mockups at the start of our next class, Thursday 9th April 2015 at 7pm. Please
 ensure your initial mockup or prototype is ready for this class.
+
+#### Week 13 - 14th April 2016
+1) Please review this week's [notes and material](/notes)
+
+2) Relative to your chosen project for the final assessment, please consider and define the following,
+
+  * outline your application's common *interaction framework*
+  * create a mockup or prototype for your application
+    * you may choose either a low-fidelity or high-fidelity mockup or prototype
+    * add a brief explanation on your choice of either a mockup or prototype and the associated fidelity
+
+
+
 -->
+
+#### Week 12 - 7th April 2016
+1) Please review this week's [notes and material](/notes), including the following extra notes,
+
+  * [extra - design mockups](/assets/docs/comp441-hci-design-mockups.pdf)
+
+2) Relative to your chosen project for the final assessment, please consider and define the following,
+
+  * consider and outline your application's **interaction concepts** and in particular its required **interaction styles**
+  * outline your initial **information architecture** for your application. In particular, consider the following
+    * naming scheme and glossary
+    * navigation and places
+    * navigation mechanisms
+    * presentation of places
+  * Please add a copy of this material to the following Trello board,
+    * [Week 12 - Interaction & Information](https://trello.com/b/W5YXGmK1/week-12-interaction-information)
+    * instructions for this exercise are also available on the above Trello board
+
+Initial guidelines have been posted as a list on the above board. Any questions please [contact](/contact) me.
+
+Enjoy your week.
 
 #### Week 11 - 31st March 2016
 1) Please review this week's [notes and material](/notes).
@@ -140,12 +174,11 @@ ensure your initial mockup or prototype is ready for this class.
   * what is the role of affordance relative to feedback within your application?
     * consider both **activational** and **behavioural** feedback
   * how will you use constraints within your UI
+  * Please add a copy of this material to the following Trello board,
+    * [Week 11 - Constraints & Feedback](https://trello.com/b/L3CX8rdo/week-11-constraints-and-feedback)
+    * instructions for this exercise are also available on the above Trello board
 
-Please post this information to your project's list on the Group Projects board on the course's Trello organisation,
-
-  * [Week 11 - Constraints & Feedback](https://trello.com/b/L3CX8rdo/week-11-constraints-and-feedback)
-
-Any questions, please let me know.
+Initial guidelines have been posted as a list on the above board. Any questions please [contact](/contact) me.
 
 Enjoy your week.
 
@@ -158,7 +191,7 @@ Enjoy your week.
   * please ensure you bring an internet enabled device to class
     * eg: laptop, tablet, smartphone...
 
-Any questions, please let me know.
+Any questions please [contact](/contact) me.
 
 Enjoy your Easter break.
 
