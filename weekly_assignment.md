@@ -137,10 +137,38 @@ ensure your initial mockup or prototype is ready for this class.
   * create a mockup or prototype for your application
     * you may choose either a low-fidelity or high-fidelity mockup or prototype
     * add a brief explanation on your choice of either a mockup or prototype and the associated fidelity
-
-
-
 -->
+
+#### Week 13 - 14th April 2016
+1) Please review this week's [notes and material](/notes), including the following extra notes,
+
+  * [extra - Final Report Outline](/assets/docs/comp441-hci-final-report-outline.pdf)
+  * [extra - Windows Metro](/assets/docs/Windows_Metro.PDF)
+
+2) Relative to your chosen project for the final assessment, please consider and define the following,
+
+  * required goals for usability testing you might wish to conduct on prototypes during development and design of your application
+  * questions for test users relative to presented images of competing applications
+  * Please add a copy of this material to the following Trello board,
+    * [Week 13 - Testing](https://trello.com/b/nhmYnMeZ/week-13-testing)
+    * instructions for this exercise are also available on the above Trello board
+
+3) Relative to your chosen project for the final assessment, please consider the following,
+
+  * create a mockup or prototype for your application
+    * you may choose either a low-fidelity or high-fidelity mockup or prototype
+    * add a brief explanation on your choice of either a mockup or prototype and the associated fidelity
+
+We shall briefly discuss these prototypes and mockups at the start of our next class, Thursday 21st April 2016 at 7pm. Please
+ensure your initial mockup or prototype is ready for this class. Each project group will be given a maximum 2-3 minutes per demo to showcase their application, and its design.
+
+If there are any specific software or hardware requirements for this demo, please let me know before the start of next week's class.
+
+**NB:** focus solely on the prototypes and mockups...the main presentation and demo is due in week 15.
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 #### Week 12 - 7th April 2016
 1) Please review this week's [notes and material](/notes), including the following extra notes,

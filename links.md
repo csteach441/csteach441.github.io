@@ -24,9 +24,8 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Articles / Papers
 * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
-<!--
 * [Microsoft's Metro Design](/assets/docs/Windows_Metro.PDF)
--->
+
 #### Frameworks & Libraries - CSS, JS... (a few examples)
   * [Bootstrap](http://getbootstrap.com/)
   * [D3](http://d3js.org/)
@@ -70,8 +69,8 @@ and choose your favourite.
 -->
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
 * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
-<!--
 * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
+<!--
 * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)-->
 * [Milton Glaser](http://vimeo.com/11577085)
 * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
