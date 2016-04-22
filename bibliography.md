@@ -20,12 +20,11 @@ References will be cited at the end of each week's notes.
 
 There is no specific textbook for this course.
 
-<!--
-###### Week 14 - 16th April 2015
+###### Week 14 - 21st April 2016
 
   * Nielsen, J. *Heuristic evaluation.* Usability inspection methods. New York. John Wiley and Sons. P. 30. 1994.
   * Wharton, C. et al. *The cognitive walkthrough method: A practitioner's guide.* Usability inspection methods. New York. John Wiley and Sons. PP. 105-140. 1994.
--->
+
 ###### Week 13 - 14th April 2016
 
   * Robinson, W.L. *Conscious competency - the mark of a competent instructor.* Personnel Journal, 53. PP. 538-9. 1974.

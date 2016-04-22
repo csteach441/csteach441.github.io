@@ -139,6 +139,26 @@ ensure your initial mockup or prototype is ready for this class.
     * add a brief explanation on your choice of either a mockup or prototype and the associated fidelity
 -->
 
+#### Week 14 - 21st April 2016
+1) Please review this week's [notes and material](/notes).
+
+2) Please review the [Final Report Outline](/assets/docs/comp441-hci-final-report-outline.pdf).
+
+3) Please prepare your project's final presentation for next week's class, Thursday 28th April 2016 at 7pm.
+
+  * each group presentation should be between 5 and 10 minutes in length (10 minutes maximum)
+  * style of presentation may include a formal presentation (slides etc), online demo or video demonstration
+    * or a combination of the above options
+  * where possible, each member should contribute to the presentation
+  * your presentation should consider the pertinent aspects outlined in the [Final Report Outline](/assets/docs/comp441-hci-final-report-outline.pdf)
+    * each presentation will be an opportunity to condense this information for demonstration purposes
+
+If there are any specific software or hardware requirements for this presentation, please let me know before the start of next week's class.
+
+Any questions please let me know.
+
+Enjoy your week.
+
 #### Week 13 - 14th April 2016
 1) Please review this week's [notes and material](/notes), including the following extra notes,
 
