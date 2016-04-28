@@ -20,6 +20,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+##### Week 15 - 28th April 2016
+  * [Final Report Outline](/assets/docs/comp441-hci-final-report-outline.pdf)
+
 ##### Week 14 - 21st April 2016
   * [course](/assets/docs/comp441-hci-week14.pdf)
   * [extra - Final Report Outline](/assets/docs/comp441-hci-final-report-outline.pdf)

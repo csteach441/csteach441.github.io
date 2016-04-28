@@ -139,6 +139,17 @@ ensure your initial mockup or prototype is ready for this class.
     * add a brief explanation on your choice of either a mockup or prototype and the associated fidelity
 -->
 
+#### Week 15 - 28th April 2016
+
+* Please complete your group's final project report
+  * suggested report length between 5 and 10 pages
+* Further details can be found in the following outline
+  * [Final Report Outline](/assets/docs/comp441-hci-final-report-outline.pdf)
+* Report must be submitted by 7pm on Thursday 5th May 2016
+   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP441 - Final Report)
+
+**NB:** Don't forget to add details of each member's contributions to the project in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP441 - Individual Final Report)
+
 #### Week 14 - 21st April 2016
 1) Please review this week's [notes and material](/notes).
 
