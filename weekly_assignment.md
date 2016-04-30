@@ -142,7 +142,8 @@ ensure your initial mockup or prototype is ready for this class.
 #### Week 15 - 28th April 2016
 
 * Please complete your group's final project report
-  * suggested report length between 5 and 10 pages
+  * suggested report length between 5 and 10 pages - more than 10 pages is fine
+  * report length is not limited, the above is simply a suggested target length for your report
 * Further details can be found in the following outline
   * [Final Report Outline](/assets/docs/comp441-hci-final-report-outline.pdf)
 * Report must be submitted by 7pm on Thursday 5th May 2016
