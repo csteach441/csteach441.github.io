@@ -6,9 +6,9 @@ url: "http://localhost:4000"
 
 paginate: 10
 
-markdown: rdiscount
+markdown: kramdown
 permalink: "/:categories/:title"
-highlighter: pygments
+highlighter: rouge
 
 excerpt_separator: <!--more-->
 
@@ -16,7 +16,7 @@ collections:
   library:
     output: true
   indices:
-    output: true    
+    output: true
 
 gems:
   - jekyll-sitemap
