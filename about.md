@@ -9,10 +9,10 @@ categories:
 
 tags: general site
 published: true
-summary: a quick introduction to the csteach site and content
+summary: a quick introduction to the csteach441 site and content
 ---
 
-*csteach* has been designed as a course site for publishing notes, coursework, and other media.  
+*csteach441* has been designed as a course site for publishing notes, coursework, and other media.  
 
 The [Blog](/blog) is used to announce site updates, post course announcements, and any other general material.
 

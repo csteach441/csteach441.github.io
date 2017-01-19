@@ -9,25 +9,25 @@ categories:
 
 tags: coursework
 published: true
-summary: coursework for COMP 388/441
+summary: coursework for COMP 441
 ---
 
 Assessed coursework will include the following primary categories
 
-#### 1. quizzes or group exercises at the end of each course section (35%)
+#### 1. quizzes or group exercises at the end of each course section (30%)
 
 * this is a semester long assessment, which focuses upon each course section
 * each assessment will be based upon the assigned course notes, reading, and examples
 * at the end of each course section, either a quiz or group exercise will be assigned
 * each quiz, where applicable, will be a set of multiple-choice questions
 
-#### 2. preparatory work for final assessment (30%)
+#### 2. preparatory work for final assessment (40%)
 
 * preparatory work for your final assessment will be assigned at the end of each course section
 * may include demos, designs, testing, prototypes...
 * each assessment will reflect the content and theme of each section
 
-#### 3. demo and report of final assessment (35%) <!-- - [Report Outline](/assets/docs/COMP388441-FinalReportOutline-2016.pdf)-->
+#### 3. demo and report of final assessment (30%) <!-- - [Report Outline](/assets/docs/COMP388441-FinalReportOutline-2016.pdf)-->
 
 This assessment requires the design and development of a new interface for an existing computing product, service,
 application, tool or publication.
@@ -46,6 +46,24 @@ application, tool or publication.
 * work may be conducted individually or in groups (max. 5 persons per group)
 	* group report must clearly define each student's work and contributions, where applicable
 	  * no attribution, no mark
+
+#### Important Dates
+
+* Spring break: 6th to 11th March 2017
+	* **n.b.** no formal class: 9th March 2017
+* Easter holiday: 13th to 17th April 2017
+	* **n.b.** no formal class: 13th April 2017
+* Final class: 27th April 2017
+  * Final presentation due on Thursday 27th April 2017 @ 7pm
+* Exam week: 1st May to 6th May 2017
+	* Final assessment due on Thursday 4th May 2017 @ 7pm
+
+#### Initial Coursework Schedule
+
+* Thursday 27th April 2017
+  * Demonstration of final assessment @ 7pm
+* Thursday 4th May 2017
+  * Final assessment report due @ 7pm
 
 #### Grading
 

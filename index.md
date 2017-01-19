@@ -1,5 +1,5 @@
 ---
-title: COMP 388/441
+title: COMP 441
 layout: default-vertical
 
 categories:
@@ -8,10 +8,10 @@ categories:
 
 tags: general site home
 published: true
-summary: Human-Computer Interface Design, Spring 2016
+summary: Human-Computer Interface Design, Spring 2017
 ---
 
-Welcome to the course website for COMP 388/441.
+Welcome to the course website for COMP 441.
 
 This course is offered by the [Department of Computer Science](http://www.luc.edu/cs/) at [Loyola University Chicago](http://www.luc.edu).
 
@@ -19,7 +19,10 @@ This course is offered by the [Department of Computer Science](http://www.luc.ed
 
 #### Recent Updates
 {% for post in site.posts limit: 5 %}
-* {{ post.date | date_to_string }} | [{{ post.title }}]({{ post.url }})
+
+<!--{{ post.date | date_to_string }} | [{{ post.title }}]({{ post.url }})-->
+* {{ post.date | date_to_string }} - [{{ post.title }}]({{ post.url }})
 
   {{ post.summary }}
+
 {% endfor %}

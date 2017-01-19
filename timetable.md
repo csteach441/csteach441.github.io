@@ -9,7 +9,7 @@ categories:
 
 tags: timetable
 published: true
-summary: course timetable for COMP 388/441, Spring 2016
+summary: course timetable for COMP 441, Spring 2017
 ---
 
 #### Class Schedule
@@ -21,18 +21,18 @@ This class will meet at the following time and place,
 
 #### Important Dates
 
-* Spring break: 7th to 12th March 2016
-	* No class: 10th March 2016
-* Easter holiday: 24th to 28th March 2016
-	* No class: 24th March 2016
-* Final class: 28th April 2016
-  * Final presentation due on 28th April 2016 @ 7pm
-* Exam week: 2nd May to 7th May 2016
-	* Final assessment due on 5th May 2016 @ 7pm
+* Spring break: 6th to 11th March 2017
+	* **n.b.** no formal class: 9th March 2017
+* Easter holiday: 13th to 17th April 2017
+	* **n.b.** no formal class: 13th April 2017
+* Final class: 27th April 2017
+  * Final presentation due on Thursday 27th April 2017 @ 7pm
+* Exam week: 1st May to 6th May 2017
+	* Final assessment due on Thursday 4th May 2017 @ 7pm
 
-#### Coursework Schedule
+#### Initial Coursework Schedule
 
-* Thursday 28th April 2016
+* Thursday 27th April 2017
   * Demonstration of final assessment @ 7pm
-* Thursday 5th May 2016
+* Thursday 4th May 2017
   * Final assessment report due @ 7pm

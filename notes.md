@@ -9,17 +9,16 @@ categories:
 
 tags: notes material
 published: true
-summary: course notes and material for COMP 388/441
+summary: course notes and material for COMP 441
 ---
 
 Course notes and material will be added to this page during the Spring semester.
 
 This material will be updated on a weekly basis.
 
-#### Notes
-
 ***
 
+<!--
 ##### Week 15 - 28th April 2016
   * [Final Report Outline](/assets/docs/comp441-hci-final-report-outline.pdf)
 
@@ -60,6 +59,7 @@ This material will be updated on a weekly basis.
 
 ##### Week 2 - 28th January 2016
   * [course](/assets/docs/comp441-hci-week2.pdf)
+-->
 
-##### Week 1 - 21st January 2016
-  * [course](/assets/docs/comp441-hci-week1.pdf)
+##### Week 1 - 19th January 2017
+  * [course](/assets/docs/2017/comp441-hci-week1.pdf)

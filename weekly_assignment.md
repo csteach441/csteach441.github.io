@@ -9,12 +9,14 @@ categories:
 
 tags: coursework weekly
 published: true
-summary: weekly assignment for COMP 388/441
+summary: weekly assignment for COMP 441
 ---
 
 #### Assignment submission
 * Weekly assignments are due by the start of the next week's class, unless a specific date is given to the contrary.
 * Submissions should normally be posted to the applicable week's Trello board, unless otherwise stated.
+
+***
 
 <!--
 #### Week 15 - 23rd April 2015
@@ -26,9 +28,9 @@ summary: weekly assignment for COMP 388/441
   * eg: project overview, screenshots, data...
 * Report is due on Thursday 30th April 2015 by 7pm.
 * Please send me a PDF copy of this report. This can be sent as an email attachment to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP388/441 Final Report)
-or shared via an online service such as Google Drive, Dropbox etc.
+or shared via an online service such as Google Drive, Dropbox &c..
 * Please send me a copy of your presentation material, as demonstrated in class on Thursday 23rd April 2015.
-  * supporting material, including videos, live applications etc will also be considered if submitted
+  * supporting material, including videos, live applications &c. will also be considered if submitted
 
 In addition, please complete the following peer review notes for Thursday's class presentations.
 
@@ -63,7 +65,7 @@ detailed in point 3 of the [Coursework](/coursework) outline.
 3) Please prepare your project's presentation for next week's class, Thursday 23rd April 2015 at 7pm.
 
   * each group presentation should be between 5 and 10 minutes in length (strict 10 minute maximum)
-  * style of presentation may include a formal presentation (slides etc), online demo or video demonstration
+  * style of presentation may include a formal presentation (slides &c.), online demo or video demonstration
   * each group's presentation will be anonymously peer reviewed by the class
     * these comments will only be seen by myself, and will remain private to your colleagues
   * your presentation should consider the pertinent aspects outlined in the [Final Report Outline](/assets/docs/COMP388441-FinalReportOutline.pdf)
@@ -139,6 +141,7 @@ ensure your initial mockup or prototype is ready for this class.
     * add a brief explanation on your choice of either a mockup or prototype and the associated fidelity
 -->
 
+<!--
 #### Week 15 - 28th April 2016
 
 * Please complete your group's final project report
@@ -159,7 +162,7 @@ ensure your initial mockup or prototype is ready for this class.
 3) Please prepare your project's final presentation for next week's class, Thursday 28th April 2016 at 7pm.
 
   * each group presentation should be between 5 and 10 minutes in length (10 minutes maximum)
-  * style of presentation may include a formal presentation (slides etc), online demo or video demonstration
+  * style of presentation may include a formal presentation (slides &c.), online demo or video demonstration
     * or a combination of the above options
   * where possible, each member should contribute to the presentation
   * your presentation should consider the pertinent aspects outlined in the [Final Report Outline](/assets/docs/comp441-hci-final-report-outline.pdf)
@@ -255,24 +258,24 @@ Any questions please [contact](/contact) me.
 
 Enjoy your Easter break.
 
-<!--Quiz URL = []() -->
+Quiz URL = []()
 
 #### Week 7 - 3rd March 2016
 1) Please review this week's [notes and material](/notes).
 
 2) Relative to your chosen project for the final assessment, please consider and define the following,
 
-  * any tutorial material that would benefit a user of your project's product, website, service etc.
+  * any tutorial material that would benefit a user of your project's product, website, service &c..
     * consider the aspects of your new design that should be included in a tutorial
     * can this tutorial be improved with the use of *gamification*?
       * if yes, which aspects and how?
-  * choose a page, window, frame etc from your original or new product - one that demonstrates example content and usage
-    * consider default patterns a user might follow within this page etc
-      * eg: which zones, content, links etc are most prevalent within that page etc
+  * choose a page, window, frame &c. from your original or new product - one that demonstrates example content and usage
+    * consider default patterns a user might follow within this page &c.
+      * eg: which zones, content, links &c. are most prevalent within that page &c.
       * does the design and layout follow a prescribed pattern, such as a standard Z or F pattern down the page?
-    * does this page etc adhere to the *Laws of Gestalt*?
+    * does this page &c. adhere to the *Laws of Gestalt*?
       * which laws, and how?
-      * outline examples for each applicable law within your chosen page etc
+      * outline examples for each applicable law within your chosen page &c.
   * Please add a copy of this material to the following Trello board,
     * [Week 7 - Patterns & Laws](https://trello.com/b/ep4UqSAj/week-7-patterns-laws)
      * instructions for this exercise are also available on the above Trello board
@@ -286,7 +289,7 @@ Enjoy your Spring Break.
 
 2) Relative to your chosen project for the final assessment, please consider and define the following,
 
-  * the primary, default functionality for your project's product, website, service etc.
+  * the primary, default functionality for your project's product, website, service &c..
     * in effect, your project's 'big, green button'
     * compare and contrast the original product with your goals for the updated design
   * test user interaction with this defined primary, default functionality using the KLM-GOMS model
@@ -342,7 +345,7 @@ Please consider it useful practice for the final presentation.
 #### Week 3 - 4th February 2016
 * Review this week's [notes and material](/notes), which includes the class notes
 * Please ensure you have now added your group's details to the course's Trello group
-  * add group members, name etc to the [Week 1 board](https://trello.com/b/xFQB0sss/week-1)
+  * add group members, name &c. to the [Week 1 board](https://trello.com/b/xFQB0sss/week-1)
   * further instructions are available in the 'Project Teams' list on the [Week 1 board](https://trello.com/b/xFQB0sss/week-1)
 * Please prepare for a quiz at the start of next week's class. This quiz will include the following:
   * material covered within the class [notes](/notes), weeks 1 to 3, and material discussed in class
@@ -352,11 +355,10 @@ Please consider it useful practice for the final presentation.
   * please ensure you bring an internet enabled device to class
     * eg: laptop, tablet, smartphone...
 
-<!--Quiz URL = [http://goo.gl/forms/pi9Xcm7Hv3](http://goo.gl/forms/pi9Xcm7Hv3)-->
+Quiz URL = [http://goo.gl/forms/pi9Xcm7Hv3](http://goo.gl/forms/pi9Xcm7Hv3)
 
 Any questions, please let me know.
 
-<!--
 #### Week 2 - 22nd January 2015
 * Review this week's [notes and material](/notes), which includes the class notes
 * Please select two digital products that you like, and two that you dislike.
@@ -381,13 +383,9 @@ good and bad, to the [Product Brainstorming](https://trello.com/comp388441luc) b
 This Trello organisation is private, and only visible to those enrolled in this course.
 
 We will discuss these products during next week's class.
--->
 
 #### Week 2 - 28th January 2016
 * Review this week's [notes and material](/notes), which includes the class notes
-* Please start to add group details to the course's Trello group
-  * add group members, name etc to the [Week 1 board](https://trello.com/b/xFQB0sss/week-1)
-  * further instructions are available in the 'Project Teams' list on the [Week 1 board](https://trello.com/b/xFQB0sss/week-1)
 * Please select one digital product that you like, and one that you dislike.
   * consider their user interfaces and general design
     * why do you like or dislike these products?
@@ -396,29 +394,40 @@ We will discuss these products during next week's class.
     * what is the design and development history for your chosen products?
       * ie: can you trace a series of design compromises and improvements in previous models up to the current product release?
   * an example of the above might be the design and development of the user interface for the Apple iPod, iPad, or iPhone...
-  * a website, mobile or desktop application etc is also an acceptable product to consider and review
+  * a website, mobile or desktop application &c. is also an acceptable product to consider and review
   * this product review provides an initial opportunity to consider products and designs for your final course assessment
   * add details for the above on the [Week 2 board](https://trello.com/b/GfuSKSTH/week-2)
     * further instructions are available in the 'Analysis of Devices' list on the [Week 2 board](https://trello.com/b/GfuSKSTH/week-2)
 
 Any questions, please let me know.
 
-#### Week 1 - 21st January 2016
+-->
+
+#### Week 1 - 19th January 2017
 
 * Review this week's [notes and material](/notes), which includes the class notes
 * Research and review the work of graphic designer, Milton Glaser
   * a good place to start is his website, [miltonglaser.com](http://www.miltonglaser.com)  
-* Start keeping a record of any notes, images, snippets etc that you find interesting each week
+* Start keeping a record of any notes, images, snippets &c. that you find interesting each week
   * these may include different examples of typography, logos, billboards, colour designs and usage, adverts, and so on...
-  * effectively, any art, graphic design etc that catches your eye, and may later serve as a useful influence for design
-  * you'll find these notes etc very useful for future reference during the course. They will also help explain some of your design choices and decisions relative to the final project assessment
+  * effectively, any art, graphic design &c. that catches your eye, and may later serve as a useful influence for design
+  * you'll find these notes &c. very useful for future reference during the course. They will also help explain some of your design choices and decisions relative to the final project assessment
+* Please start to add your group's project details to the course's Trello group
+  * add group members, name &c. to the [Week 1 - Project Details](https://trello.com/b/V7vuLBPM/week-1-project-details) board
+  * instructions are available on the [Week 1 board](https://trello.com/b/V7vuLBPM/week-1-project-details)
+  * please send me your Trello username, which I may then add to the course's group
+    * **n.b.** this is required to view and post to the course's Trello group
 
+
+##### Trello group
 I have now created a Trello group for this course, which is available at the following URL,
 
-  * [https://trello.com/comp4412016luc](https://trello.com/comp4412016luc)
+  * [https://trello.com/comp4412017luc](https://trello.com/comp4412017luc)
 
-Please [contact me](mailto:nhayward@luc.edu?subject=COMP441-Trello) by the end of Monday 25th January 2016 with your [Trello](https://trello.com/) username. If you are new to [Trello](https://trello.com/), you will need to register for their service.
+Please [contact me](mailto:nhayward@luc.edu?subject=COMP441-Trello) by the end of Monday 23rd January 2017 with your [Trello](https://trello.com/) username. If you are new to [Trello](https://trello.com/), you will need to register for their service.
 
+<!--
+##### Slack group
 I have also created a Slack group for this course, which is called **COMP 441 @ LUC**. I shall send an invite to this group to each member of the class. Please accept this invite as soon as possible. We shall be using Slack for class-wide communication, announcements, and discussions.
-
+-->
 Any questions, please let me know.

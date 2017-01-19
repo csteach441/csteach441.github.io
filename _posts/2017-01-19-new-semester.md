@@ -7,15 +7,15 @@ categories:
 - blog
 
 tags: general news
-year: 2016
+year: 2017
 month: 01
-day: 21
+day: 19
 published: true
-summary: welcome to the new Spring semester, 2016
+summary: welcome to the new Spring semester, 2017
 menu: new-semester
 ---
 
-Welcome to the new Spring semester, and the COMP 388/441 course in *Human-Computer Interface Design*.
+Welcome to the new Spring semester, and the COMP 441 course in *Human-Computer Interface Design*.
 
 Please ensure that you check this website each week for new posts, notes, and material.
 

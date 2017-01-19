@@ -7,9 +7,9 @@ categories:
 - blog
 
 tags: news weekly
-year: 2016
+year: 2017
 month: 01
-day: 21
+day: 19
 published: true
 summary: course updates for week 1
 menu: blog
