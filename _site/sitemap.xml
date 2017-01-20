@@ -12,97 +12,103 @@
   </url>
   <url>
     <loc>http://localhost:4000/about/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/assignments/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/bibliography/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/blog/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/contact/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/coursework/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://localhost:4000/links/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/notes/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/overview/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/timetable/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/weekly_assignment/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>http://localhost:4000/cats/blog/</loc>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/indices/categories/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/indices/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/indices/posts/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://localhost:4000/indices/tags/</loc>
-    <lastmod>2017-01-19T14:52:06-06:00</lastmod>
+    <lastmod>2017-01-20T09:45:00-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

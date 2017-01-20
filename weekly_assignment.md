@@ -407,7 +407,9 @@ Any questions, please let me know.
 
 * Review this week's [notes and material](/notes), which includes the class notes
 * Research and review the work of graphic designer, Milton Glaser
-  * a good place to start is his website, [miltonglaser.com](http://www.miltonglaser.com)  
+  * watch the intro video listed on slide 31 of this week's course notes
+    * [Vimeo - Milton Glaser Intro](http://vimeo.com/11577085)
+  * view his website, [miltonglaser.com](http://www.miltonglaser.com)  
 * Start keeping a record of any notes, images, snippets &c. that you find interesting each week
   * these may include different examples of typography, logos, billboards, colour designs and usage, adverts, and so on...
   * effectively, any art, graphic design &c. that catches your eye, and may later serve as a useful influence for design
@@ -420,11 +422,13 @@ Any questions, please let me know.
 
 
 ##### Trello group
-I have now created a Trello group for this course, which is available at the following URL,
+I've now created a Trello group for this course, which is available at the following URL,
 
   * [https://trello.com/comp4412017luc](https://trello.com/comp4412017luc)
 
-Please [contact me](mailto:nhayward@luc.edu?subject=COMP441-Trello) by the end of Monday 23rd January 2017 with your [Trello](https://trello.com/) username. If you are new to [Trello](https://trello.com/), you will need to register for their service.
+**NB:** Please [email me](mailto:nhayward@luc.edu?subject=COMP441 Trello Username) with your Trello username. If you do not currently have a Trello username, you'll need to register at the following URL,
+
+* Trello - [Signup](https://trello.com/signup)
 
 <!--
 ##### Slack group
