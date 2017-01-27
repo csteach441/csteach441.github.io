@@ -25,7 +25,7 @@ summary: weekly assignment for COMP 441
 * In addition to the suggested final report outline, please feel free to submit other pertinent work or data for consideration
   * if you submit additional material for consideration, please document and explain it in your report's appendix
 * Each report is an individual student submission, although it may include some shared project details and information
-  * eg: project overview, screenshots, data...
+  * e.g. project overview, screenshots, data...
 * Report is due on Thursday 30th April 2015 by 7pm.
 * Please send me a PDF copy of this report. This can be sent as an email attachment to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP388/441 Final Report)
 or shared via an online service such as Google Drive, Dropbox &c..
@@ -102,7 +102,7 @@ Please post this information to your project's list on the Group Projects board 
   * you will be given one hour to complete this quiz in class
   * please ensure you have a registered Google account, which we'll use to complete the online form
   * please ensure you bring an internet enabled device to class
-    * eg: laptop, tablet, smartphone...
+    * e.g. laptop, tablet, smartphone...
 
 
 Quiz URL = [http://goo.gl/3h2cq4](http://goo.gl/3h2cq4)
@@ -232,7 +232,7 @@ Enjoy your week.
 2) Relative to your chosen project for the final assessment, please consider and define the following,
 
   * how you intend to encourage a user's competence relative to your application?
-    * eg: consider the Robinson model of competence, and the various stages
+    * e.g. consider the Robinson model of competence, and the various stages
   * how will visibility be integrated within your application to aid user feedback?
   * what is the role of affordance relative to feedback within your application?
     * consider both **activational** and **behavioural** feedback
@@ -252,7 +252,7 @@ Enjoy your week.
   * you will be given at least 45 minutes to complete this quiz in class
   * please ensure you have a registered Google account, which we'll use to complete the online form
   * please ensure you bring an internet enabled device to class
-    * eg: laptop, tablet, smartphone...
+    * e.g. laptop, tablet, smartphone...
 
 Any questions please [contact](/contact) me.
 
@@ -271,7 +271,7 @@ Quiz URL = []()
       * if yes, which aspects and how?
   * choose a page, window, frame &c. from your original or new product - one that demonstrates example content and usage
     * consider default patterns a user might follow within this page &c.
-      * eg: which zones, content, links &c. are most prevalent within that page &c.
+      * e.g. which zones, content, links &c. are most prevalent within that page &c.
       * does the design and layout follow a prescribed pattern, such as a standard Z or F pattern down the page?
     * does this page &c. adhere to the *Laws of Gestalt*?
       * which laws, and how?
@@ -353,7 +353,7 @@ Please consider it useful practice for the final presentation.
   * you will be given 45 minutes to complete the quiz in class
   * please ensure you have a registered Google account, which we'll use to complete the online form
   * please ensure you bring an internet enabled device to class
-    * eg: laptop, tablet, smartphone...
+    * e.g. laptop, tablet, smartphone...
 
 Quiz URL = [http://goo.gl/forms/pi9Xcm7Hv3](http://goo.gl/forms/pi9Xcm7Hv3)
 
@@ -367,7 +367,7 @@ Any questions, please let me know.
     * what would you like to change?
     * are there features or aspects of similar products that could be incorporated within these products?
     * what is the design and development history for your chosen products?
-      * ie: can you trace a series of design compromises and improvements in previous models up to the current product release?
+      * i.e. can you trace a series of design compromises and improvements in previous models up to the current product release?
 
 An example of the above might be the design and development of the user interface for the Apple iPod, iPad, or iPhone.
 
@@ -384,24 +384,24 @@ This Trello organisation is private, and only visible to those enrolled in this 
 
 We will discuss these products during next week's class.
 
-#### Week 2 - 28th January 2016
+-->
+
+#### Week 2 - 26th January 2017
 * Review this week's [notes and material](/notes), which includes the class notes
-* Please select one digital product that you like, and one that you dislike.
+* Please select one digital product that you like, and one that you dislike
   * consider their user interfaces and general design
     * why do you like or dislike these products?
     * what would you like to change?
     * are there features or aspects of similar products that could be incorporated within these products?
     * what is the design and development history for your chosen products?
-      * ie: can you trace a series of design compromises and improvements in previous models up to the current product release?
-  * an example of the above might be the design and development of the user interface for the Apple iPod, iPad, or iPhone...
-  * a website, mobile or desktop application &c. is also an acceptable product to consider and review
-  * this product review provides an initial opportunity to consider products and designs for your final course assessment
-  * add details for the above on the [Week 2 board](https://trello.com/b/GfuSKSTH/week-2)
-    * further instructions are available in the 'Analysis of Devices' list on the [Week 2 board](https://trello.com/b/GfuSKSTH/week-2)
+      * i.e. can you trace a series of design compromises and improvements in previous models up to the current product release?
+    * e.g. a website, mobile or desktop application, device specific UI (phone, camera...) &c. is an example product to consider and review
+  * add details for the above on the [Week 2 - Analysis of Devices](https://trello.com/b/H6YwnxAF/week-2-analysis-of-devices) board
+    * further instructions are available on the [Week 2 board](https://trello.com/b/H6YwnxAF/week-2-analysis-of-devices)
+
+This product review provides an initial opportunity to consider products and designs for your final course assessment.
 
 Any questions, please let me know.
-
--->
 
 #### Week 1 - 19th January 2017
 

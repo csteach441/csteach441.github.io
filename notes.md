@@ -56,10 +56,12 @@ This material will be updated on a weekly basis.
 
 ##### Week 3 - 4th February 2016
   * [course](/assets/docs/comp441-hci-week3.pdf)
-
-##### Week 2 - 28th January 2016
-  * [course](/assets/docs/comp441-hci-week2.pdf)
 -->
+
+##### Week 2 - 26th January 2017
+  * [course](/assets/docs/2017/comp441-week2.pdf)
+  * extra
+    * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
 
 ##### Week 1 - 19th January 2017
   * [course](/assets/docs/2017/comp441-week1.pdf)

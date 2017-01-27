@@ -22,11 +22,13 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
-<!--
 #### Articles / Papers
+
+<!--
 * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
-* [Microsoft's Metro Design](/assets/docs/Windows_Metro.PDF)
 -->
+
+* [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
 
 <!--
 #### Frameworks & Libraries - CSS, JS... (a few examples)
@@ -34,10 +36,10 @@ If you have any suggestions for additions to this section of the site, please fe
   * [D3](http://d3js.org/)
   * [Foundation](http://foundation.zurb.com/)
   * [Jekyll & Liquid](http://jekyllrb.com/docs/templates/)
-  * JQuery
-    * [JQuery](https://jquery.com/)
-    * [JQuery UI](http://jqueryui.com/)
-    * [JQuery Mobile](http://jquerymobile.com/)
+  * jQuery
+    * [jQuery](https://jquery.com/)
+    * [jQuery UI](http://jqueryui.com/)
+    * [jQuery Mobile](http://jquerymobile.com/)
   * [Pure CSS](http://purecss.io/)
   * [Skeleton](http://getskeleton.com/)
 
@@ -59,19 +61,22 @@ and choose your favourite.
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 -->
 
-<!--
 #### Various
   * NFL - [Colour Blindness](http://deadspin.com/stupid-nike-uniforms-wreaking-havoc-on-colorblind-nfl-f-1742272136)
--->
 
 #### Videos
+
 <!--
 * [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
 * [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
 * [Andi Bell explains the 'link method' memory technique](https://www.youtube.com/watch?v=9NROegsMqNc)
 * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
 * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
+-->
+
 * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
+
+<!--
 * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
 * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
 -->
@@ -88,7 +93,11 @@ and choose your favourite.
 
 <!--
 * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
+-->
+
 * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
+
+<!--
 * [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
 * [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)
 * [Super Mario Bros - Speed Run](https://www.youtube.com/watch?v=kcmKPmj9yeE)

@@ -82,14 +82,14 @@ There is no specific textbook for this course.
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
   * Miller, G. A. *The magical number seven, plus or minus two: Some limits on our capacity for processing information.*. Psychological Review, Vol. 63, Issue 2. PP. 81-97. 1956.
   * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
+-->
 
-###### Week 2 - 28th January 2016
+###### Week 2 - 26th January 2017
 
   * Wolfmaier T. *Designing for the color-challenged: A challenge.* ITG Publication. 1999.
   * Okabe, M. & Ito, K. *Color Universal Design (CUD) - How to make figures and presentations that are friendly to Colorblind people.* J*Fly. 2008. [http://jfly.iam.u-tokyo.ac.jp/color/](http://jfly.iam.u-tokyo.ac.jp/color/).
   * Waloszek, G. *Vision and visual disabilities: An introduction.* SAP Design Guild. 2005. (2012 Online)
     [https://experience.sap.com/archived/vision-and-visual-disabilities-an-introduction/](https://experience.sap.com/archived/vision-and-visual-disabilities-an-introduction/)
--->
 
 ##### Week 1 - 19th January 2017
 
