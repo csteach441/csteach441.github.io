@@ -318,8 +318,7 @@ Please create a separate list for your project on the above board. Then,
 Initial guidelines have been posted as a list on the above board. Any questions please [contact](/contact) me.
 
 #### Week 4 - 11th February 2016
-1) The following assignment is your first formal preparatory work towards the final course assessment, as
-detailed in the overall [coursework](/coursework) outline, no.2.
+1) The following assignment is your first formal preparatory work towards the final course assessment, as detailed in the overall [coursework](/coursework) outline, no.2.
 
 * Please prepare, either within your group or individually, a brief lightning presentation of approximately 5 minutes maximum. However, please try to keep it to 5 minutes or less.
 It should include the following information:
@@ -342,49 +341,37 @@ Please consider it useful practice for the final presentation.
 
 3) Please ensure you have read through all of the course [notes](/notes) for the first four weeks of the semester.
 
-#### Week 3 - 4th February 2016
+#### Week 4 - 9th February 2017
 * Review this week's [notes and material](/notes), which includes the class notes
-* Please ensure you have now added your group's details to the course's Trello group
-  * add group members, name &c. to the [Week 1 board](https://trello.com/b/xFQB0sss/week-1)
-  * further instructions are available in the 'Project Teams' list on the [Week 1 board](https://trello.com/b/xFQB0sss/week-1)
 * Please prepare for a quiz at the start of next week's class. This quiz will include the following:
   * material covered within the class [notes](/notes), weeks 1 to 3, and material discussed in class
   * multiple choice questions
-  * you will be given 45 minutes to complete the quiz in class
+  * you will be given ~ 40 minutes to complete the quiz in class
   * please ensure you have a registered Google account, which we'll use to complete the online form
   * please ensure you bring an internet enabled device to class
     * e.g. laptop, tablet, smartphone...
 
-Quiz URL = [http://goo.gl/forms/pi9Xcm7Hv3](http://goo.gl/forms/pi9Xcm7Hv3)
+Any questions, please let me know.
+
+Enjoy your week.
+
+-->
+
+#### Week 3 - 2nd February 2017
+* Review this week's [notes and material](/notes), which includes the class notes
+* Please ensure you have now added your group's details to the course's Trello group
+  * add group members, name &c. to the [Week 1 - Project Details](https://trello.com/b/V7vuLBPM/week-1-project-details)
+  * further instructions are available on the [Week 1 - Project Details](https://trello.com/b/V7vuLBPM/week-1-project-details)
+* Please answer the following questions on the [Week 3 - Problem Domain & Experience ](https://trello.com/b/BG5K2XKK/week-3-problem-domain-experience) board on Trello,
+  * can you identify the **problem domain** for one of your applications/products?
+  * can you think of any application interfaces with an **inherent assumption of experience**?
+  *  Is this **inherent assumption of experience** a strength or weakness of the application's design? &, why is it a strength or weakness?
+
+Further instructions are available on the [Week 3 - Problem Domain & Experience ](https://trello.com/b/BG5K2XKK/week-3-problem-domain-experience) board.
 
 Any questions, please let me know.
 
-#### Week 2 - 22nd January 2015
-* Review this week's [notes and material](/notes), which includes the class notes
-* Please select two digital products that you like, and two that you dislike.
-  * consider their user interfaces and general design
-    * why do you like or dislike these products?
-    * what would you like to change?
-    * are there features or aspects of similar products that could be incorporated within these products?
-    * what is the design and development history for your chosen products?
-      * i.e. can you trace a series of design compromises and improvements in previous models up to the current product release?
-
-An example of the above might be the design and development of the user interface for the Apple iPod, iPad, or iPhone.
-
-This product review provides an initial opportunity to consider products and designs for your final course assessment.
-
-I shall be creating a [Trello](https://trello.com/comp388441luc) board for this work. Please [contact me](mailto:nhayward@luc.edu?subject=Trello)
-by the end of Monday 26th January 2015 with your [Trello](https://trello.com/) username. If you are new to [Trello](https://trello.com/),
-you will need to register for their service.
-
-After receiving your Trello username, I will add you to the class organisation. Please post your product ideas, both
-good and bad, to the [Product Brainstorming](https://trello.com/comp388441luc) board by the end of Wednesday 28th January 2015.
-
-This Trello organisation is private, and only visible to those enrolled in this course.
-
-We will discuss these products during next week's class.
-
--->
+Enjoy your week.
 
 #### Week 2 - 26th January 2017
 * Review this week's [notes and material](/notes), which includes the class notes
@@ -402,6 +389,8 @@ We will discuss these products during next week's class.
 This product review provides an initial opportunity to consider products and designs for your final course assessment.
 
 Any questions, please let me know.
+
+Enjoy your week.
 
 #### Week 1 - 19th January 2017
 
@@ -435,3 +424,5 @@ I've now created a Trello group for this course, which is available at the follo
 I have also created a Slack group for this course, which is called **COMP 441 @ LUC**. I shall send an invite to this group to each member of the class. Please accept this invite as soon as possible. We shall be using Slack for class-wide communication, announcements, and discussions.
 -->
 Any questions, please let me know.
+
+Enjoy your week.

@@ -29,6 +29,7 @@ If you have any suggestions for additions to this section of the site, please fe
 -->
 
 * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
+* [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
 
 <!--
 #### Frameworks & Libraries - CSS, JS... (a few examples)
@@ -66,22 +67,20 @@ and choose your favourite.
 
 #### Videos
 
-<!--
 * [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
+
+<!--
 * [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
 * [Andi Bell explains the 'link method' memory technique](https://www.youtube.com/watch?v=9NROegsMqNc)
 * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
 * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
--->
-
-* [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
-
-<!--
 * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
 * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
 -->
 
+* [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
+* [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
 
 <!--
 * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
@@ -99,9 +98,11 @@ and choose your favourite.
 
 <!--
 * [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
+-->
 * [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)
 * [Super Mario Bros - Speed Run](https://www.youtube.com/watch?v=kcmKPmj9yeE)
 
+<!--
 * TED Talks
   * [Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
   * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
@@ -129,6 +130,7 @@ and choose your favourite.
 -->
 
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
+* Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
 
 <!--
 * [usability.gov](http://www.usability.gov/)
