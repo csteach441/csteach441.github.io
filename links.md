@@ -24,12 +24,18 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Articles / Papers
 
+* [Colour](https://robots.thoughtbot.com/color)
+* [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
+* [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
+* [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
+
 <!--
 * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
 -->
 
 * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
 * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
+* [Understimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
 <!--
 #### Frameworks & Libraries - CSS, JS... (a few examples)
@@ -101,14 +107,16 @@ and choose your favourite.
 -->
 * [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)
 * [Super Mario Bros - Speed Run](https://www.youtube.com/watch?v=kcmKPmj9yeE)
+* [Super Mario Run](https://www.youtube.com/watch?v=rKG5jU6DV70)
 
 <!--
 * TED Talks
   * [Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
   * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
 * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
-* [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
 -->
+
+* [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
 
 #### Websites
 

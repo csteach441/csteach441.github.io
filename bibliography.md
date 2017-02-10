@@ -74,12 +74,12 @@ There is no specific textbook for this course.
 
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
 
-###### Week 4 - 11th February 2016
+-->
+
+###### Week 4 - 9th February 2017
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction*. Lawrence Erlbaum Associates. 1983.
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
   * Miller, G. A. *The magical number seven, plus or minus two: Some limits on our capacity for processing information.*. Psychological Review, Vol. 63, Issue 2. PP. 81-97. 1956.
-
--->
 
 ###### Week 3 - 2nd February 2017
 
