@@ -317,10 +317,14 @@ Please create a separate list for your project on the above board. Then,
 
 Initial guidelines have been posted as a list on the above board. Any questions please [contact](/contact) me.
 
+-->
+
 #### Week 5 - 16th February 2017
 * Review this week's [notes and material](/notes), which includes the class notes
-* Please prepare for a quiz at the start of next week's class. This quiz will include the following:
-  * material covered within the class [notes](/notes), weeks 1 to 3, and material discussed in class
+* Please send me a copy of your slides &c., where applicable, for this week's presentation
+    * an attachment to an email, private message on Slack, or shared online will be fine
+* Please prepare for a quiz at the end of next week's class. This quiz will include the following:
+  * material covered within the class [notes](/notes), weeks 1 to 4, and material discussed in class
   * multiple choice questions
   * you will be given ~ 40 minutes to complete the quiz in class
   * please ensure you have a registered Google account, which we'll use to complete the online form
@@ -330,8 +334,6 @@ Initial guidelines have been posted as a list on the above board. Any questions 
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 #### Week 4 - 9th February 2017
 1) The following assignment is your first formal in-class preparatory work towards the final course assessment, as detailed in the overall [coursework](/coursework) outline, no.2.

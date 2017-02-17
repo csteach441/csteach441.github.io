@@ -70,11 +70,12 @@ There is no specific textbook for this course.
   * Prensky, M. *Digital game-based learning.* McGraw-Hill. P.17. 2001.
   * Van Eck, R.N. *Digital game-based learning.* Educause Review 41. PP.17-30. 2006.
 
-###### Week 5 - 18th February 2016
+-->
+
+###### Week 5 - 16th February 2017
 
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
-
--->
+  * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
 
 ###### Week 4 - 9th February 2017
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction*. Lawrence Erlbaum Associates. 1983.
