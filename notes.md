@@ -45,10 +45,10 @@ This material will be updated on a weekly basis.
 ##### Week 7 - 3rd March 2016
   * [course](/assets/docs/comp441-hci-week7.pdf)
 
-##### Week 6 - 25th February 2016
-  * [course](/assets/docs/comp441-hci-week6.pdf)
-
 -->
+
+##### Week 6 - 23rd February 2017
+  * [course](/assets/docs/2017/comp441-week6.pdf)
 
 ##### Week 5 - 16th February 2017
   * [course](/assets/docs/2017/comp441-week5.pdf)

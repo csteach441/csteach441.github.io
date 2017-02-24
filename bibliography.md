@@ -58,19 +58,14 @@ There is no specific textbook for this course.
   * Nielsen, J. and Pernice, K. *Eyetracking web usability.* New Riders. 2009.
   * Wertheimer, M. *Laws of Organisation in Perceptual Forms.* 1923.
 
-###### Week 6 - 25th February 2016
+-->
+
+###### Week 6 - 23rd February 2017
 
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction*. Lawrence Erlbaum Associates. 1983.
-  * Carstens, A., and Beck, J. *Get ready for the gamer generation.* Tech Trends 49. PP.22-25. 2005.
-  * Hays, R.T. *The effectiveness of instructional games: A literature review and discussion.* Technical Report 2005-004. Washington. 2005.
   * Holleis, P. et al. *Keystroke-level model for advanced mobile phone interaction.* CHI' 07. New York, USA. 2007.
-  * Issenberg, S.B., McGaghie, W.C., Petrusa, E.R., Gordon, D.L., and Scalese, R.J. 2005. *Features and uses of high fidelity medical simulations that lead to effective learning.* Medical Teacher 27. PP. 10-29.
-  * Kieras, D. *Using the Keystroke-Level Model to Estimate Execution Times." 1993. [http://courses.wccnet.edu/~jwithrow/docs/klm.pdf](http://courses.wccnet.edu/~jwithrow/docs/klm.pdf)
+  * Kieras, D. *Using the Keystroke-Level Model to Estimate Execution Times.* 1993. [http://courses.wccnet.edu/~jwithrow/docs/klm.pdf](http://courses.wccnet.edu/~jwithrow/docs/klm.pdf)
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
-  * Prensky, M. *Digital game-based learning.* McGraw-Hill. P.17. 2001.
-  * Van Eck, R.N. *Digital game-based learning.* Educause Review 41. PP.17-30. 2006.
-
--->
 
 ###### Week 5 - 16th February 2017
 
