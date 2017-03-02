@@ -47,6 +47,10 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 7 - 2nd March 2017
+  * extra
+    * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
+
 ##### Week 6 - 23rd February 2017
   * [course](/assets/docs/2017/comp441-week6.pdf)
 

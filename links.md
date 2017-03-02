@@ -33,7 +33,6 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
 * [Understimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
-<!--
 #### Frameworks & Libraries - CSS, JS... (a few examples)
   * [Bootstrap](http://getbootstrap.com/)
   * [D3](http://d3js.org/)
@@ -48,7 +47,6 @@ If you have any suggestions for additions to this section of the site, please fe
 
 **NB:** there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8)
 and choose your favourite.
--->
 
 #### Mockup and Prototype Tools - a few examples
   * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)

@@ -52,7 +52,7 @@ There is no specific textbook for this course.
   * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
 
 
-###### Week 7 - 3rd March 2016
+###### Week 9 - 16th March 2017
 
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
   * Nielsen, J. and Pernice, K. *Eyetracking web usability.* New Riders. 2009.
@@ -60,28 +60,33 @@ There is no specific textbook for this course.
 
 -->
 
-###### Week 6 - 23rd February 2017
+##### Week 7 - 2nd March 2017
+
+  * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
+  * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
+
+##### Week 6 - 23rd February 2017
 
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction*. Lawrence Erlbaum Associates. 1983.
   * Holleis, P. et al. *Keystroke-level model for advanced mobile phone interaction.* CHI' 07. New York, USA. 2007.
   * Kieras, D. *Using the Keystroke-Level Model to Estimate Execution Times.* 1993. [http://courses.wccnet.edu/~jwithrow/docs/klm.pdf](http://courses.wccnet.edu/~jwithrow/docs/klm.pdf)
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
 
-###### Week 5 - 16th February 2017
+##### Week 5 - 16th February 2017
 
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
   * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
 
-###### Week 4 - 9th February 2017
+##### Week 4 - 9th February 2017
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction*. Lawrence Erlbaum Associates. 1983.
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
   * Miller, G. A. *The magical number seven, plus or minus two: Some limits on our capacity for processing information.*. Psychological Review, Vol. 63, Issue 2. PP. 81-97. 1956.
 
-###### Week 3 - 2nd February 2017
+##### Week 3 - 2nd February 2017
 
   * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
 
-###### Week 2 - 26th January 2017
+##### Week 2 - 26th January 2017
 
   * Wolfmaier T. *Designing for the color-challenged: A challenge.* ITG Publication. 1999.
   * Okabe, M. & Ito, K. *Color Universal Design (CUD) - How to make figures and presentations that are friendly to Colorblind people.* J*Fly. 2008. [http://jfly.iam.u-tokyo.ac.jp/color/](http://jfly.iam.u-tokyo.ac.jp/color/).
