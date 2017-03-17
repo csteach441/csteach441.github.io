@@ -50,15 +50,16 @@ There is no specific textbook for this course.
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
   * Cooper, A. et al. *About Face 3: The essentials of interaction design.* Wiley. 2007.
   * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
-
+-->
 
 ###### Week 9 - 16th March 2017
 
-  * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
+  * Carstens, A., and Beck, J. *Get ready for the gamer generation.* Tech Trends 49. PP.22-25. 2005.
+  * Hays, R.T. *The effectiveness of instructional games: A literature review and discussion.* Technical Report 2005-004. Washington. 2005.
+  * Issenberg, S.B., McGaghie, W.C., Petrusa, E.R., Gordon, D.L., and Scalese, R.J. 2005. *Features and uses of high fidelity medical simulations that lead to effective learning.* Medical Teacher 27. PP. 10-29.
   * Nielsen, J. and Pernice, K. *Eyetracking web usability.* New Riders. 2009.
-  * Wertheimer, M. *Laws of Organisation in Perceptual Forms.* 1923.
-
--->
+  * Prensky, M. *Digital game-based learning.* McGraw-Hill. P.17. 2001.
+  * Van Eck, R.N. *Digital game-based learning.* Educause Review 41. PP.17-30. 2006.
 
 ##### Week 7 - 2nd March 2017
 

@@ -254,13 +254,21 @@ Enjoy your week.
   * please ensure you bring an internet enabled device to class
     * e.g. laptop, tablet, smartphone...
 
+
+* does the design and layout follow a prescribed pattern, such as a standard Z or F pattern down the page?
+* does this page &c. adhere to the *Laws of Gestalt*?
+  * which laws, and how?
+  * outline examples for each applicable law within your chosen page &c.
+
 Any questions please [contact](/contact) me.
 
 Enjoy your Easter break.
 
 Quiz URL = []()
 
-#### Week 7 - 3rd March 2016
+-->
+
+#### Week 9 - 16th March 2017
 1) Please review this week's [notes and material](/notes).
 
 2) Relative to your chosen project for the final assessment, please consider and define the following,
@@ -272,19 +280,13 @@ Quiz URL = []()
   * choose a page, window, frame &c. from your original or new product - one that demonstrates example content and usage
     * consider default patterns a user might follow within this page &c.
       * e.g. which zones, content, links &c. are most prevalent within that page &c.
-      * does the design and layout follow a prescribed pattern, such as a standard Z or F pattern down the page?
-    * does this page &c. adhere to the *Laws of Gestalt*?
-      * which laws, and how?
-      * outline examples for each applicable law within your chosen page &c.
   * Please add a copy of this material to the following Trello board,
-    * [Week 7 - Patterns & Laws](https://trello.com/b/ep4UqSAj/week-7-patterns-laws)
+    * [Week 9 - Patterns](https://trello.com/b/AA0qHLSn/week-9-patterns)
      * instructions for this exercise are also available on the above Trello board
 
-Initial guidelines have been posted as a list on the above board. Any questions please [contact](/contact) me.
+Any questions, please [contact](/contact) me.
 
-Enjoy your Spring Break.
-
--->
+Enjoy your week.
 
 #### Week 7 - 3rd March 2016
 1) Please review this week's [notes and material](/notes), which includes the following extra document
