@@ -44,15 +44,16 @@ There is no specific textbook for this course.
 ###### Week 11 - 31st March 2016
 
   * Robinson, W.L. *Conscious competency - the mark of a competent instructor.* Personnel Journal, 53. PP. 538-9. 1974.
-
-###### Week 9 - 17th March 2016
-
-  * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
-  * Cooper, A. et al. *About Face 3: The essentials of interaction design.* Wiley. 2007.
-  * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
 -->
 
-###### Week 9 - 16th March 2017
+##### Week 10 - 23rd March 2017
+
+  * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
+  * Robinson, W.L. *Conscious competency - the mark of a competent instructor.* Personnel Journal, 53. PP. 538-9. 1974.
+  * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
+  * Wertheimer, M. *Laws of Organisation in Perceptual Forms.* 1923.
+
+##### Week 9 - 16th March 2017
 
   * Carstens, A., and Beck, J. *Get ready for the gamer generation.* Tech Trends 49. PP.22-25. 2005.
   * Hays, R.T. *The effectiveness of instructional games: A literature review and discussion.* Technical Report 2005-004. Washington. 2005.

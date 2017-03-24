@@ -66,36 +66,27 @@ and choose your favourite.
 #### Videos
 
 * [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
-
-<!--
 * [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
--->
-
 * [Andi Bell explains the 'link method' memory technique](https://www.youtube.com/watch?v=9NROegsMqNc)
 * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
 * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
+* [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
 
 <!--
-* [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
 * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
 -->
 
 * [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
 * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
-
-<!--
 * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
+<!--
 * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
 * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
 -->
 
 * [Milton Glaser](http://vimeo.com/11577085)
-
-<!--
 * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
--->
-
 * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
 * [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
 * [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)

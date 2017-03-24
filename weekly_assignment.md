@@ -245,34 +245,32 @@ Initial guidelines have been posted as a list on the above board. Any questions 
 
 Enjoy your week.
 
-#### Week 9 - 17th March 2016
-* Please prepare for a quiz during our next class on Thursday 31st march 2016. This quiz will include the following:
-  * material covered within the class [notes](/notes), weeks 4, 6, 7, and 9 inclusive
-  * multiple choice questions
-  * you will be given at least 45 minutes to complete this quiz in class
-  * please ensure you have a registered Google account, which we'll use to complete the online form
-  * please ensure you bring an internet enabled device to class
-    * e.g. laptop, tablet, smartphone...
-
-
 * does the design and layout follow a prescribed pattern, such as a standard Z or F pattern down the page?
 * does this page &c. adhere to the *Laws of Gestalt*?
   * which laws, and how?
   * outline examples for each applicable law within your chosen page &c.
 
-Any questions please [contact](/contact) me.
-
-Enjoy your Easter break.
-
-Quiz URL = []()
-
 -->
 
+#### Week 10 - 23rd March 2017
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Please prepare for a quiz during our next class on Thursday 30th March 2017. This quiz will include the following:
+  * material covered within the class [notes](/notes), weeks 5, 6, 7, 9, and 10 inclusive
+  * multiple choice questions
+  * you will be given at least 40 minutes to complete this quiz in class
+  * please ensure you have a registered Google account, which we'll use to complete the online form
+  * please ensure you bring an internet enabled device to class
+    * e.g. laptop, tablet, smartphone...
+
+Any questions please [contact](/contact) me.
+
+Enjoy your week.
+
 #### Week 9 - 16th March 2017
-1) Please review this week's [notes and material](/notes).
-
-2) Relative to your chosen project for the final assessment, please consider and define the following,
-
+* Review this week's [notes and material](/notes).
+* Review this week's [bibliography](/bibliography) links and material
+* Relative to your chosen project for the final assessment, please consider and define the following,
   * any tutorial material that would benefit a user of your project's product, website, service &c..
     * consider the aspects of your new design that should be included in a tutorial
     * can this tutorial be improved with the use of *gamification*?
@@ -289,12 +287,10 @@ Any questions, please [contact](/contact) me.
 Enjoy your week.
 
 #### Week 7 - 3rd March 2016
-1) Please review this week's [notes and material](/notes), which includes the following extra document
-
+* Review this week's [notes and material](/notes), which includes the following extra document
   * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
-
-2) Relative to your chosen project for the final assessment, please consider the following
-
+* Review this week's [bibliography](/bibliography) links and material
+* Relative to your chosen project for the final assessment, please consider the following
   * start to design and prepare a mockup for your design
     * a single page, screen or place within your project
     * e.g. updated home page, user account screen, section of a level in a game, &c.
@@ -308,10 +304,9 @@ Any questions, please let me know.
 Enjoy your Spring Break.
 
 #### Week 6 - 23rd February 2017
-1) Please review this week's [notes and material](/notes), in particular the material concerning the KLM-GOMS model.
-
-2) Relative to your chosen project for the final assessment, please consider and define the following,
-
+* Review this week's [notes and material](/notes), in particular the material concerning the KLM-GOMS model.
+* Review this week's [bibliography](/bibliography) links and material
+* Relative to your chosen project for the final assessment, please consider and define the following,
   * the primary, default functionality for your project's product, website, service &c..
     * in effect, your project's 'big, green button'
   * test user interaction with this defined primary, default functionality using the KLM-GOMS model
@@ -343,15 +338,13 @@ Any questions, please let me know.
 Enjoy your week.
 
 #### Week 4 - 9th February 2017
-1) The following assignment is your first formal in-class preparatory work towards the final course assessment, as detailed in the overall [coursework](/coursework) outline, no.2.
-
-* Please prepare, either within your group or individually, a brief lightning presentation of approximately 5 minutes maximum.
-It should include the following information:
-  * brief outline of your initial concept/concepts for the final assessment
-  * what is good and bad with the current interface?
-    * in particular, consider this with regard to material we have covered over the first four weeks of the semester
-  * initial thoughts on aspects you'd like to improve and modify for your final assessment
-  * brief comments on proposed development plan up to the end of Spring break of the current semester
+* The following assignment is your first formal in-class preparatory work towards the final course assessment, as detailed in the overall [coursework](/coursework) outline, no.2.
+  * Please prepare, either within your group or individually, a brief lightning presentation of approximately 5 minutes maximum. It should include the following information:
+    * brief outline of your initial concept/concepts for the final assessment
+    * what is good and bad with the current interface?
+      * in particular, consider this with regard to material we have covered over the first four weeks of the semester
+    * initial thoughts on aspects you'd like to improve and modify for your final assessment
+    * brief comments on proposed development plan up to the end of Spring break of the current semester
 
 Presentations will be scheduled for the start of next week's class, which begins at 7pm on Thursday 16th February 2017.
 
@@ -359,7 +352,7 @@ Presentations will be scheduled for the start of next week's class, which begins
 
 Please consider it useful practice for the final presentation.
 
-2) Please ensure you have read through all of the course [notes](/notes) for the first four weeks of the semester.
+* Ensure you have read through all of the course [notes](/notes) for the first four weeks of the semester.
 
 Any questions, please let me know.
 

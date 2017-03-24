@@ -36,10 +36,10 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/comp441-hci-week12.pdf)
   * [extra - design mockups](/assets/docs/comp441-hci-design-mockups.pdf)
 
-##### Week 11 - 31st March 2016
-  * [course](/assets/docs/comp441-hci-week11.pdf)
-
 -->
+
+##### Week 10 - 23rd March 2017
+  * [course](/assets/docs/2017/comp441-week10.pdf)
 
 ##### Week 9 - 16th March 2017
   * [course](/assets/docs/2017/comp441-week9.pdf)
