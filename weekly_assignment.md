@@ -226,11 +226,7 @@ Initial guidelines have been posted as a list on the above board. Any questions 
 
 Enjoy your week.
 
-#### Week 11 - 31st March 2016
-1) Please review this week's [notes and material](/notes).
-
-2) Relative to your chosen project for the final assessment, please consider and define the following,
-
+week 12...
   * how you intend to encourage a user's competence relative to your application?
     * e.g. consider the Robinson model of competence, and the various stages
   * how will visibility be integrated within your application to aid user feedback?
@@ -241,16 +237,23 @@ Enjoy your week.
     * [Week 11 - Constraints & Feedback](https://trello.com/b/L3CX8rdo/week-11-constraints-and-feedback)
     * instructions for this exercise are also available on the above Trello board
 
-Initial guidelines have been posted as a list on the above board. Any questions please [contact](/contact) me.
-
-Enjoy your week.
-
-* does the design and layout follow a prescribed pattern, such as a standard Z or F pattern down the page?
-* does this page &c. adhere to the *Laws of Gestalt*?
-  * which laws, and how?
-  * outline examples for each applicable law within your chosen page &c.
 
 -->
+
+#### Week 11 - 30th March 2017
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Relative to your chosen project for the final assessment, please consider and define the following,
+    * does the updated or new application adhere to the *Laws of Gestalt*?
+        * which laws, and how?
+        * outline examples for each applicable law within an example chosen page &c.
+    * Please add a copy of this material to the following Trello board,
+        * [Week 11 - Gestalt](https://trello.com/b/dXqPQHzb/week-11-gestalt)
+        * instructions for this exercise are also available on the above Trello board
+
+Any questions please [contact](/contact) me.
+
+Enjoy your week.
 
 #### Week 10 - 23rd March 2017
 * Review this week's [notes and material](/notes), which includes the class notes
@@ -313,9 +316,9 @@ Enjoy your Spring Break.
     * please refer to the KLM-GOMS model as defined in this week's notes
       * use the example listed in this week's notes as a guide to test your own project's product
       * test the original product, where applicable, and then consider how this might be improved in your new design
-    * Please add a copy of this material to the following Trello board,
-      * [Week 6 - Initial Testing](https://trello.com/b/67o9uX2e/week-6-initial-testing)
-       * instructions for this exercise are also available on the above Trello board
+  * Please add a copy of this material to the following Trello board,
+    * [Week 6 - Initial Testing](https://trello.com/b/67o9uX2e/week-6-initial-testing)
+    * instructions for this exercise are also available on the above Trello board
 
 Any questions please let me know.
 
