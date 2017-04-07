@@ -71,11 +71,7 @@ and choose your favourite.
 * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
 * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
 * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
-
-<!--
 * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
--->
-
 * [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
 * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)

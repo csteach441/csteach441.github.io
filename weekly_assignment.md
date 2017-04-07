@@ -205,26 +205,13 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 12 - 7th April 2016
-1) Please review this week's [notes and material](/notes), including the following extra notes,
-
-  * [extra - design mockups](/assets/docs/comp441-hci-design-mockups.pdf)
-
-2) Relative to your chosen project for the final assessment, please consider and define the following,
-
-  * consider and outline your application's **interaction concepts** and in particular its required **interaction styles**
+week12 - old 
+  * Relative to your chosen project for the final assessment, please consider and define the following,
+  * consider and outline your application's **interaction concepts**
+    * in particular its required **interaction styles**
   * outline your initial **information architecture** for your application. In particular, consider the following
     * naming scheme and glossary
     * navigation and places
-    * navigation mechanisms
-    * presentation of places
-  * Please add a copy of this material to the following Trello board,
-    * [Week 12 - Interaction & Information](https://trello.com/b/W5YXGmK1/week-12-interaction-information)
-    * instructions for this exercise are also available on the above Trello board
-
-Initial guidelines have been posted as a list on the above board. Any questions please [contact](/contact) me.
-
-Enjoy your week.
 
 week 12...
   * how you intend to encourage a user's competence relative to your application?
@@ -239,6 +226,22 @@ week 12...
 
 
 -->
+
+#### Week 12 - 6th April 2017
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Relative to your chosen project for the final assessment, please consider and define the following,
+  * how will visibility be integrated within your application to aid user feedback?
+  * what is the role of affordance relative to feedback within your application?
+    * consider both **activational** and **behavioural** feedback
+  * how will you use constraints within your UI?
+  * Please add a copy of this material to the following Trello board,
+    * [Week 12 - Constraints & Feedback](https://trello.com/b/K3YDVWpF/week-12-interaction-information)
+    * instructions for this exercise are also available on the above Trello board
+
+Any questions please [contact](/contact) me.
+
+Enjoy your week.
 
 #### Week 11 - 30th March 2017
 * Review this week's [notes and material](/notes), which includes the class notes

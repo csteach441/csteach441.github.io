@@ -36,12 +36,12 @@ There is no specific textbook for this course.
   * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
   * Tyldesley, D.A. *Employing usability engineering in the development of office products.* Computer Journal, Vol. 31. No. 5, PP. 431-436. 1988.
 
-###### Week 12 - 7th April 2016
+-->
+
+###### Week 12 - 6th April 2017
 
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
   * Cooper, A. et al. *About Face 3: The essentials of interaction design.* Wiley. 2007.
-
--->
 
 ###### Week 11 - 30th March 2017
 

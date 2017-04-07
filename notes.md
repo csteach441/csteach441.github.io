@@ -32,11 +32,10 @@ This material will be updated on a weekly basis.
   * [extra - Final Report Outline](/assets/docs/comp441-hci-final-report-outline.pdf)
   * [extra - Windows Metro](/assets/docs/Windows_Metro.PDF)
 
-##### Week 12 - 7th April 2016
-  * [course](/assets/docs/comp441-hci-week12.pdf)
-  * [extra - design mockups](/assets/docs/comp441-hci-design-mockups.pdf)
-
 -->
+
+##### Week 12 - 6th April 2017
+  * [course](/assets/docs/2017/comp441-week12.pdf)
 
 ##### Week 11 - 30th March 2017
   * [course](/assets/docs/2017/comp441-week11.pdf)
