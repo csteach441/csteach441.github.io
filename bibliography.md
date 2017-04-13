@@ -38,6 +38,10 @@ There is no specific textbook for this course.
 
 -->
 
+###### Week 13 - 13th April 2017
+
+  * N/A
+
 ###### Week 12 - 6th April 2017
 
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.

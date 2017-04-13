@@ -224,8 +224,22 @@ week 12...
     * [Week 11 - Constraints & Feedback](https://trello.com/b/L3CX8rdo/week-11-constraints-and-feedback)
     * instructions for this exercise are also available on the above Trello board
 
-
 -->
+
+#### Week 13 - 13th April 2017
+* Review this week's [notes and material](/notes), which includes the following extra notes
+  * [final report outline](/assets/docs/2017/final-report-outline-2017.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Relative to your chosen project for the final assessment, please consider and define the following,
+  * how you intend to encourage a user's competence relative to your application?
+    * e.g. consider the Robinson model of competence, and the various stages
+  * Please add a copy of this material to the following Trello board,
+    * [Week 13 - Competence](https://trello.com/b/HIALiFn0/week-13-competence)
+    * instructions for this exercise are also available on the above Trello board
+
+Any questions please [contact](/contact) me.
+
+Enjoy your week, and Happy Easter.
 
 #### Week 12 - 6th April 2017
 * Review this week's [notes and material](/notes), which includes the class notes
