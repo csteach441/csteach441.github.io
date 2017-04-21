@@ -76,11 +76,8 @@ and choose your favourite.
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
 * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
 * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
-<!--
 * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
 * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
--->
-
 * [Milton Glaser](http://vimeo.com/11577085)
 * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
 * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)

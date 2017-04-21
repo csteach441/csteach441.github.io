@@ -226,6 +226,24 @@ week 12...
 
 -->
 
+#### Week 14 - 20th April 2017
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * [final report outline](/assets/docs/2017/final-report-outline-2017.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Please prepare your project's final presentation for next week's class, Thursday 27th April 2017 at 7pm.
+  * each group presentation should be approximately 10 minutes in length
+  * style of presentation may include a formal presentation (slides &c.), online demo or video demonstration
+    * or a combination of the above options
+  * where possible, each member should contribute to the presentation
+  * your presentation should consider the pertinent aspects outlined in the [Final Report Outline](/assets/docs/2017/final-report-outline-2017.pdf)
+    * each presentation will be an opportunity to condense this information for demonstration purposes
+
+If there are any specific software or hardware requirements for this presentation, please let me know before the start of next week's class.
+
+Any questions please let me know.
+
+Enjoy your week.
+
 #### Week 13 - 13th April 2017
 * Review this week's [notes and material](/notes), which includes the following extra notes
   * [final report outline](/assets/docs/2017/final-report-outline-2017.pdf)

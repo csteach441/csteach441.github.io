@@ -25,29 +25,24 @@ There is no specific textbook for this course.
 
   * N/A
 
-###### Week 14 - 21st April 2016
-
-  * Nielsen, J. *Heuristic evaluation.* Usability inspection methods. New York. John Wiley and Sons. P. 30. 1994.
-  * Wharton, C. et al. *The cognitive walkthrough method: A practitioner's guide.* Usability inspection methods. New York. John Wiley and Sons. PP. 105-140. 1994.
-
-###### Week 13 - 14th April 2016
-
-  * Robinson, W.L. *Conscious competency - the mark of a competent instructor.* Personnel Journal, 53. PP. 538-9. 1974.
-  * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
-  * Tyldesley, D.A. *Employing usability engineering in the development of office products.* Computer Journal, Vol. 31. No. 5, PP. 431-436. 1988.
-
 -->
 
-###### Week 13 - 13th April 2017
+##### Week 14 - 20th April 2017
+
+  * Nielsen, J. *Heuristic evaluation.* Usability inspection methods. New York. John Wiley and Sons. P. 30. 1994.
+  * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
+  * Wharton, C. et al. *The cognitive walkthrough method: A practitioner's guide.* Usability inspection methods. New York. John Wiley and Sons. PP. 105-140. 1994.
+
+##### Week 13 - 13th April 2017
 
   * N/A
 
-###### Week 12 - 6th April 2017
+##### Week 12 - 6th April 2017
 
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
   * Cooper, A. et al. *About Face 3: The essentials of interaction design.* Wiley. 2007.
 
-###### Week 11 - 30th March 2017
+##### Week 11 - 30th March 2017
 
   * Robinson, W.L. *Conscious competency - the mark of a competent instructor.* Personnel Journal, 53. PP. 538-9. 1974.
 
