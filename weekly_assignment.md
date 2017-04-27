@@ -205,7 +205,7 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-week12 - old 
+week12 - old
   * Relative to your chosen project for the final assessment, please consider and define the following,
   * consider and outline your application's **interaction concepts**
     * in particular its required **interaction styles**
@@ -225,6 +225,25 @@ week 12...
     * instructions for this exercise are also available on the above Trello board
 
 -->
+
+#### Week 15 - 27th April 2017
+
+* Please complete your group's final project report
+  * suggested report length between 5 and 10 pages
+* Further details can be found in the following outline
+  * [final report outline](/assets/docs/2017/final-report-outline-2017.pdf)
+* Report must be submitted by 7pm on Thursday 4th May 2017
+   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP441 - Final Report)
+* Please share with me a copy of your group's final project material. This may include the following options,
+  * GitHub or Bitbucket
+  * zip file containing project material
+  * other sharing service, including Google Drive, Dropbox, Box...
+
+**NB:** Don't forget to add details of each member's contributions to the project, where applicable, in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP441 - Individual Final Report)
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 #### Week 14 - 20th April 2017
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
