@@ -12,12 +12,13 @@ published: true
 summary: course notes and material for COMP 441
 ---
 
-Course notes and material will be added to this page during the Spring semester.
+Course notes and material will be added to this page during the semester.
 
 This material will be updated on a weekly basis.
 
 ***
 
+<!--
 ##### Week 15 - 27th April 2017
   * extra - final report
     * [final report outline](/assets/docs/2017/final-report-outline-2017.pdf)
@@ -63,6 +64,7 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2017/comp441-week2.pdf)
   * extra
     * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
+-->
 
-##### Week 1 - 19th January 2017
-  * [course](/assets/docs/2017/comp441-week1.pdf)
+##### Week 1 - 17th January 2018
+  * [course](/assets/docs/2018/Comp441-week1.pdf)

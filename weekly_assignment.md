@@ -224,8 +224,6 @@ week 12...
     * [Week 11 - Constraints & Feedback](https://trello.com/b/L3CX8rdo/week-11-constraints-and-feedback)
     * instructions for this exercise are also available on the above Trello board
 
--->
-
 #### Week 15 - 27th April 2017
 
 * Please complete your group's final project report
@@ -450,7 +448,9 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 1 - 19th January 2017
+-->
+
+#### Week 1 - 17th January 2018
 
 * Review this week's [notes and material](/notes), which includes the class notes
 * Research and review the work of graphic designer, Milton Glaser
@@ -460,27 +460,37 @@ Enjoy your week.
 * Start keeping a record of any notes, images, snippets &c. that you find interesting each week
   * these may include different examples of typography, logos, billboards, colour designs and usage, adverts, and so on...
   * effectively, any art, graphic design &c. that catches your eye, and may later serve as a useful influence for design
-  * you'll find these notes &c. very useful for future reference during the course. They will also help explain some of your design choices and decisions relative to the final project assessment
-* Please start to add your group's project details to the course's Trello group
-  * add group members, name &c. to the [Week 1 - Project Details](https://trello.com/b/V7vuLBPM/week-1-project-details) board
-  * instructions are available on the [Week 1 board](https://trello.com/b/V7vuLBPM/week-1-project-details)
-  * please send me your Trello username, which I may then add to the course's group
-    * **n.b.** this is required to view and post to the course's Trello group
+  * you'll find these notes &c. very useful for future reference during the course - they will also help explain some of your design choices and decisions relative to the final project assessment
+* Add your initial Project details to the course's Trello group, on the board [Week 1 - Project Details](https://trello.com/b/vt6nLjvb/week-1-project-details)
+  * project name
+  * the full name of each team member (and a preferred name)
+  * any ideas you are currently considering for this project work
+  * level of experience with HTML, CSS, JS...
 
+Please read the instructions available on the board, and then create a new list for your project group.
 
 ##### Trello group
 I've now created a Trello group for this course, which is available at the following URL,
 
-  * [https://trello.com/comp4412017luc](https://trello.com/comp4412017luc)
+  * [COMP 441 - Spring 2018 @ LUC](https://trello.com/csteach441)
 
-**NB:** Please [email me](mailto:nhayward@luc.edu?subject=COMP441 Trello Username) with your Trello username. If you do not currently have a Trello username, you'll need to register at the following URL,
+**n.b.** Please add your Trello username to the following spreadsheet,
+
+  * [COMP 441 - Trello Signup](https://docs.google.com/spreadsheets/d/1oQ_13KIkS2CtJ2psWR2Yj3J5PZHNs7RZ4g8RHUojFAc/edit?usp=sharing)
+
+If you do not currently have a Trello username, you'll need to register at the following URL,
 
 * Trello - [Signup](https://trello.com/signup)
 
-<!--
 ##### Slack group
-I have also created a Slack group for this course, which is called **COMP 441 @ LUC**. I shall send an invite to this group to each member of the class. Please accept this invite as soon as possible. We shall be using Slack for class-wide communication, announcements, and discussions.
--->
+I've also created a Slack group for this course, which is called **COMP 441 - Spring 2018 @ LUC**.
+
+Invite link for this group is as follows,
+
+  * [COMP 441 - Spring 2018 @ LUC](https://join.slack.com/t/csteach441/shared_invite/enQtMjk5NTYzODQ1NzMxLTYyOTc1MWI4Y2ZlYjJkOTYzODYxMWU2NGJkNDM1NWUyMjM0YWI2NGM2ZTA2MWI0NGU5NjEyNmIyNzhjZTNiN2U)
+
+Please accept this invite as soon as possible. We shall be using Slack for class-wide communication, announcements, and discussions.
+
 Any questions, please let me know.
 
 Enjoy your week.

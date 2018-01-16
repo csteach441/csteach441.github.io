@@ -12,7 +12,7 @@ published: true
 summary: course bibliography and references for COMP 441
 ---
 
-The course bibliography will be updated on a weekly basis with suggested reading, which will reflect each week's course notes and lecture.
+The course *bibliography & references* will be updated on a weekly basis with suggested reading, which will reflect each week's course notes and lecture.
 
 References will be cited at the end of each week's notes.
 
@@ -21,12 +21,6 @@ There is no specific textbook for this course.
 ***
 
 <!--
-###### Week 15 - 28th April 2016
-
-  * N/A
-
--->
-
 ##### Week 15 - 27th April 2017
 
   * N/A
@@ -97,8 +91,9 @@ There is no specific textbook for this course.
   * Okabe, M. & Ito, K. *Color Universal Design (CUD) - How to make figures and presentations that are friendly to Colorblind people.* J*Fly. 2008. [http://jfly.iam.u-tokyo.ac.jp/color/](http://jfly.iam.u-tokyo.ac.jp/color/).
   * Waloszek, G. *Vision and visual disabilities: An introduction.* SAP Design Guild. 2005. (2012 Online)
     [https://experience.sap.com/archived/vision-and-visual-disabilities-an-introduction/](https://experience.sap.com/archived/vision-and-visual-disabilities-an-introduction/)
+-->
 
-##### Week 1 - 19th January 2017
+##### Week 1 - 17th January 2018
 
   * Nielsen, J. & Molich, R. *Heuristic evaluation of user interfaces.* Proc ACM CHI'90 Conference,
 Seattle. 1990. PP.249-256.

@@ -8,7 +8,7 @@ categories:
 
 tags: general site home
 published: true
-summary: Human-Computer Interface Design, Spring 2017
+summary: Human-Computer Interface Design, Spring 2018
 ---
 
 Welcome to the course website for COMP 441.

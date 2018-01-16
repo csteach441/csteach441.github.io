@@ -12,58 +12,86 @@ published: true
 summary: coursework for COMP 441
 ---
 
-Assessed coursework will include the following primary categories
+Course assessment will continue throughout the semester.
 
-#### 1. quizzes or group exercises at the end of each course section (30%)
+If you have any questions on the following assessments, please [contact](/contact) me.
 
-* this is a semester long assessment, which focuses upon each course section
-* each assessment will be based upon the assigned course notes, reading, and examples
-* at the end of each course section, either a quiz or group exercise will be assigned
-* each quiz, where applicable, will be a set of multiple-choice questions
+#### Overview
 
-#### 2. preparatory work for final assessment (40%)
+* assessment will include a combination of semester's quizzes or exercises ([1](#assessment1)), preparatory work for final assessment ([2](#assessment2)), and final demo and report ([3](#assessment3))
+  * preparatory work
+    * assigned at the end of each section
+    * may include demos, designs, testing, prototypes...
+  * final demo
+    * presentation and demo
+  * final report
+    * explain implemented differences throughout semester
+      * where and why did you update the project?
+      * benefits of updates
+    * clearly detail design and development process
+      * outline testing, prototypes &c.
+      * explain pros and cons of existing interface
+      * contrast old and new interface
+      * ...
+  * groups will be assigned at the start of the semester (max. 5 persons per group)
+    * group report must clearly define each student's work and contributions, where applicable
+      * no attribution, no mark
+
+* [Final Report Outline - PDF Document](/assets/docs/extras/comp441-final-report-outline.pdf)
+
+#### Assessed coursework will include the following primary categories
+
+<a id="assessment1"></a>
+
+##### 1. quizzes or exercises at the end of each course section (30%)
+
+* at least one week notice before quiz
+  * average time ~40 minutes
+  * taken towards the end of class
+  * must be taken in-class
+* exercises
+  * help develop course project
+  * test course knowledge at each stage
+  * get feedback on project work
+* extras
+  * design and application reviews
+  * class discussions
+  * various other assessments
+
+<a id="assessment2"></a>
+
+##### 2. preparatory work for final assessment (30%)
 
 * preparatory work for your final assessment will be assigned at the end of each course section
 * may include demos, designs, testing, prototypes...
 * each assessment will reflect the content and theme of each section
 
-#### 3. demo and report of final assessment (30%) <!-- - [Report Outline](/assets/docs/COMP388441-FinalReportOutline-2016.pdf)-->
+<a id="assessment3"></a>
 
-This assessment requires the design and development of a new interface for an existing computing product, service,
-application, tool or publication.
+##### 3. final assessment (40%)
+
+This assessment requires the design and development of a new interface for an existing computing product, service, application, tool or publication.
 
 ###### Assessment includes
 
 * combination of semester's preparatory work and final demo and report
 * final demo
-  * presentation, online demo, video overview..it's your choice
-  * anonymous peer review
+  * presentation and demo
 * final report
   * clearly detail design and development process
-  * outline testing, prototypes etc
+  * outline testing, prototypes &c.
   * explain pros and cons of existing interface
   * contrast old and new interface
-* work may be conducted individually or in groups (max. 4 persons per group)
+* work may be conducted individually or in groups (max. 5 persons per group)
 	* group report must clearly define each student's work and contributions, where applicable
 	  * no attribution, no mark
 
-#### Important Dates
+#### Important assessment Dates
 
-* Spring break: 6th to 11th March 2017
-	* **n.b.** no formal class: 9th March 2017
-* Easter holiday: 13th to 17th April 2017
-	* **n.b.** no formal class: 13th April 2017
-* Final class: 27th April 2017
-  * Final presentation due on Thursday 27th April 2017 @ 7pm
-* Exam week: 1st May to 6th May 2017
-	* Final assessment due on Thursday 4th May 2017 @ 7pm
-
-#### Initial Coursework Schedule
-
-* Thursday 27th April 2017
-  * Demonstration of final assessment @ 7pm
-* Thursday 4th May 2017
-  * Final assessment report due @ 7pm
+* final team demo
+  * due Wednesday 25th April 2018 @ 4.15pm
+* final team report
+  * due Wednesday 2nd April 2018 @ 4.15pm
 
 #### Grading
 
@@ -78,5 +106,5 @@ Grades will use the following scale,
   * 70% to 61%  = B
   * 60% to 51%  = B-
   * 50% to 41%  = C
-  * 40% to 31%  = F
-  * 30% to 0%   = ?
+  * 40% to 31%  = C-
+  * 30% to 0%   = F

@@ -14,15 +14,16 @@ summary: suggested links and resources for COMP 441
 
 This list contains a variety of information, suggestions, and generally interesting material.
 
-This section will be updated on a weekly basis during the Spring semester.
+This section will be updated on a weekly basis during the semester.
 
 We are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
 
-If you have any suggestions for additions to this section of the site, please feel free to [contact me](mailto:nhayward@luc.edu?subject=Links & Resources Suggestions).
+If you have any suggestions for additions to this section of the site, please feel free to [contact me](mailto:nhayward@luc.edu?subject=COMP441-Links).
 
 ***
 
-#### Articles / Papers
+<!--
+#### Articles & Papers
 
 * [Colour](https://robots.thoughtbot.com/color)
 * [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
@@ -34,6 +35,7 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Understimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
+
   * [Bootstrap](http://getbootstrap.com/)
   * [D3](http://d3js.org/)
   * [Foundation](http://foundation.zurb.com/)
@@ -49,6 +51,7 @@ If you have any suggestions for additions to this section of the site, please fe
 and choose your favourite.
 
 #### Mockup and Prototype Tools - a few examples
+
   * [Adobe Photoshop](http://goo.gl/GsIYY0), [Illustrator](http://goo.gl/9K8Kfw)
   * [Apple's Keynote](http://keynotopia.com/guides/) (useful for iOS)
   * [Bootstrap](http://getbootstrap.com/)
@@ -62,9 +65,13 @@ and choose your favourite.
 
 #### Various
   * NFL - [Colour Blindness](http://deadspin.com/stupid-nike-uniforms-wreaking-havoc-on-colorblind-nfl-f-1742272136)
+-->
 
 #### Videos
 
+* [Milton Glaser](http://vimeo.com/11577085)
+
+<!--
 * [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
 * [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
 * [Andi Bell explains the 'link method' memory technique](https://www.youtube.com/watch?v=9NROegsMqNc)
@@ -78,7 +85,6 @@ and choose your favourite.
 * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
 * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
 * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
-* [Milton Glaser](http://vimeo.com/11577085)
 * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
 * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
 * [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
@@ -90,9 +96,13 @@ and choose your favourite.
   * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
 * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
 * [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
+-->
 
 #### Websites
 
+* [Milton Glaser](http://www.miltonglaser.com/)
+
+<!--
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
 * [Dark Patterns](http://darkpatterns.org/)
 * Gamification - [Yu-Kai Chou & Gamification](http://www.yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/#.VN0SLFPF-Qw)
@@ -109,3 +119,8 @@ and choose your favourite.
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
 * Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
+-->
+
+***
+
+**n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.

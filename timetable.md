@@ -9,30 +9,28 @@ categories:
 
 tags: timetable
 published: true
-summary: course timetable for COMP 441, Spring 2017
+summary: course timetable for COMP 441
 ---
 
 #### Class Schedule
 
 This class will meet at the following time and place,
 
-* Time: Thursday 7pm to 9.30pm
-* Place: [Corboy Law Center - Room 711](http://www.luc.edu/media/lucedu/wtc.pdf)
+* Time: Wednesday 4.15pm to 6.45pm
+* Place: [Cuneo Hall - Room 104](http://www.luc.edu/media/lucedu/lsc.pdf)
 
 #### Important Dates
 
-* Spring break: 6th to 11th March 2017
-	* **n.b.** no formal class: 9th March 2017
-* Easter holiday: 13th to 17th April 2017
-	* **n.b.** no formal class: 13th April 2017
-* Final class: 27th April 2017
-  * Final presentation due on Thursday 27th April 2017 @ 7pm
-* Exam week: 1st May to 6th May 2017
-	* Final assessment due on Thursday 4th May 2017 @ 7pm
+* Spring Break: 5th to 9th March 2018
+  * **n.b.** no formal class: 7th March 2018
+* Final class: 25th April 2018
+	* presentation & demo: 25th April 2018 @ 4.15pm
+* Exam week: 30th April to 5th May 2018
+	* Final assessment due on 2nd May 2018 by 4.15pm
 
-#### Initial Coursework Schedule
+#### Coursework Schedule
 
-* Thursday 27th April 2017
-  * Demonstration of final assessment @ 7pm
-* Thursday 4th May 2017
-  * Final assessment report due @ 7pm
+* final team demo
+  * due Wednesday 25th April 2018 @ 4.15pm
+* final team report
+  * due Wednesday 2nd May 2018 @ 4.15pm

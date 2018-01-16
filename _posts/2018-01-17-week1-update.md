@@ -1,5 +1,5 @@
 ---
-title: Week 7 course update
+title: Week 1 course update
 author: ancientlives
 layout: post-vertical
 
@@ -7,15 +7,15 @@ categories:
 - blog
 
 tags: news weekly
-year: 2017
-month: 03
-day: 02
+year: 2018
+month: 01
+day: 17
 published: true
-summary: course updates for week 7
+summary: course updates for week 1
 menu: blog
 ---
 
-The course website has now been updated for this week's class, week 7.
+The course website has now been updated for this week's class, week 1.
 
 Updates include the following,
 
