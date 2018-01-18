@@ -67,4 +67,4 @@ This material will be updated on a weekly basis.
 -->
 
 ##### Week 1 - 17th January 2018
-  * [course](/assets/docs/2018/Comp441-week1.pdf)
+  * [course](/assets/docs/2018/comp441-week1.pdf)
