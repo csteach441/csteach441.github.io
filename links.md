@@ -22,17 +22,18 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
-<!--
 #### Articles & Papers
 
 * [Colour](https://robots.thoughtbot.com/color)
 * [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
-* [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
 * [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
+* [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
+
+<!--
+* [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
 * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
 * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
 * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
-* [Understimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -62,15 +63,17 @@ and choose your favourite.
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
+-->
 
 #### Various
   * NFL - [Colour Blindness](http://deadspin.com/stupid-nike-uniforms-wreaking-havoc-on-colorblind-nfl-f-1742272136)
--->
 
 #### Videos
 
+* [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
 * [Milton Glaser](http://vimeo.com/11577085)
+* [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
 
 <!--
 * [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
@@ -81,12 +84,10 @@ and choose your favourite.
 * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
 * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
 * [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
-* [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
 * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
 * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
 * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
 * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
-* [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
 * [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
 * [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)
 * [Super Mario Bros - Speed Run](https://www.youtube.com/watch?v=kcmKPmj9yeE)

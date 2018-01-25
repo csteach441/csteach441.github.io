@@ -429,7 +429,9 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 2 - 26th January 2017
+-->
+
+#### Week 2 - 24th January 2018
 * Review this week's [notes and material](/notes), which includes the class notes
 * Please select one digital product that you like, and one that you dislike
   * consider their user interfaces and general design
@@ -439,16 +441,14 @@ Enjoy your week.
     * what is the design and development history for your chosen products?
       * i.e. can you trace a series of design compromises and improvements in previous models up to the current product release?
     * e.g. a website, mobile or desktop application, device specific UI (phone, camera...) &c. is an example product to consider and review
-  * add details for the above on the [Week 2 - Analysis of Devices](https://trello.com/b/H6YwnxAF/week-2-analysis-of-devices) board
-    * further instructions are available on the [Week 2 board](https://trello.com/b/H6YwnxAF/week-2-analysis-of-devices)
+  * add details for the above on the [Week 2 - Analysis of Devices](https://trello.com/b/nPHn7kS3/week-2-analysis-of-devices) board
+    * further instructions are available on thw week 2 board
 
 This product review provides an initial opportunity to consider products and designs for your final course assessment.
 
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 #### Week 1 - 17th January 2018
 
