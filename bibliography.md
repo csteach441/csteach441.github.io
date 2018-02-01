@@ -81,11 +81,11 @@ There is no specific textbook for this course.
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
   * Miller, G. A. *The magical number seven, plus or minus two: Some limits on our capacity for processing information.*. Psychological Review, Vol. 63, Issue 2. PP. 81-97. 1956.
 
-##### Week 3 - 2nd February 2017
+-->
+
+##### Week 3 - 31st January 2018
 
   * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
-
--->
 
 ##### Week 2 - 24th January 2018
 

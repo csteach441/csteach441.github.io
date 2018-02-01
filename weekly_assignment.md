@@ -413,23 +413,23 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 3 - 2nd February 2017
+-->
+
+#### Week 3 - 31st January 2018
 * Review this week's [notes and material](/notes), which includes the class notes
 * Please ensure you have now added your group's details to the course's Trello group
-  * add group members, name &c. to the [Week 1 - Project Details](https://trello.com/b/V7vuLBPM/week-1-project-details)
-  * further instructions are available on the [Week 1 - Project Details](https://trello.com/b/V7vuLBPM/week-1-project-details)
-* Please answer the following questions on the [Week 3 - Problem Domain & Experience ](https://trello.com/b/BG5K2XKK/week-3-problem-domain-experience) board on Trello,
+  * add group members, name &c. to the [Week 1 - Project Details](https://trello.com/b/vt6nLjvb/week-1-project-details)
+  * further instructions are available on this board
+* Please answer the following questions on the [Week 3 - Problem Domain & Experience](https://trello.com/b/47MpJkFc/week-3-problem-domain-experience) board on Trello,
   * can you identify the **problem domain** for one of your applications/products?
   * can you think of any application interfaces with an **inherent assumption of experience**?
-  *  Is this **inherent assumption of experience** a strength or weakness of the application's design? &, why is it a strength or weakness?
+  *  Is this **inherent assumption of experience** a strength or weakness of the application's design? Why is it a strength or weakness?
 
-Further instructions are available on the [Week 3 - Problem Domain & Experience ](https://trello.com/b/BG5K2XKK/week-3-problem-domain-experience) board.
+Further instructions are available on the [Week 3 - Problem Domain & Experience](https://trello.com/b/47MpJkFc/week-3-problem-domain-experience) board.
 
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 #### Week 2 - 24th January 2018
 * Review this week's [notes and material](/notes), which includes the class notes

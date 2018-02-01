@@ -56,11 +56,10 @@ This material will be updated on a weekly basis.
 
 ##### Week 4 - 9th February 2017
   * [course](/assets/docs/2017/comp441-week4.pdf)
-
-##### Week 3 - 2nd February 2017
-  * [course](/assets/docs/2017/comp441-week3.pdf)
-
 -->
+
+##### Week 3 - 31st January 2018
+  * [course](/assets/docs/2018/comp441-week3.pdf)
 
 ##### Week 2 - 24th January 2018
   * [course](/assets/docs/2018/comp441-week2.pdf)
