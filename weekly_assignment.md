@@ -392,16 +392,18 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 4 - 9th February 2017
+-->
+
+#### Week 4 - 7th February 2018
 * The following assignment is your first formal in-class preparatory work towards the final course assessment, as detailed in the overall [coursework](/coursework) outline, no.2.
-  * Please prepare, either within your group or individually, a brief lightning presentation of approximately 5 minutes maximum. It should include the following information:
+  * Please prepare, either within your group or individually, a brief lightning presentation of approximately 5 to 10 minutes. It should include the following information:
     * brief outline of your initial concept/concepts for the final assessment
     * what is good and bad with the current interface?
       * in particular, consider this with regard to material we have covered over the first four weeks of the semester
     * initial thoughts on aspects you'd like to improve and modify for your final assessment
     * brief comments on proposed development plan up to the end of Spring break of the current semester
 
-Presentations will be scheduled for the start of next week's class, which begins at 7pm on Thursday 16th February 2017.
+Presentations will be scheduled for the start of next week's class, which begins at 4.15pm on Wednesday 14th February 2018.
 
 **NB:** A formal slide presentation is optional. It is up to you to decide upon a preferred presentation style for this assignment. This style of quick presentation is becoming increasingly popular at less formal conferences.
 
@@ -412,8 +414,6 @@ Please consider it useful practice for the final presentation.
 Any questions, please let me know.
 
 Enjoy your week.
-
--->
 
 #### Week 3 - 31st January 2018
 * Review this week's [notes and material](/notes), which includes the class notes

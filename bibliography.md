@@ -76,12 +76,12 @@ There is no specific textbook for this course.
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
   * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
 
-##### Week 4 - 9th February 2017
+-->
+
+##### Week 4 - 7th February 2018
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction*. Lawrence Erlbaum Associates. 1983.
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
   * Miller, G. A. *The magical number seven, plus or minus two: Some limits on our capacity for processing information.*. Psychological Review, Vol. 63, Issue 2. PP. 81-97. 1956.
-
--->
 
 ##### Week 3 - 31st January 2018
 
