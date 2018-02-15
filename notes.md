@@ -51,10 +51,13 @@ This material will be updated on a weekly basis.
 ##### Week 6 - 23rd February 2017
   * [course](/assets/docs/2017/comp441-week6.pdf)
 
-##### Week 5 - 16th February 2017
-  * [course](/assets/docs/2017/comp441-week5.pdf)
+##### Week 5 - 14th February 2018
+  * [course](/assets/docs/2018/comp441-week5.pdf)
 
 -->
+
+##### Week 5 - 14th February 2018
+  * N/A
 
 ##### Week 4 - 7th February 2018
   * [course](/assets/docs/2018/comp441-week4.pdf)

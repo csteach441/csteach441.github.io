@@ -71,12 +71,12 @@ There is no specific textbook for this course.
   * Kieras, D. *Using the Keystroke-Level Model to Estimate Execution Times.* 1993. [http://courses.wccnet.edu/~jwithrow/docs/klm.pdf](http://courses.wccnet.edu/~jwithrow/docs/klm.pdf)
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
 
-##### Week 5 - 16th February 2017
+-->
+
+##### Week 5 - 14th February 2018
 
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
   * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
-
--->
 
 ##### Week 4 - 7th February 2018
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction*. Lawrence Erlbaum Associates. 1983.

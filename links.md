@@ -27,13 +27,13 @@ If you have any suggestions for additions to this section of the site, please fe
 * [Colour](https://robots.thoughtbot.com/color)
 * [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
 * [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
+* [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
 * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
 * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
 * [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
 <!--
 * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
-* [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -102,14 +102,15 @@ and choose your favourite.
 #### Websites
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+* Gamification - [Yu-Kai Chou & Gamification](http://www.yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/#.VN0SLFPF-Qw)
 * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
 * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
 * [Milton Glaser](http://www.miltonglaser.com/)
+* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
 
 <!--
 * [Dark Patterns](http://darkpatterns.org/)
-* Gamification - [Yu-Kai Chou & Gamification](http://www.yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/#.VN0SLFPF-Qw)
 * Gestalt Principles - Brief Overviews
   * [APRK Topics](http://frnsys.com/topics/gestalt)
   * [Web Designer Depot](http://www.webdesignerdepot.com/2011/08/strengthening-behavioral-cues-in-ux-web-design-with-gestalt-principles/)
@@ -119,7 +120,6 @@ and choose your favourite.
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
-* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
 -->
 
 ***
