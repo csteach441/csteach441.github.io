@@ -358,7 +358,9 @@ Any questions, please let me know.
 
 Enjoy your Spring Break.
 
-#### Week 6 - 23rd February 2017
+-->
+
+#### Week 6 - 21st February 2018
 * Review this week's [notes and material](/notes), in particular the material concerning the KLM-GOMS model.
 * Review this week's [bibliography](/bibliography) links and material
 * Relative to your chosen project for the final assessment, please consider and define the following,
@@ -366,17 +368,14 @@ Enjoy your Spring Break.
     * in effect, your project's 'big, green button'
   * test user interaction with this defined primary, default functionality using the KLM-GOMS model
     * please refer to the KLM-GOMS model as defined in this week's notes
-      * use the example listed in this week's notes as a guide to test your own project's product
-      * test the original product, where applicable, and then consider how this might be improved in your new design
+    * use the example listed in this week's notes as a guide to test your own project's product
   * Please add a copy of this material to the following Trello board,
-    * [Week 6 - Initial Testing](https://trello.com/b/67o9uX2e/week-6-initial-testing)
+    * [Week 6 - Initial Testing](https://trello.com/b/BD1uFCgJ/week-6-initial-testing)
     * instructions for this exercise are also available on the above Trello board
 
 Any questions please let me know.
 
 Enjoy your week.
-
--->
 
 #### Week 5 - 14th February 2018
 * Please send me a copy of your slides &c., where applicable, for this week's presentation
