@@ -59,12 +59,12 @@ There is no specific textbook for this course.
   * Prensky, M. *Digital game-based learning.* McGraw-Hill. P.17. 2001.
   * Van Eck, R.N. *Digital game-based learning.* Educause Review 41. PP.17-30. 2006.
 
-##### Week 7 - 2nd March 2017
+-->
+
+##### Week 7 - 28th February 2018
 
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
   * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
-
--->
 
 ##### Week 6 - 21st February 2018
 

@@ -341,7 +341,9 @@ Any questions, please [contact](/contact) me.
 
 Enjoy your week.
 
-#### Week 7 - 3rd March 2016
+-->
+
+#### Week 7 - 28th February 2018
 * Review this week's [notes and material](/notes), which includes the following extra document
   * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
 * Review this week's [bibliography](/bibliography) links and material
@@ -351,14 +353,14 @@ Enjoy your week.
     * e.g. updated home page, user account screen, section of a level in a game, &c.
   * you may choose either a low-fidelity or high-fidelity mockup
   * please add sample images of this mockup to the following Trello board,
-    * [Week 7 - Mockups](https://trello.com/b/2ObzsFVN/week-7-mockups)
-    * instructions for this exercise are also available on the above Trello board
+    * [Week 7 - Mockups](https://trello.com/b/OaRxElau/week-7-mockups)
+  * please prepare a brief demo of this mockup for the start of the next class
+    * supporting material may also be shown in a brief presentation, where applicable
+    * demo and presentation will be on Wednesday 14th March at 4.15pm
 
 Any questions, please let me know.
 
 Enjoy your Spring Break.
-
--->
 
 #### Week 6 - 21st February 2018
 * Review this week's [notes and material](/notes), in particular the material concerning the KLM-GOMS model.

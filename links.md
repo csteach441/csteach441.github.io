@@ -35,6 +35,8 @@ If you have any suggestions for additions to this section of the site, please fe
 <!--
 * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
 
+-->
+
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
   * [Bootstrap](http://getbootstrap.com/)
@@ -63,7 +65,6 @@ and choose your favourite.
   * [Proto.io](https://proto.io/)
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
--->
 
 #### Various
   * NFL - [Colour Blindness](http://deadspin.com/stupid-nike-uniforms-wreaking-havoc-on-colorblind-nfl-f-1742272136)
