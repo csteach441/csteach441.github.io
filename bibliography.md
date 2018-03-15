@@ -61,6 +61,14 @@ There is no specific textbook for this course.
 
 -->
 
+##### Week 9 - 14th March 2018
+
+  * N/A
+
+##### Week 8 - 7th March 2018
+
+  * N/A - Spring Break
+
 ##### Week 7 - 28th February 2018
 
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.

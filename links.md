@@ -104,6 +104,9 @@ and choose your favourite.
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
 * Gamification - [Yu-Kai Chou & Gamification](http://www.yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/#.VN0SLFPF-Qw)
+* Gestalt Principles - Brief Overviews
+  * [APRK Topics](http://frnsys.com/topics/gestalt)
+  * [Web Designer Depot](http://www.webdesignerdepot.com/2011/08/strengthening-behavioral-cues-in-ux-web-design-with-gestalt-principles/)
 * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
 * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 * Khan Academy - [Exercise Dashboard](https://www.khanacademy.org/exercisedashboard)
@@ -113,9 +116,6 @@ and choose your favourite.
 
 <!--
 * [Dark Patterns](http://darkpatterns.org/)
-* Gestalt Principles - Brief Overviews
-  * [APRK Topics](http://frnsys.com/topics/gestalt)
-  * [Web Designer Depot](http://www.webdesignerdepot.com/2011/08/strengthening-behavioral-cues-in-ux-web-design-with-gestalt-principles/)
 * Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)

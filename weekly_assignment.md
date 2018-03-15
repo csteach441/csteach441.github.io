@@ -343,6 +343,25 @@ Enjoy your week.
 
 -->
 
+#### Week 9 - 14th March 2018
+* Please send me a copy of your slides &c., where applicable, for this week's presentation
+    * an attachment to an email, private message on Slack, or shared online will be fine
+* Relative to your chosen project for the final assessment, please consider and define the following,
+  * choose a page, window, frame &c. from your original or new product - one that demonstrates example content and usage
+  * consider default patterns a user might follow within this page &c.
+    * e.g. which zones, content, links &c. are most prevalent within that page &c.
+  * Please add a copy of this material to the following Trello board,
+    * [Week 9 - Patterns](https://trello.com/b/S2WGrP0L/week-9-patterns)
+    * instructions for this exercise are also available on the above Trello board
+
+Any questions please let me know.
+
+Enjoy your week.
+
+#### Week 8 - 7th March 2018
+
+* N/A - Spring Break
+
 #### Week 7 - 28th February 2018
 * Review this week's [notes and material](/notes), which includes the following extra document
   * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)

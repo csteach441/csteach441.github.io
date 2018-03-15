@@ -46,6 +46,13 @@ This material will be updated on a weekly basis.
 
 -->
 
+##### Week 9 - 14th March 2018
+  * N/A
+
+##### Week 8 - 7th March 2018
+
+  * N/A - Spring Break
+
 ##### Week 7 - 28th February 2018
   * [course](/assets/docs/2018/comp441-week7.pdf)
   * extra
