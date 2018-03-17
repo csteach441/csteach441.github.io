@@ -307,11 +307,11 @@ Any questions please [contact](/contact) me.
 
 Enjoy your week.
 
-#### Week 10 - 23rd March 2017
+#### Week 10 - 21st March 2018
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
 * Please prepare for a quiz during our next class on Thursday 30th March 2017. This quiz will include the following:
-  * material covered within the class [notes](/notes), weeks 5, 6, 7, 9, and 10 inclusive
+  * material covered within the class [notes](/notes), weeks 6 to 10 inclusive
   * multiple choice questions
   * you will be given at least 40 minutes to complete this quiz in class
   * please ensure you have a registered Google account, which we'll use to complete the online form
@@ -319,25 +319,6 @@ Enjoy your week.
     * e.g. laptop, tablet, smartphone...
 
 Any questions please [contact](/contact) me.
-
-Enjoy your week.
-
-#### Week 9 - 16th March 2017
-* Review this week's [notes and material](/notes).
-* Review this week's [bibliography](/bibliography) links and material
-* Relative to your chosen project for the final assessment, please consider and define the following,
-  * any tutorial material that would benefit a user of your project's product, website, service &c..
-    * consider the aspects of your new design that should be included in a tutorial
-    * can this tutorial be improved with the use of *gamification*?
-      * if yes, which aspects and how?
-  * choose a page, window, frame &c. from your original or new product - one that demonstrates example content and usage
-    * consider default patterns a user might follow within this page &c.
-      * e.g. which zones, content, links &c. are most prevalent within that page &c.
-  * Please add a copy of this material to the following Trello board,
-    * [Week 9 - Patterns](https://trello.com/b/AA0qHLSn/week-9-patterns)
-     * instructions for this exercise are also available on the above Trello board
-
-Any questions, please [contact](/contact) me.
 
 Enjoy your week.
 
