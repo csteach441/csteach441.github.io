@@ -307,8 +307,6 @@ Any questions please let me know.
 
 Enjoy your week.
 
--->
-
 #### Week 10 - 21st March 2017
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
@@ -323,6 +321,8 @@ Enjoy your week.
 Any questions please [contact](/contact) me.
 
 Enjoy your week.
+
+-->
 
 #### Week 9 - 14th March 2018
 * Please send me a copy of your slides &c., where applicable, for this week's presentation

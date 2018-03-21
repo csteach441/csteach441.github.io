@@ -50,7 +50,7 @@ There is no specific textbook for this course.
   * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
   * Wertheimer, M. *Laws of Organisation in Perceptual Forms.* 1923.
 
--->
+
 
 ##### Week 10 - 21st March 2018
 
@@ -60,6 +60,8 @@ There is no specific textbook for this course.
   * Nielsen, J. and Pernice, K. *Eyetracking web usability.* New Riders. 2009.
   * Prensky, M. *Digital game-based learning.* McGraw-Hill. P.17. 2001.
   * Van Eck, R.N. *Digital game-based learning.* Educause Review 41. PP.17-30. 2006.
+
+-->
 
 ##### Week 9 - 14th March 2018
 
