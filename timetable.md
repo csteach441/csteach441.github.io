@@ -23,8 +23,6 @@ This class will meet at the following time and place,
 
 * Spring Break: 5th to 9th March 2018
   * **n.b.** no formal class: 7th March 2018
-* Easter holiday: 29th March to 2nd April 2018
-  * **n.b.** no formal class: 28th March 2018
 * Final class: 25th April 2018
 	* presentation & demo: 25th April 2018 @ 4.15pm
 * Exam week: 30th April to 5th May 2018

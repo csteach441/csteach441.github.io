@@ -38,16 +38,13 @@ This material will be updated on a weekly basis.
 ##### Week 11 - 30th March 2017
   * [course](/assets/docs/2017/comp441-week11.pdf)
 
-##### Week 10 - 23rd March 2017
-  * [course](/assets/docs/2017/comp441-week10.pdf)
-
-##### Week 9 - 16th March 2017
-  * [course](/assets/docs/2017/comp441-week9.pdf)
-
 -->
 
+##### Week 10 - 21st March 2018
+  * [course](/assets/docs/2018/comp441-week10.pdf)
+
 ##### Week 9 - 14th March 2018
-  * N/A
+  * N/A - Presentations
 
 ##### Week 8 - 7th March 2018
 
@@ -62,7 +59,7 @@ This material will be updated on a weekly basis.
   * [course](/assets/docs/2018/comp441-week6.pdf)
 
 ##### Week 5 - 14th February 2018
-  * N/A
+  * N/A - Presentations
 
 ##### Week 4 - 7th February 2018
   * [course](/assets/docs/2018/comp441-week4.pdf)

@@ -24,18 +24,14 @@ If you have any suggestions for additions to this section of the site, please fe
 
 #### Articles & Papers
 
-* [Colour](https://robots.thoughtbot.com/color)
-* [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
-* [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
-* [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
-* [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
-* [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
-* [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
-
-<!--
-* [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
-
--->
+  * [Colour](https://robots.thoughtbot.com/color)
+  * [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
+  * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
+  * [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
+  * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
+  * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
+  * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
+  * [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -71,32 +67,32 @@ and choose your favourite.
 
 #### Videos
 
-* [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
-* [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
-* [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
-* [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
-* [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
-* [Milton Glaser](http://vimeo.com/11577085)
-* [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
-* [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
-* [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)
-* [Super Mario Bros - Speed Run](https://www.youtube.com/watch?v=kcmKPmj9yeE)
-* [Super Mario Run](https://www.youtube.com/watch?v=rKG5jU6DV70)
-* TED Talks
-  * [Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
-  * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
-* [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
+  * [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
+  * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
+  * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
+  * [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
+  * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
+  * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
+  * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
+  * [Milton Glaser](http://vimeo.com/11577085)
+  * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
+  * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
+  * [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
+  * [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)
+  * [Super Mario Bros - Speed Run](https://www.youtube.com/watch?v=kcmKPmj9yeE)
+  * [Super Mario Run](https://www.youtube.com/watch?v=rKG5jU6DV70)
+  * TED Talks
+    * [Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
+    * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
+  * [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
 
 <!--
 * [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
 * [Andi Bell explains the 'link method' memory technique](https://www.youtube.com/watch?v=9NROegsMqNc)
-* [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
-* [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
 * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
 * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
 * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
 * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
-* [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
 * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
 -->
 

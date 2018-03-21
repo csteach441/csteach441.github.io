@@ -292,7 +292,24 @@ Any questions please [contact](/contact) me.
 
 Enjoy your week.
 
-#### Week 11 - 30th March 2017
+#### Week 12 - 4th April 2018
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Please prepare for a quiz during our next class on Wednesday 11th April 2018. This quiz will include the following:
+  * material covered within the class [notes](/notes), weeks 6 to 12 inclusive
+  * multiple choice questions
+  * you will be given at least 40 minutes to complete this quiz in class
+  * please ensure you have a registered Google account, which we'll use to complete the online form
+  * please ensure you bring an internet enabled device to class
+    * e.g. laptop, tablet, smartphone...
+
+Any questions please let me know.
+
+Enjoy your week.
+
+-->
+
+#### Week 10 - 21st March 2017
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
 * Relative to your chosen project for the final assessment, please consider and define the following,
@@ -300,29 +317,12 @@ Enjoy your week.
         * which laws, and how?
         * outline examples for each applicable law within an example chosen page &c.
     * Please add a copy of this material to the following Trello board,
-        * [Week 11 - Gestalt](https://trello.com/b/dXqPQHzb/week-11-gestalt)
+        * [Week 10 - Gestalt]()
         * instructions for this exercise are also available on the above Trello board
 
 Any questions please [contact](/contact) me.
 
 Enjoy your week.
-
-#### Week 10 - 21st March 2018
-* Review this week's [notes and material](/notes), which includes the class notes
-* Review this week's [bibliography](/bibliography) links and material
-* Please prepare for a quiz during our next class on Thursday 30th March 2017. This quiz will include the following:
-  * material covered within the class [notes](/notes), weeks 6 to 10 inclusive
-  * multiple choice questions
-  * you will be given at least 40 minutes to complete this quiz in class
-  * please ensure you have a registered Google account, which we'll use to complete the online form
-  * please ensure you bring an internet enabled device to class
-    * e.g. laptop, tablet, smartphone...
-
-Any questions please [contact](/contact) me.
-
-Enjoy your week.
-
--->
 
 #### Week 9 - 14th March 2018
 * Please send me a copy of your slides &c., where applicable, for this week's presentation

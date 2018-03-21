@@ -50,7 +50,9 @@ There is no specific textbook for this course.
   * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
   * Wertheimer, M. *Laws of Organisation in Perceptual Forms.* 1923.
 
-##### Week 9 - 16th March 2017
+-->
+
+##### Week 10 - 21st March 2018
 
   * Carstens, A., and Beck, J. *Get ready for the gamer generation.* Tech Trends 49. PP.22-25. 2005.
   * Hays, R.T. *The effectiveness of instructional games: A literature review and discussion.* Technical Report 2005-004. Washington. 2005.
@@ -59,11 +61,9 @@ There is no specific textbook for this course.
   * Prensky, M. *Digital game-based learning.* McGraw-Hill. P.17. 2001.
   * Van Eck, R.N. *Digital game-based learning.* Educause Review 41. PP.17-30. 2006.
 
--->
-
 ##### Week 9 - 14th March 2018
 
-  * N/A
+  * N/A - Presentations
 
 ##### Week 8 - 7th March 2018
 
