@@ -307,7 +307,9 @@ Any questions please let me know.
 
 Enjoy your week.
 
-#### Week 10 - 21st March 2017
+-->
+
+#### Week 10 - 21st March 2018
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
 * Relative to your chosen project for the final assessment, please consider and define the following,
@@ -315,14 +317,20 @@ Enjoy your week.
         * which laws, and how?
         * outline examples for each applicable law within an example chosen page &c.
     * Please add a copy of this material to the following Trello board,
-        * [Week 10 - Gestalt]()
+        * [Week 10 - Gestalt](https://trello.com/b/mKzsXZxl/week-10-gestalt)
         * instructions for this exercise are also available on the above Trello board
+* Please prepare for a quiz during our next class on Wednesday 28th April 2018. This quiz will include the following:
+    * material covered within the class [notes](/notes), weeks 6 to 10, and material discussed in class
+    * multiple choice questions
+    * you will be given ~ 40 minutes to complete the quiz in class
+    * please ensure you have a registered Google account, which we'll use to complete the online form
+    * please ensure you bring an internet enabled device to class
+      * e.g. laptop, tablet, smartphone...
+    * quiz must be taken in-class
 
 Any questions please [contact](/contact) me.
 
 Enjoy your week.
-
--->
 
 #### Week 9 - 14th March 2018
 * Please send me a copy of your slides &c., where applicable, for this week's presentation

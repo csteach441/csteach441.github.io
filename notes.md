@@ -38,10 +38,10 @@ This material will be updated on a weekly basis.
 ##### Week 11 - 30th March 2017
   * [course](/assets/docs/2017/comp441-week11.pdf)
 
+-->
+
 ##### Week 10 - 21st March 2018
   * [course](/assets/docs/2018/comp441-week10.pdf)
-
--->
 
 ##### Week 9 - 14th March 2018
   * N/A - Presentations
