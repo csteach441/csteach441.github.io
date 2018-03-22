@@ -335,6 +335,7 @@ Enjoy your week.
       * was the use of each applicable law beneficial to an understanding of the data in the visualisation?
       * did your interpretation of the visualisation match the original dataset? - i.e. inferred claims of a visualisation compared with expectations of the data
       * did the visualisation help improve understanding of the data?
+  * **n.b.** this discussion should be completed as an **individual**, and not in your project groups.
 
 Any questions please [contact](/contact) me.
 
