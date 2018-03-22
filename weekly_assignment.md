@@ -329,7 +329,7 @@ Enjoy your week.
       * e.g. laptop, tablet, smartphone...
     * quiz must be taken in-class
 * Please contribute to this week's class discussion on Slack, **#discussion-week10**, by adding the following information,
-  * choose three favourite data visualistions you've recently seen in an article, website, mobile application &c.
+  * choose three favourite data visualisations you've recently seen in an article, website, mobile application &c.
       * why did you choose these visualisations?
       * which Gestalt laws were used to help design these example visualisations?
       * was the use of each applicable law beneficial to an understanding of the data in the visualisation?
