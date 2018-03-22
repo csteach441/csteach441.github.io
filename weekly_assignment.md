@@ -303,6 +303,14 @@ Enjoy your week.
   * please ensure you bring an internet enabled device to class
     * e.g. laptop, tablet, smartphone...
 
+* Relative to your chosen project for the final assessment, please consider and define the following,
+    * does the updated or new application adhere to the *Laws of Gestalt*?
+        * which laws, and how?
+        * outline examples for each applicable law within an example chosen page &c.
+    * Please add a copy of this material to the following Trello board,
+        * [Week 10 - Gestalt](https://trello.com/b/mKzsXZxl/week-10-gestalt)
+        * instructions for this exercise are also available on the above Trello board
+
 Any questions please let me know.
 
 Enjoy your week.
@@ -312,13 +320,6 @@ Enjoy your week.
 #### Week 10 - 21st March 2018
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
-* Relative to your chosen project for the final assessment, please consider and define the following,
-    * does the updated or new application adhere to the *Laws of Gestalt*?
-        * which laws, and how?
-        * outline examples for each applicable law within an example chosen page &c.
-    * Please add a copy of this material to the following Trello board,
-        * [Week 10 - Gestalt](https://trello.com/b/mKzsXZxl/week-10-gestalt)
-        * instructions for this exercise are also available on the above Trello board
 * Please prepare for a quiz during our next class on Wednesday 28th April 2018. This quiz will include the following:
     * material covered within the class [notes](/notes), weeks 6 to 10, and material discussed in class
     * multiple choice questions
