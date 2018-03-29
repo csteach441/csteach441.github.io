@@ -288,13 +288,6 @@ Enjoy your week, and Happy Easter.
     * [Week 12 - Constraints & Feedback](https://trello.com/b/K3YDVWpF/week-12-interaction-information)
     * instructions for this exercise are also available on the above Trello board
 
-Any questions please [contact](/contact) me.
-
-Enjoy your week.
-
-#### Week 11 - 28th March 2018
-* Review this week's [notes and material](/notes), which includes the class notes
-* Review this week's [bibliography](/bibliography) links and material
 * Relative to your chosen project for the final assessment, please consider and define the following,
     * does your group's updated or new application adhere to the *Laws of Gestalt*?
         * which laws, and how?
@@ -303,11 +296,32 @@ Enjoy your week.
         * [Week 11 - Gestalt]()
         * instructions for this exercise are also available on the above Trello board
 
-Any questions please let me know.
+Any questions please [contact](/contact) me.
 
 Enjoy your week.
 
 -->
+
+#### Week 11 - 28th March 2018
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Please consider an application design for this afternoon's *Fun Exercise*
+  * use the material considered during class for each part of the exercise
+  * as an **individual**, please create a **mockup** of your design for the application
+    * mockup fidelity is an individual choice
+  * submit a copy of this mockup to the following Trello board,
+    * [Week 11 - Exercise Mockup](https://trello.com/b/MOOct3Xf/week-11-exercise-mockup)
+* Please contribute to this week's class discussion on Slack, **#discussion-week11**, by adding the following information,
+  * choose three favourite tutorial websites or applications. For each application, please consider the following
+    * what is the considered scope of the application's functionality?
+    * what are the defined **places** in the application?
+    * can you identify any events within the application that are not triggered by the user?
+    * are there defined user roles in the application?
+    * where applicable, how do users request or find assistance within the application?
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 #### Week 10 - 21st March 2018
 * Review this week's [notes and material](/notes), which includes the class notes
@@ -329,7 +343,7 @@ Enjoy your week.
       * did the visualisation help improve understanding of the data?
   * **n.b.** this discussion should be completed as an **individual**, and not in your project groups.
 
-Any questions please [contact](/contact) me.
+Any questions, please [contact](/contact) me.
 
 Enjoy your week.
 
@@ -344,7 +358,7 @@ Enjoy your week.
     * [Week 9 - Patterns](https://trello.com/b/S2WGrP0L/week-9-patterns)
     * instructions for this exercise are also available on the above Trello board
 
-Any questions please let me know.
+Any questions, please let me know.
 
 Enjoy your week.
 
@@ -384,7 +398,7 @@ Enjoy your Spring Break.
     * [Week 6 - Initial Testing](https://trello.com/b/BD1uFCgJ/week-6-initial-testing)
     * instructions for this exercise are also available on the above Trello board
 
-Any questions please let me know.
+Any questions, please let me know.
 
 Enjoy your week.
 

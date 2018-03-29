@@ -39,12 +39,13 @@ There is no specific textbook for this course.
 
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
   * Cooper, A. et al. *About Face 3: The essentials of interaction design.* Wiley. 2007.
-
-##### Week 11 - 28th March 2018
-
   * Robinson, W.L. *Conscious competency - the mark of a competent instructor.* Personnel Journal, 53. PP. 538-9. 1974.
 
 -->
+
+##### Week 11 - 28th March 2018
+
+  * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
 
 ##### Week 10 - 21st March 2018
 
