@@ -295,7 +295,7 @@ Enjoy your week, and Happy Easter.
 
 -->
 
-#### Week 12 - 6th April 2017
+#### Week 12 - 4th April 2018
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
 * Please consider an application design for this afternoon's *Fun Exercise*
