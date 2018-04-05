@@ -272,13 +272,6 @@ Enjoy your week.
     * [Week 13 - Competence](https://trello.com/b/HIALiFn0/week-13-competence)
     * instructions for this exercise are also available on the above Trello board
 
-Any questions please [contact](/contact) me.
-
-Enjoy your week, and Happy Easter.
-
-#### Week 12 - 6th April 2017
-* Review this week's [notes and material](/notes), which includes the class notes
-* Review this week's [bibliography](/bibliography) links and material
 * Relative to your chosen project for the final assessment, please consider and define the following,
   * how will visibility be integrated within your application to aid user feedback?
   * what is the role of affordance relative to feedback within your application?
@@ -298,9 +291,28 @@ Enjoy your week, and Happy Easter.
 
 Any questions please [contact](/contact) me.
 
-Enjoy your week.
+Enjoy your week, and Happy Easter.
 
 -->
+
+#### Week 12 - 6th April 2017
+* Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
+* Please consider an application design for this afternoon's *Fun Exercise*
+  * use the material considered during class for each part of the exercise
+  * as an **individual**, please create a **prototype/s** of your design for the application
+  * submit a copy of this mockup to the following Trello board,
+    * [Week 12 - Exercise Prototype](https://trello.com/b/cr6AtsP3/week-12-exercise-prototype)
+* Please contribute to this week's class discussion on Slack, **#discussion-week12**, by adding the following information,
+  * consider three examples of *UI design for adaptive training applications*. For each example, please consider the following
+    * do they consider or use the concept of the *Power Law of Practice*?
+    * how do they promote or encourage training and learning?
+    * how is the *adaptive* nature of the example's design and UI beneficial for varying users and skills?
+    * what are the targeted skill levels for each example?
+
+Any questions please [contact](/contact) me.
+
+Enjoy your week.
 
 #### Week 11 - 28th March 2018
 * Review this week's [notes and material](/notes), which includes the class notes

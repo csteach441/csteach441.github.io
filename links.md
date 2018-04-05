@@ -70,6 +70,7 @@ and choose your favourite.
   * [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
   * Chicago Tribune
     * [Touchscreens at Lincoln Park Zoo](https://www.youtube.com/watch?v=lusOgox4xMI)
+  * [Curator's Corner - The British Museum](https://www.youtube.com/watch?v=wHjznvH54Cw)
   * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
   * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
   * [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
@@ -84,6 +85,7 @@ and choose your favourite.
   * [Milton Glaser](http://vimeo.com/11577085)
   * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
   * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
+  * [Royal Game of Ur - The British Museum](https://www.youtube.com/watch?v=WZskjLq040I)
   * [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
   * [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)
   * [Super Mario Bros - Speed Run](https://www.youtube.com/watch?v=kcmKPmj9yeE)
@@ -91,6 +93,9 @@ and choose your favourite.
   * TED Talks
     * [Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
     * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
+  * TED-Ed Talks
+    * [How to Practice Effectively...](https://www.youtube.com/watch?v=f2O6mQkFiiw)
+    * [How to Read Music](https://www.youtube.com/watch?v=ZN41d7Txcq0)
   * [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
 
 <!--
