@@ -305,6 +305,13 @@ Enjoy your week, and Happy Easter.
   * Please add a copy of this material to the following Trello board,
     * [Week 13 - Competence](https://trello.com/b/4GYr7AiS/week-13-competence)
     * instructions for this exercise are also available on the above Trello board
+* Please contribute to this week's class discussion on Slack, **#discussion-week13**, by adding the following information,
+  * consider two examples of *media streaming services*, which provide both web and mobile applications. For each example, please consider the following
+    * differences between internal and external *consistency* for these apps
+      * consider both web and mobile apps...
+    * compare and contrast each app's use of visual *perspective* in UI and UX design
+    * promotion of *affordance* in each app's UX
+    * UI conventions and *mapping*, which migrate effectively from web app to mobile app
 
 Any questions, please let me know.
 
