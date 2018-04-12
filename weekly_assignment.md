@@ -295,6 +295,21 @@ Enjoy your week, and Happy Easter.
 
 -->
 
+#### Week 13 - 11th April 2018
+* Review this week's [notes and material](/notes), which includes the following extra notes
+  * [final report outline](/assets/docs/extras/comp441-final-report-outline.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Relative to your chosen project for the final assessment, please consider and define the following,
+  * how you intend to encourage a user's competence relative to your application?
+    * e.g. consider the Robinson model of competence, and the various stages
+  * Please add a copy of this material to the following Trello board,
+    * [Week 13 - Competence](https://trello.com/b/4GYr7AiS/week-13-competence)
+    * instructions for this exercise are also available on the above Trello board
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 12 - 4th April 2018
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
@@ -310,7 +325,7 @@ Enjoy your week, and Happy Easter.
     * how is the *adaptive* nature of the example's design and UI beneficial for varying users and skills?
     * what are the targeted skill levels for each example?
 
-Any questions please [contact](/contact) me.
+Any questions, please let me know.
 
 Enjoy your week.
 
@@ -355,7 +370,7 @@ Enjoy your week.
       * did the visualisation help improve understanding of the data?
   * **n.b.** this discussion should be completed as an **individual**, and not in your project groups.
 
-Any questions, please [contact](/contact) me.
+Any questions, please let me know.
 
 Enjoy your week.
 

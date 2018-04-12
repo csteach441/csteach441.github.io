@@ -68,6 +68,7 @@ and choose your favourite.
 #### Videos
 
   * [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
+  * [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
   * Chicago Tribune
     * [Touchscreens at Lincoln Park Zoo](https://www.youtube.com/watch?v=lusOgox4xMI)
   * [Curator's Corner - The British Museum](https://www.youtube.com/watch?v=wHjznvH54Cw)
@@ -99,7 +100,6 @@ and choose your favourite.
   * [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
 
 <!--
-* [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
 * [Andi Bell explains the 'link method' memory technique](https://www.youtube.com/watch?v=9NROegsMqNc)
 * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
 * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
@@ -119,15 +119,15 @@ and choose your favourite.
 * Khan Academy - [Exercise Dashboard](https://www.khanacademy.org/exercisedashboard)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
 * [Milton Glaser](http://www.miltonglaser.com/)
+* [usability.gov](http://www.usability.gov/)
+  * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
+  * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
+  * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
 * Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
 
 <!--
 * [Dark Patterns](http://darkpatterns.org/)
 * Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
-* [usability.gov](http://www.usability.gov/)
-  * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
-  * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
-  * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
 -->
 
 ***

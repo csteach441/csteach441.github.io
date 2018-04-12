@@ -30,12 +30,14 @@ There is no specific textbook for this course.
   * Nielsen, J. *Heuristic evaluation.* Usability inspection methods. New York. John Wiley and Sons. P. 30. 1994.
   * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
   * Wharton, C. et al. *The cognitive walkthrough method: A practitioner's guide.* Usability inspection methods. New York. John Wiley and Sons. PP. 105-140. 1994.
+-->
 
 ##### Week 13 - 13th April 2017
 
+  * Carstens, A., and Beck, J. *Get ready for the gamer generation.* Tech Trends 49. PP.22-25. 2005.
+  * Nielsen, J. *Heuristic evaluation.* Usability inspection methods. New York. John Wiley and Sons. P. 30. 1994.
   * Robinson, W.L. *Conscious competency - the mark of a competent instructor.* Personnel Journal, 53. PP. 538-9. 1974.
-
--->
+  * Tyldesley, D.A. *Employing usability engineering in the development of office products.* Computer Journal, Vol. 31. No. 5, PP. 431-436. 1988.
 
 ##### Week 12 - 4th April 2018
 
