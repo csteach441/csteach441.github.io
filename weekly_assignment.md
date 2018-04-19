@@ -295,6 +295,24 @@ Enjoy your week, and Happy Easter.
 
 -->
 
+#### Week 14 - 18th April 2018
+* Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
+  * [final report outline](/assets/docs/extras/comp441-final-report-outline.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Please prepare your project's final presentation for next week's class, Wednesday 25th April 2018 at 4.15pm.
+  * each group presentation should be approximately 10 to 15 minutes in length
+  * style of presentation may include a formal presentation (slides &c.), online demo or video demonstration
+    * or a combination of the above options
+  * where possible, each member should contribute to the presentation
+  * your presentation should consider the pertinent aspects outlined in the [Final Report Outline](/assets/docs/extras/comp441-final-report-outline.pdf)
+    * each presentation will be an opportunity to condense this information for demonstration purposes
+
+If there are any specific software or hardware requirements for this presentation, please let me know before the start of next week's class.
+
+Any questions please let me know.
+
+Enjoy your week.
+
 #### Week 13 - 11th April 2018
 * Review this week's [notes and material](/notes), which includes the following extra notes
   * [final report outline](/assets/docs/extras/comp441-final-report-outline.pdf)

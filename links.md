@@ -76,6 +76,7 @@ and choose your favourite.
   * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
   * [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
+  * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
   * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
   * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
   * Google Prototyping Series
@@ -83,6 +84,8 @@ and choose your favourite.
     * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
     * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI)
   * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
+  * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
+  * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
   * [Milton Glaser](http://vimeo.com/11577085)
   * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
   * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
@@ -91,6 +94,7 @@ and choose your favourite.
   * [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)
   * [Super Mario Bros - Speed Run](https://www.youtube.com/watch?v=kcmKPmj9yeE)
   * [Super Mario Run](https://www.youtube.com/watch?v=rKG5jU6DV70)
+  * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
   * TED Talks
     * [Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
     * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
@@ -101,15 +105,12 @@ and choose your favourite.
 
 <!--
 * [Andi Bell explains the 'link method' memory technique](https://www.youtube.com/watch?v=9NROegsMqNc)
-* [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
-* [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
-* [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
-* [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
 -->
 
 #### Websites
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+* [Dark Patterns](http://darkpatterns.org/)
 * Gamification - [Yu-Kai Chou & Gamification](http://www.yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/#.VN0SLFPF-Qw)
 * Gestalt Principles - Brief Overviews
   * [APRK Topics](http://frnsys.com/topics/gestalt)
@@ -119,16 +120,12 @@ and choose your favourite.
 * Khan Academy - [Exercise Dashboard](https://www.khanacademy.org/exercisedashboard)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
 * [Milton Glaser](http://www.miltonglaser.com/)
+* Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
 * Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
-
-<!--
-* [Dark Patterns](http://darkpatterns.org/)
-* Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
--->
 
 ***
 
