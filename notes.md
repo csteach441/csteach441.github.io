@@ -18,11 +18,9 @@ This material will be updated on a weekly basis.
 
 ***
 
-<!--
-##### Week 15 - 27th April 2017
+##### Week 15 - 25th April 2018
   * extra - final report
-    * [final report outline](/assets/docs/2017/final-report-outline-2017.pdf)
--->
+    * [final report outline](/assets/docs/extras/comp441-final-report-outline.pdf)
 
 ##### Week 14 - 18th April 2018
   * [course](/assets/docs/2018/comp441-week14.pdf)

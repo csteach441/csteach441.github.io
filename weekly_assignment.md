@@ -295,6 +295,24 @@ Enjoy your week, and Happy Easter.
 
 -->
 
+#### Week 15 - 25th April 2018
+
+* Please complete your group's final project report
+  * suggested report length approximately 10 pages
+* Further details can be found in the following outline
+  * [final report outline](/assets/docs/extras/comp441-final-report-outline.pdf)
+* Report must be submitted by 4.15pm on Wednesday 2nd May 2018
+   * send a PDF copy to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP441 - Final Report)
+* Please share with me a copy of your group's final project material. This may include the following options,
+  * GitHub
+  * zip file containing project material
+
+**NB:** Don't forget to add details of each member's contributions to the project, where applicable, in this report. If you prefer, you may submit an individual report for this contribution outline to [nhayward@luc.edu](mailto:nhayward@luc.edu?subject=COMP441 - Individual Final Report)
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 14 - 18th April 2018
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
   * [final report outline](/assets/docs/extras/comp441-final-report-outline.pdf)

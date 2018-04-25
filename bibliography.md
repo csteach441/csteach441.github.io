@@ -20,12 +20,9 @@ There is no specific textbook for this course.
 
 ***
 
-<!--
-##### Week 15 - 27th April 2017
+##### Week 15 - 25th April 2018
 
   * N/A
-
--->
 
 ##### Week 14 - 18th April 2018
 
