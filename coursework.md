@@ -86,12 +86,14 @@ This assessment requires the design and development of a new interface for an ex
 	* group report must clearly define each student's work and contributions, where applicable
 	  * no attribution, no mark
 
+<!--
 #### Important assessment Dates
 
 * final team demo
   * due Wednesday 25th April 2018 @ 4.15pm
 * final team report
   * due Wednesday 2nd April 2018 @ 4.15pm
+-->
 
 #### Grading
 

@@ -12,6 +12,7 @@ published: true
 summary: course timetable for COMP 441
 ---
 
+<!--
 #### Class Schedule
 
 This class will meet at the following time and place,
@@ -34,3 +35,4 @@ This class will meet at the following time and place,
   * due Wednesday 25th April 2018 @ 4.15pm
 * final team report
   * due Wednesday 2nd May 2018 @ 4.15pm
+-->
