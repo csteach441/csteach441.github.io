@@ -7,11 +7,11 @@ categories:
 - blog
 
 tags: general news
-year: 2018
+year: 2019
 month: 01
-day: 16
+day: 14
 published: true
-summary: welcome to the new Spring semester, 2018
+summary: welcome to the new Spring semester, 2019
 menu: new-semester
 ---
 

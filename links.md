@@ -22,6 +22,9 @@ If you have any suggestions for additions to this section of the site, please fe
 
 ***
 
+Course links will be updated during the semester.
+
+<!--
 #### Articles & Papers
 
   * [Colour](https://robots.thoughtbot.com/color)
@@ -103,9 +106,7 @@ and choose your favourite.
     * [How to Read Music](https://www.youtube.com/watch?v=ZN41d7Txcq0)
   * [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
 
-<!--
 * [Andi Bell explains the 'link method' memory technique](https://www.youtube.com/watch?v=9NROegsMqNc)
--->
 
 #### Websites
 
@@ -130,3 +131,4 @@ and choose your favourite.
 ***
 
 **n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
+-->

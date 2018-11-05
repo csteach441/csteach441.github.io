@@ -20,6 +20,9 @@ There is no specific textbook for this course.
 
 ***
 
+Course bibliography will be updated during the semester.
+
+<!--
 ##### Week 15 - 25th April 2018
 
   * N/A
@@ -105,3 +108,4 @@ There is no specific textbook for this course.
 Seattle. 1990. PP.249-256.
   * Shneiderman, B. & Plaisant, C. *Designing the user interface: Strategies for effective human-computer
 interaction.* 5th Edition. Addison-Wesley. 2009.
+-->

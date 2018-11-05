@@ -18,6 +18,8 @@ summary: weekly assignment for COMP 441
 
 ***
 
+Course assignments will be updated during the semester.
+
 <!--
 #### Week 15 - 23rd April 2015
 * Please complete your final course assessment, the 'Demo and Report of Final Assessment'. An outline report is available at the following URL,
@@ -295,6 +297,9 @@ Enjoy your week, and Happy Easter.
 
 -->
 
+
+
+<!--
 #### Week 15 - 25th April 2018
 
 * Please complete your group's final project report
@@ -587,3 +592,4 @@ Please accept this invite as soon as possible. We shall be using Slack for class
 Any questions, please let me know.
 
 Enjoy your week.
+-->

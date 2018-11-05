@@ -18,6 +18,9 @@ This material will be updated on a weekly basis.
 
 ***
 
+Course notes will be updated during the semester.
+
+<!--
 ##### Week 15 - 25th April 2018
   * extra - final report
     * [final report outline](/assets/docs/extras/comp441-final-report-outline.pdf)
@@ -72,3 +75,4 @@ This material will be updated on a weekly basis.
 
 ##### Week 1 - 17th January 2018
   * [course](/assets/docs/2018/comp441-week1.pdf)
+-->
