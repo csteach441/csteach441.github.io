@@ -37,7 +37,7 @@ If you have any questions on the following assessments, please [contact](/contac
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
-* [Final Report Outline - PDF Document](/assets/docs/extras/comp441-final-report-outline.pdf)
+* [Final Report Outline - PDF Document](/assets/docs/extras/comp441-final-report-outline-2019.pdf)
 
 #### Assessed coursework will include the following primary categories
 
@@ -109,14 +109,16 @@ This assessment requires the design and development of a new interface for an ex
 	* group report must clearly define each student's work and contributions, where applicable
 	  * no attribution, no mark
 
-<!--
-#### Important assessment Dates
+#### Important assessment dates
 
+* project outline and mockup
+  * due Wednesday 13th February 2019 @ 7pm
+* DEV week demo
+  * due Wednesday 20th March 2019 @ 7pm
 * final team demo
-  * due Wednesday 25th April 2018 @ 4.15pm
+  * due Wednesday 24th April 2019 @ 7pm
 * final team report
-  * due Wednesday 2nd April 2018 @ 4.15pm
--->
+  * due Wednesday 1st May 2019 @ 7pm
 
 #### Grading
 

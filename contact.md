@@ -10,7 +10,7 @@ categories:
 
 tags: general site social
 published: true
-summary: contact details for COMP 441, Spring 2018
+summary: contact details for COMP 441
 ---
 
 For course enquiries, please use one of the following contact options
