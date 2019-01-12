@@ -84,7 +84,7 @@ If you have any questions on the following assessments, please [contact](/contac
   * analysis of work conducted so far
     * e.g. during semester & DEV week
   * presentation and demonstration...
-    * outline mobile app
+    * outline app
     * show prototypes and designs
     * explain what does & does not work
     * ...
