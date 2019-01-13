@@ -33,7 +33,7 @@ If you have any questions on the following assessments, please [contact](/contac
       * explain pros and cons of existing interface
       * contrast old and new interface
       * ...
-  * groups will be assigned at the start of the semester (max. 5 persons per group)
+  * work may be conducted individually or in groups (max. 4 persons per group)
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
