@@ -24,15 +24,17 @@ If you have any suggestions for additions to this section of the site, please fe
 
 Course links will be updated during the semester.
 
-<!--
+
 #### Articles & Papers
 
+  * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
+
+<!--
   * [Colour](https://robots.thoughtbot.com/color)
   * [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
   * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
   * [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
   * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
-  * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
   * [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
@@ -67,9 +69,14 @@ and choose your favourite.
 
 #### Various
   * NFL - [Colour Blindness](http://deadspin.com/stupid-nike-uniforms-wreaking-havoc-on-colorblind-nfl-f-1742272136)
+-->
 
 #### Videos
 
+  * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
+  * [Milton Glaser](http://vimeo.com/11577085)
+
+<!--
   * [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
   * [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
   * Chicago Tribune
@@ -81,7 +88,6 @@ and choose your favourite.
   * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
   * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
   * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
-  * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
   * Google Prototyping Series
     * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
     * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
@@ -89,7 +95,6 @@ and choose your favourite.
   * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
   * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
   * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
-  * [Milton Glaser](http://vimeo.com/11577085)
   * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
   * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
   * [Royal Game of Ur - The British Museum](https://www.youtube.com/watch?v=WZskjLq040I)
@@ -127,8 +132,8 @@ and choose your favourite.
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
 * Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
+-->
 
 ***
 
 **n.b.** we are not responsible for the content of external websites, and whilst we try to check the currency of each link, some may no longer work.
--->

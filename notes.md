@@ -73,6 +73,9 @@ Course notes will be updated during the semester.
   * extra
     * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
 
-##### Week 1 - 17th January 2018
-  * [course](/assets/docs/2018/comp441-week1.pdf)
 -->
+
+##### Week 1 - 16th January 2019
+  * [course](/assets/docs/comp441-week1.pdf)
+  * extras
+    * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
