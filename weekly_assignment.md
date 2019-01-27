@@ -533,7 +533,7 @@ Enjoy your week.
 #### Week 2 - 23rd January 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes
-* Please select one digital product that you like, and one that you dislike
+* Please select one digital product that your group likes, and one that your group dislikes
   * consider their user interfaces and general design
     * why do you like or dislike these products?
     * what would you like to change?
