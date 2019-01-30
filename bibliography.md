@@ -90,11 +90,11 @@ Course bibliography will be updated during the semester.
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction*. Lawrence Erlbaum Associates. 1983.
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
   * Miller, G. A. *The magical number seven, plus or minus two: Some limits on our capacity for processing information.*. Psychological Review, Vol. 63, Issue 2. PP. 81-97. 1956.
+-->
 
-##### Week 3 - 31st January 2018
+##### Week 3 - 30th January 2019
 
   * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
--->
 
 ##### Week 2 - 23rd January 2019
 

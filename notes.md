@@ -64,10 +64,10 @@ Course notes will be updated during the semester.
 
 ##### Week 4 - 7th February 2018
   * [course](/assets/docs/2018/comp441-week4.pdf)
-
-##### Week 3 - 31st January 2018
-  * [course](/assets/docs/2018/comp441-week3.pdf)
 -->
+
+##### Week 3 - 30th January 2019
+  * N/A
 
 ##### Week 2 - 23rd January 2019
   * [course](/assets/docs/comp441-week2.pdf)

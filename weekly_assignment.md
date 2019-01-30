@@ -515,9 +515,6 @@ Enjoy your week.
 
 #### Week 3 - 31st January 2018
 * Review this week's [notes and material](/notes), which includes the class notes
-* Please ensure you have now added your group's details to the course's Trello group
-  * add group members, name &c. to the [Week 1 - Project Details](https://trello.com/b/vt6nLjvb/week-1-project-details)
-  * further instructions are available on this board
 * Please answer the following questions on the [Week 3 - Problem Domain & Experience](https://trello.com/b/47MpJkFc/week-3-problem-domain-experience) board on Trello,
   * can you identify the **problem domain** for one of your applications/products?
   * can you think of any application interfaces with an **inherent assumption of experience**?
@@ -529,6 +526,33 @@ Any questions, please let me know.
 
 Enjoy your week.
 -->
+
+#### Week 3 - 30th January 2019
+* Review the class notes for weeks one and two, [notes and material](/notes)
+* Please ensure you have now added your group's details to the course's Trello group
+  * add group members, name &c. to the [Week 1 - Project Details](https://trello.com/b/PxADyged/week-1-project-details))
+  * further instructions are available on this board
+* Please review the following design videos relative to last week's class notes,
+  * [BBC - Design Rules - Colour](https://www.youtube.com/watch?v=fVjpKcAcZnw&index=496&list=WL&t=0s)
+  * [Beginning Graphic Design](https://www.youtube.com/playlist?list=PLpQQipWcxwt8vVzFpoJS5TtCh8Ktke9TH)
+    * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
+  * [Four Realms fashion featurette](https://www.youtube.com/watch?v=yGkfS9MXzWc&index=573&list=WL&t=0s)
+* The following video on *Mathematics of Visual Illusions* is an optional but fun lecture
+  * [Mathematics of Visual Illusions](https://www.youtube.com/watch?v=ZmTtMZiR3xQ&index=456&list=WL&t=0s)
+
+*n.b.* if you're interested in design, architecture, mathematics &c., the above video is a fascinating lecture. It is from a series of talks presented at the University of Oxford.
+
+*n.b.2* if you're interested in mathematics, Ian Stewart has written many fascinating books on the subject. Further details may be found at the following URL,
+
+* [Ian Stewart - Profile & Books](https://smile.amazon.com/Ian-Stewart/e/B00URW7B2G/ref=sr_tc_2_0?qid=1548880287&sr=8-2-ent)
+
+You might also consider the books of Marcus Du Sautoy,
+
+* [Marcus Du Sautoy - Profile & Books](https://smile.amazon.com/Marcus-Du-Sautoy/e/B001JOS6XY/ref=ntt_dp_epwbk_0)
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 #### Week 2 - 23rd January 2019
 
