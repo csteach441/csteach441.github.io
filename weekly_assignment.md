@@ -492,27 +492,6 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 4 - 7th February 2018
-* The following assignment is your first formal in-class preparatory work towards the final course assessment, as detailed in the overall [coursework](/coursework) outline, no.2.
-  * Please prepare, either within your group or individually, a brief lightning presentation of approximately 5 to 10 minutes. It should include the following information:
-    * brief outline of your initial concept/concepts for the final assessment
-    * what is good and bad with the current interface?
-      * in particular, consider this with regard to material we have covered over the first four weeks of the semester
-    * initial thoughts on aspects you'd like to improve and modify for your final assessment
-    * brief comments on proposed development plan up to the end of Spring break of the current semester
-
-Presentations will be scheduled for the start of next week's class, which begins at 4.15pm on Wednesday 14th February 2018.
-
-**NB:** A formal slide presentation is optional. It is up to you to decide upon a preferred presentation style for this assignment. This style of quick presentation is becoming increasingly popular at less formal conferences.
-
-Please consider it useful practice for the final presentation.
-
-* Ensure you have read through all of the course [notes](/notes) for the first four weeks of the semester.
-
-Any questions, please let me know.
-
-Enjoy your week.
-
 #### Week 3 - 31st January 2018
 * Review this week's [notes and material](/notes), which includes the class notes
 * Please answer the following questions on the [Week 3 - Problem Domain & Experience](https://trello.com/b/47MpJkFc/week-3-problem-domain-experience) board on Trello,
@@ -526,6 +505,32 @@ Any questions, please let me know.
 
 Enjoy your week.
 -->
+
+#### Week 4 - 6th February 2019
+* Review this week's [notes and material](/notes), which includes the class notes, and the following extras,
+  * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review the following video
+  * [Google Prototyping series - Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
+* The following assignment is your first formal in-class preparatory work towards the final course assessment, as detailed in the overall [coursework](/coursework) outline, no.2.
+  * Please prepare, either within your group or individually, a brief lightning presentation of approximately 5 to 10 minutes. It should include the following information:
+    * brief outline of your initial concept/concepts for the final assessment
+    * what is good and bad with the current interface?
+      * in particular, consider this with regard to material we have covered over the first four weeks of the semester
+    * initial thoughts on aspects you'd like to improve and modify for your final assessment
+    * brief comments on proposed development plan up to the DEV week demo in Week 10 of the semester
+
+Presentations will be scheduled for the start of next week's class, which begins at 7pm on Wednesday 13th February 2019.
+
+**NB:** A formal slide presentation is optional. It is up to you to decide upon a preferred presentation style for this assignment. This style of quick presentation is becoming increasingly popular at less formal conferences.
+
+Please consider it useful practice for the remaining presentations.
+
+* Ensure you have read through all of the course [notes](/notes) for the first four weeks of the semester.
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 #### Week 3 - 30th January 2019
 * Review the class notes for weeks one and two, [notes and material](/notes)
@@ -558,6 +563,7 @@ Enjoy your week.
 #### Week 2 - 23rd January 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
 * Please select one digital product that your group likes, and one that your group dislikes
   * consider their user interfaces and general design
     * why do you like or dislike these products?
@@ -578,6 +584,7 @@ Enjoy your week.
 #### Week 1 - 16th January 2019
 
 * Review this week's [notes and material](/notes), which includes the class notes
+* Review this week's [bibliography](/bibliography) links and material
 * Research and review the work of graphic designer, Milton Glaser
   * watch the intro video listed on slide 31 of this week's course notes
     * [Vimeo - Milton Glaser Intro](http://vimeo.com/11577085)
