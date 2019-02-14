@@ -476,21 +476,38 @@ Enjoy your Spring Break.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 5 - 14th February 2018
-* Please send me a copy of your slides &c., where applicable, for this week's presentation
-    * an attachment to an email, private message on Slack, or shared online will be fine
-* Please prepare for a quiz at the end of next week's class. This quiz will include the following:
-  * material covered within the class [notes](/notes), weeks 1 to 5, and material discussed in class
-  * multiple choice questions
-  * you will be given ~ 40 minutes to complete the quiz in class
-  * please ensure you have a registered Google account, which we'll use to complete the online form
-  * please ensure you bring an internet enabled device to class
-    * e.g. laptop, tablet, smartphone...
+#### Week 5 - 13th February 2019
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - Tapioca](https://goo.gl/forms/MVpxHuNjZvLNWsHz1)
+  * [Group 2 - Music Player](https://goo.gl/forms/qUX7Hrneh530TTN83)
+  * [Group 3 - Scare Board](https://goo.gl/forms/h1kYeMZPq7u2dEHI3)
+  * [Group 4 - ParkChicago](https://goo.gl/forms/qRBsZq72AnIZM3e63)
+  * [Group 5 - Craigslist](https://goo.gl/forms/ccdPzJHl8tOSBUF63)
+  * [Group 6 - Berkshire Hathaway](https://goo.gl/forms/O0ze5eYGaDPIdZnz1)
+  * [Group 7 - In Media Res](https://goo.gl/forms/Zky3IjxjmanstEOw2)
+  * [Group 8 - Path of Exile](https://goo.gl/forms/GLwcORlTTrBT1eMa2)
+  * [Group 9 - Project LTD](https://goo.gl/forms/w1P0VbcgxGXQV3993)
+  * [Group 10 - Recipes](https://goo.gl/forms/6o9Fq1kMJRy8cYSK2)
+* Complete these peer review forms by **Wednesday 20th February 2019** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 5 - Presentation Files](https://trello.com/b/GDzcs02m/week-5-presentation-files)
+  * Please add these files as soon as possible, and by **Wednesday 20th February 2019** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 5 - Project Contributions](https://trello.com/b/ij94ulXh/week-5-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Wednesday 20th February 2019** at the latest
 
 Any questions, please let me know.
 
 Enjoy your week.
+
+<!--
 
 #### Week 3 - 31st January 2018
 * Review this week's [notes and material](/notes), which includes the class notes
