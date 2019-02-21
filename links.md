@@ -29,14 +29,14 @@ Course links will be updated during the semester.
 
   * [Colour](https://robots.thoughtbot.com/color)
   * [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
+  * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
   * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
+  * [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
 <!--
   * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
   * [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
-  * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
-  * [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -92,7 +92,9 @@ and choose your favourite.
   * [Super Mario Bros - Speed Run](https://www.youtube.com/watch?v=kcmKPmj9yeE)
   * [Super Mario Run](https://www.youtube.com/watch?v=rKG5jU6DV70)
   * TED Talks
+    * [Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
     * [How the hyperlink changed everything](https://www.youtube.com/watch?v=3Va3oY8pfSI&t=4s)
+    * [How the progress bar keeps you sane](https://www.youtube.com/watch?v=NAYkF04IZHI&index=577&list=WL&t=0s)
     * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
   * [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY&index=428&list=WL&t=0s)
 
@@ -114,8 +116,6 @@ and choose your favourite.
   * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
   * [Royal Game of Ur - The British Museum](https://www.youtube.com/watch?v=WZskjLq040I)
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
-  * TED Talks
-    * [Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
   * TED-Ed Talks
     * [How to Practice Effectively...](https://www.youtube.com/watch?v=f2O6mQkFiiw)
     * [How to Read Music](https://www.youtube.com/watch?v=ZN41d7Txcq0)
@@ -127,13 +127,14 @@ and choose your favourite.
 #### Websites
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+* [Dark Patterns](http://darkpatterns.org/)
 * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
 * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
 * [Milton Glaser](http://www.miltonglaser.com/)
+* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
 
 <!--
-* [Dark Patterns](http://darkpatterns.org/)
 * Gamification - [Yu-Kai Chou & Gamification](http://www.yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/#.VN0SLFPF-Qw)
 * Gestalt Principles - Brief Overviews
   * [APRK Topics](http://frnsys.com/topics/gestalt)
@@ -144,7 +145,6 @@ and choose your favourite.
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
-* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
 -->
 
 ***

@@ -53,10 +53,10 @@ Course notes will be updated during the semester.
 
 ##### Week 7 - 28th February 2018
   * [course](/assets/docs/2018/comp441-week7.pdf)
-
-##### Week 6 - 21st February 2018
-  * [course](/assets/docs/2018/comp441-week6.pdf)
 -->
+
+##### Week 6 - 20th February 2019
+  * [course](/assets/docs/comp441-week6.pdf)
 
 ##### Week 5 - 13th February 2019
   * N/A - Presentations

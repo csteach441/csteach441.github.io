@@ -459,24 +459,23 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your Spring Break.
+-->
 
-#### Week 6 - 21st February 2018
+#### Week 6 - 20th February 2019
 * Review this week's [notes and material](/notes), in particular the material concerning the KLM-GOMS model.
 * Review this week's [bibliography](/bibliography) links and material
 * Relative to your chosen project for the final assessment, please consider and define the following,
-  * the primary, default functionality for your project's product, website, service &c..
+  * the primary, default functionality for your project's product, website, service &c.
     * in effect, your project's 'big, green button'
   * test user interaction with this defined primary, default functionality using the KLM-GOMS model
     * please refer to the KLM-GOMS model as defined in this week's notes
     * use the example listed in this week's notes as a guide to test your own project's product
   * Please add a copy of this material to the following Trello board,
-    * [Week 6 - Initial Testing](https://trello.com/b/BD1uFCgJ/week-6-initial-testing)
-    * instructions for this exercise are also available on the above Trello board
+    * [Week 6 - Initial Testing](https://trello.com/b/metQgWhd/wek-6-initial-testing)
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 5 - 13th February 2019
 * Complete the following peer review forms individually for the DEV Week projects and presentations
