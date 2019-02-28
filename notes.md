@@ -50,10 +50,10 @@ Course notes will be updated during the semester.
 ##### Week 8 - 7th March 2018
 
   * N/A - Spring Break
-
-##### Week 7 - 28th February 2018
-  * [course](/assets/docs/2018/comp441-week7.pdf)
 -->
+
+##### Week 7 - 27th February 2019
+  * [course](/assets/docs/comp441-week7.pdf)
 
 ##### Week 6 - 20th February 2019
   * [course](/assets/docs/comp441-week6.pdf)

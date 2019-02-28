@@ -78,12 +78,15 @@ and choose your favourite.
   * [Beginning Graphic Design](https://www.youtube.com/playlist?list=PLpQQipWcxwt8vVzFpoJS5TtCh8Ktke9TH)
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
     * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
+  * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
+  * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
   * [Four Realms fashion featurette](https://www.youtube.com/watch?v=yGkfS9MXzWc&index=573&list=WL&t=0s)
   * [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
   * Google Prototyping Series
     * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
   * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
+  * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
   * [Mathematics of Visual Illusions](https://www.youtube.com/watch?v=ZmTtMZiR3xQ&index=456&list=WL&t=0s)
   * [Milton Glaser](http://vimeo.com/11577085)
   * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
@@ -103,14 +106,11 @@ and choose your favourite.
   * Chicago Tribune
     * [Touchscreens at Lincoln Park Zoo](https://www.youtube.com/watch?v=lusOgox4xMI)
   * [Curator's Corner - The British Museum](https://www.youtube.com/watch?v=wHjznvH54Cw)
-  * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
-  * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
   * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
   * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
   * Google Prototyping Series
     * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
     * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI)
-  * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
   * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
   * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
   * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
@@ -128,18 +128,18 @@ and choose your favourite.
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
 * [Dark Patterns](http://darkpatterns.org/)
+* Gamification - [Yu-Kai Chou & Gamification](http://www.yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/#.VN0SLFPF-Qw)
+* Gestalt Principles - Brief Overviews
+  * [APRK Topics](http://frnsys.com/topics/gestalt)
+  * [Web Designer Depot](http://www.webdesignerdepot.com/2011/08/strengthening-behavioral-cues-in-ux-web-design-with-gestalt-principles/)
 * Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
 * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
+* Khan Academy - [Exercise Dashboard](https://www.khanacademy.org/exercisedashboard)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
 * [Milton Glaser](http://www.miltonglaser.com/)
 * Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
 
 <!--
-* Gamification - [Yu-Kai Chou & Gamification](http://www.yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/#.VN0SLFPF-Qw)
-* Gestalt Principles - Brief Overviews
-  * [APRK Topics](http://frnsys.com/topics/gestalt)
-  * [Web Designer Depot](http://www.webdesignerdepot.com/2011/08/strengthening-behavioral-cues-in-ux-web-design-with-gestalt-principles/)
-* Khan Academy - [Exercise Dashboard](https://www.khanacademy.org/exercisedashboard)
 * Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)

@@ -440,26 +440,17 @@ Enjoy your week.
 #### Week 8 - 7th March 2018
 
 * N/A - Spring Break
+* -->
 
-#### Week 7 - 28th February 2018
+#### Week 7 - 27th February 2019
 * Review this week's [notes and material](/notes), which includes the following extra document
   * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
 * Review this week's [bibliography](/bibliography) links and material
-* Relative to your chosen project for the final assessment, please consider the following
-  * start to design and prepare a mockup for your design
-    * a single page, screen or place within your project
-    * e.g. updated home page, user account screen, section of a level in a game, &c.
-  * you may choose either a low-fidelity or high-fidelity mockup
-  * please add sample images of this mockup to the following Trello board,
-    * [Week 7 - Mockups](https://trello.com/b/OaRxElau/week-7-mockups)
-  * please prepare a brief demo of this mockup for the start of the next class
-    * supporting material may also be shown in a brief presentation, where applicable
-    * demo and presentation will be on Wednesday 14th March at 4.15pm
+* Please continue development of your project application towards *Week 10 - DEV Week* demo and presentations 
 
 Any questions, please let me know.
 
 Enjoy your Spring Break.
--->
 
 #### Week 6 - 20th February 2019
 * Review this week's [notes and material](/notes), in particular the material concerning the KLM-GOMS model.
@@ -485,7 +476,7 @@ Enjoy your week.
   * [Group 4 - ParkChicago](https://goo.gl/forms/qRBsZq72AnIZM3e63)
   * [Group 5 - Craigslist](https://goo.gl/forms/ccdPzJHl8tOSBUF63)
   * [Group 6 - Berkshire Hathaway](https://goo.gl/forms/O0ze5eYGaDPIdZnz1)
-  * [Group 7 - In Media Res](https://goo.gl/forms/Zky3IjxjmanstEOw2)
+  * [Group 7 - In Medias Res](https://goo.gl/forms/Zky3IjxjmanstEOw2)
   * [Group 8 - Path of Exile](https://goo.gl/forms/GLwcORlTTrBT1eMa2)
   * [Group 9 - Project LTD](https://goo.gl/forms/w1P0VbcgxGXQV3993)
   * [Group 10 - Recipes](https://goo.gl/forms/6o9Fq1kMJRy8cYSK2)

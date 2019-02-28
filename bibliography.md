@@ -63,7 +63,9 @@ Course bibliography will be updated during the semester.
 
   * N/A - Spring Break
 
-##### Week 7 - 28th February 2018
+-->
+
+##### Week 7 - 27th February 2019
 
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
   * Carstens, A., and Beck, J. *Get ready for the gamer generation.* Tech Trends 49. PP.22-25. 2005.
@@ -74,16 +76,10 @@ Course bibliography will be updated during the semester.
   * Van Eck, R.N. *Digital game-based learning.* Educause Review 41. PP.17-30. 2006.
   * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
 
-##### Week 6 - 21st February 2018
-
-  * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction*. Lawrence Erlbaum Associates. 1983.
-  * Holleis, P. et al. *Keystroke-level model for advanced mobile phone interaction.* CHI' 07. New York, USA. 2007.
-  * Kieras, D. *Using the Keystroke-Level Model to Estimate Execution Times.* 1993. [http://courses.wccnet.edu/~jwithrow/docs/klm.pdf](http://courses.wccnet.edu/~jwithrow/docs/klm.pdf)
-  * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
--->
-
 ##### Week 6 - 20th February 2019
 
+  * Holleis, P. et al. *Keystroke-level model for advanced mobile phone interaction.* CHI' 07. New York, USA. 2007.
+  * Kieras, D. *Using the Keystroke-Level Model to Estimate Execution Times.* 1993. [http://courses.wccnet.edu/~jwithrow/docs/klm.pdf](http://courses.wccnet.edu/~jwithrow/docs/klm.pdf)
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
   * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
 
