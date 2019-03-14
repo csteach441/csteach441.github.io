@@ -49,21 +49,20 @@ Course bibliography will be updated during the semester.
 
   * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
 
-##### Week 10 - 21st March 2018
+##### Week 10 - 20th March 2019
+
+  * N/A - Presentations
+-->
+
+##### Week 9 - 13th March 2019
 
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
   * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
   * Wertheimer, M. *Laws of Organisation in Perceptual Forms.* 1923.
 
-##### Week 9 - 14th March 2018
-
-  * N/A - Presentations
-
-##### Week 8 - 7th March 2018
+##### Week 8 - 6th March 2019
 
   * N/A - Spring Break
-
--->
 
 ##### Week 7 - 27th February 2019
 

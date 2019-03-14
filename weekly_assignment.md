@@ -436,11 +436,35 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 8 - 7th March 2018
+#### Week 9 - 13th March 2019
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the following extras,
+  * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Review the following video
+  * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
+* Please prepare, either within your group or individually, your DEV Week demo and presentation. This should include the following
+  * a brief demo and presentation of current project work ~ 10 minutes per group
+  * analysis of work conducted so far
+    * e.g. during semester & DEV week
+  * demo and presentation...
+    * outline app
+    * show prototypes and designs
+    * explain what does & does not work
+    * show and explain differences from Week 5 presentation
+    * ...
+
+Presentations will be scheduled for the start of next week's class, which begins at 7pm on Wednesday 20th March 2019.
+
+Any questions, please let me know.
+
+Enjoy your week.
+
+#### Week 8 - 6th March 2019
 
 * N/A - Spring Break
-* -->
 
 #### Week 7 - 27th February 2019
 * Review this week's [notes and material](/notes), which includes the following extra document
