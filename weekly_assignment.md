@@ -422,21 +422,39 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 9 - 14th March 2018
-* Please send me a copy of your slides &c., where applicable, for this week's presentation
-    * an attachment to an email, private message on Slack, or shared online will be fine
-* Relative to your chosen project for the final assessment, please consider and define the following,
-  * choose a page, window, frame &c. from your original or new product - one that demonstrates example content and usage
-  * consider default patterns a user might follow within this page &c.
-    * e.g. which zones, content, links &c. are most prevalent within that page &c.
-  * Please add a copy of this material to the following Trello board,
-    * [Week 9 - Patterns](https://trello.com/b/S2WGrP0L/week-9-patterns)
-    * instructions for this exercise are also available on the above Trello board
+-->
+
+#### Week 10 - 20th March 2019
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - Project LTD](https://goo.gl/forms/ujDNaTOTLItq0k8w2)
+  * [Group 2 - Path of Exile](https://goo.gl/forms/eF4ax5GJrUPpeD4p2)
+  * [Group 3 - ParkChicago](https://goo.gl/forms/hgc0cpPEku2SAqJ03)
+  * [Group 4 - Tapioca](https://goo.gl/forms/DLdU3eB9k5rROp5q2)
+  * [Group 5 - Berkshire Hathaway](https://goo.gl/forms/cjlVWJxKD4V9tbaX2)
+  * [Group 6 - Scare Board](https://goo.gl/forms/BEBXSj9sotQIGhAC3)
+  * [Group 7 - Music Player](https://goo.gl/forms/x0oyakQUF361qDRk2)
+  * [Group 8 - Craigslist](https://goo.gl/forms/ytAbfqexx3RM7XZB2)
+  
+  <!-- * [Group 9 - Recipes](https://goo.gl/forms/f27mntMBNF36inW82)
+  * [Group 10 - In Medias Res](https://goo.gl/forms/JC7LuPYN59dK1dql2) -->
+
+
+* Complete these peer review forms by **Wednesday 27th March 2019** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 10 - Presentation Files](https://trello.com/b/zXCKNjTm/week-10-presentation-files)
+  * Please add these files as soon as possible, and by **Wednesday 27th March 2019** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 10 - Project Contributions](https://trello.com/b/3hMYvf30/week-10-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Wednesday 27th March 2019** at the latest
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 9 - 13th March 2019
 

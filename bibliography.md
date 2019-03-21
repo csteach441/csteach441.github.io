@@ -48,11 +48,11 @@ Course bibliography will be updated during the semester.
 ##### Week 11 - 28th March 2018
 
   * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
+-->
 
 ##### Week 10 - 20th March 2019
 
   * N/A - Presentations
--->
 
 ##### Week 9 - 13th March 2019
 
