@@ -29,6 +29,7 @@ Course links will be updated during the semester.
 
   * [Colour](https://robots.thoughtbot.com/color)
   * [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
+  * [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
   * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
   * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
@@ -36,7 +37,6 @@ Course links will be updated during the semester.
 
 <!--
   * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
-  * [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -94,6 +94,7 @@ and choose your favourite.
   * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
   * [Mathematics of Visual Illusions](https://www.youtube.com/watch?v=ZmTtMZiR3xQ&index=456&list=WL&t=0s)
   * [Milton Glaser](http://vimeo.com/11577085)
+  * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
   * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
   * [Royal Game of Ur - The British Museum](https://www.youtube.com/watch?v=WZskjLq040I)
   * [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
@@ -105,6 +106,9 @@ and choose your favourite.
     * [How the hyperlink changed everything](https://www.youtube.com/watch?v=3Va3oY8pfSI&t=4s)
     * [How the progress bar keeps you sane](https://www.youtube.com/watch?v=NAYkF04IZHI&index=577&list=WL&t=0s)
     * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
+  * TED-Ed Talks
+    * [How to Practice Effectively...](https://www.youtube.com/watch?v=f2O6mQkFiiw)
+    * [How to Read Music](https://www.youtube.com/watch?v=ZN41d7Txcq0)
   * [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY&index=428&list=WL&t=0s)
 
 <!--
@@ -113,11 +117,7 @@ and choose your favourite.
   * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
   * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
   * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
-  * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
-  * TED-Ed Talks
-    * [How to Practice Effectively...](https://www.youtube.com/watch?v=f2O6mQkFiiw)
-    * [How to Read Music](https://www.youtube.com/watch?v=ZN41d7Txcq0)
   * [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
 
 * [Andi Bell explains the 'link method' memory technique](https://www.youtube.com/watch?v=9NROegsMqNc)
@@ -136,10 +136,10 @@ and choose your favourite.
 * Khan Academy - [Exercise Dashboard](https://www.khanacademy.org/exercisedashboard)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
 * [Milton Glaser](http://www.miltonglaser.com/)
+* Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
 * Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
 
 <!--
-* Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)

@@ -37,10 +37,10 @@ Course notes will be updated during the semester.
 
 ##### Week 12 - 4th April 2018
   * [course](/assets/docs/2018/comp441-week12.pdf)
-
-##### Week 11 - 28th March 2018
-  * [course](/assets/docs/2018/comp441-week11.pdf)
 -->
+
+##### Week 11 - 27th March 2019
+  * [course](/assets/docs/comp441-week11.pdf)
 
 ##### Week 10 - 20th March 2019
   *  N/A - Presentations
