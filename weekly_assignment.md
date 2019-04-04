@@ -376,17 +376,17 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 11 - 28th March 2018
+#### Week 12 - 3rd April 2019
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
-* Please consider an application design for this afternoon's *Fun Exercise*
+* Please consider an application design for this evening's *Fun Exercises*
   * use the material considered during class for each part of the exercise
-  * as an **individual**, please create a **mockup** of your design for the application
-    * mockup fidelity is an individual choice
+  * as an **individual**, please create a **prototype/s** of your design for the application
   * submit a copy of this mockup to the following Trello board,
-    * [Week 11 - Exercise Mockup](https://trello.com/b/MOOct3Xf/week-11-exercise-mockup)
-* Please contribute to this week's class discussion on Slack, **#discussion-week11**, by adding the following information,
+    * [Week 12 - Exercise Prototype](https://trello.com/b/2mkNoXnR/week-12-exercise-prototype)
+* Please contribute to this week's class discussion on Slack, **#discussion-week12**, by adding the following information,
   * choose three favourite tutorial websites or applications. For each application, please consider the following
     * what is the considered scope of the application's functionality?
     * what are the defined **places** in the application?
@@ -397,7 +397,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 11 - 27th March 2019
 * * Complete the following peer review forms individually for the DEV Week projects and presentations

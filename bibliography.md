@@ -39,12 +39,12 @@ Course bibliography will be updated during the semester.
   * Nielsen, J. *Heuristic evaluation.* Usability inspection methods. New York. John Wiley and Sons. P. 30. 1994.
   * Robinson, W.L. *Conscious competency - the mark of a competent instructor.* Personnel Journal, 53. PP. 538-9. 1974.
   * Tyldesley, D.A. *Employing usability engineering in the development of office products.* Computer Journal, Vol. 31. No. 5, PP. 431-436. 1988.
+-->
 
-##### Week 12 - 4th April 2018
+##### Week 12 - 3rd April 2019
 
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
   * Cooper, A. et al. *About Face 3: The essentials of interaction design.* Wiley. 2007.
--->
 
 ##### Week 11 - 27th March 2019
 
