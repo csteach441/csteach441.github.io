@@ -29,6 +29,7 @@ Course links will be updated during the semester.
 
   * [Colour](https://robots.thoughtbot.com/color)
   * [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
+  * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
   * [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
   * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
   * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
@@ -36,7 +37,6 @@ Course links will be updated during the semester.
   * [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
 <!--
-  * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -74,6 +74,7 @@ and choose your favourite.
 #### Videos
 
   * [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
+  * [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
   * [BBC - Design Rules - Colour](https://www.youtube.com/watch?v=fVjpKcAcZnw&index=496&list=WL&t=0s)
   * [Beginning Graphic Design](https://www.youtube.com/playlist?list=PLpQQipWcxwt8vVzFpoJS5TtCh8Ktke9TH)
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
@@ -90,9 +91,12 @@ and choose your favourite.
     * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
     * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
     * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI)
+  * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
   * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
   * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
+  * [Macintosh UI demo](https://www.youtube.com/watch?v=y58u79RrK60)
   * [Mathematics of Visual Illusions](https://www.youtube.com/watch?v=ZmTtMZiR3xQ&index=456&list=WL&t=0s)
+  * [Microsoft HoloLens 2 demo - MWC 2019](https://www.youtube.com/watch?v=8wHC2Rb46H4)
   * [Milton Glaser](http://vimeo.com/11577085)
   * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
   * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
@@ -110,11 +114,10 @@ and choose your favourite.
     * [How to Practice Effectively...](https://www.youtube.com/watch?v=f2O6mQkFiiw)
     * [How to Read Music](https://www.youtube.com/watch?v=ZN41d7Txcq0)
   * [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY&index=428&list=WL&t=0s)
+  * [Xerox Star UI](https://www.youtube.com/watch?v=Cn4vC80Pv6Q)
 
 <!--
-  * [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
   * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
-  * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
   * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
   * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
@@ -135,16 +138,16 @@ and choose your favourite.
 * Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 * Khan Academy - [Exercise Dashboard](https://www.khanacademy.org/exercisedashboard)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
+* Microsoft - [What are model-drive apps?](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/model-driven-app-overview)
 * [Milton Glaser](http://www.miltonglaser.com/)
 * Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
-* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
-
-<!--
+* [The Chicago 00 Project](http://chicago00.org/) 
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
--->
+* [UX of VR](https://www.uxofvr.com/)
+* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
 
 ***
 

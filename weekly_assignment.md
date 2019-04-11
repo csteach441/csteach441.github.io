@@ -335,17 +335,17 @@ If there are any specific software or hardware requirements for this presentatio
 Any questions please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 13 - 11th April 2018
-* Review this week's [notes and material](/notes), which includes the following extra notes
-  * [final report outline](/assets/docs/extras/comp441-final-report-outline.pdf)
+#### Week 13 - 10th April 2019
+* Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
-* Relative to your chosen project for the final assessment, please consider and define the following,
-  * how you intend to encourage a user's competence relative to your application?
-    * e.g. consider the Robinson model of competence, and the various stages
-  * Please add a copy of this material to the following Trello board,
-    * [Week 13 - Competence](https://trello.com/b/4GYr7AiS/week-13-competence)
-    * instructions for this exercise are also available on the above Trello board
+* Please create a list on the [Week 13 - Final Plan](https://trello.com/b/R0fyI58F/week-13-final-plan) Trello board for your group, and add the following details,
+  * a brief plan and outline for your group's remaining work
+  * this should include any work that is planned towards your group's final project presentation
+    * this may include development, research, design, testing, and so on
+  * please also include an outline of planned contribution from each group member
+* Please continue project design and development for the end of semester final presentation and report
 * Please contribute to this week's class discussion on Slack, **#discussion-week13**, by adding the following information,
   * consider two examples of *media streaming services*, which provide both web and mobile applications. For each example, please consider the following
     * differences between internal and external *consistency* for these apps
@@ -358,15 +358,16 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 12 - 4th April 2018
+<!-- 
+#### Week 13 - 10th April 2019
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
 * Please consider an application design for this afternoon's *Fun Exercise*
   * use the material considered during class for each part of the exercise
   * as an **individual**, please create a **prototype/s** of your design for the application
   * submit a copy of this mockup to the following Trello board,
-    * [Week 12 - Exercise Prototype](https://trello.com/b/cr6AtsP3/week-12-exercise-prototype)
-* Please contribute to this week's class discussion on Slack, **#discussion-week12**, by adding the following information,
+    * [Week 13 - Exercise Prototype]()
+* Please contribute to this week's class discussion on Slack, **#discussion-week13**, by adding the following information,
   * consider three examples of *UI design for adaptive training applications*. For each example, please consider the following
     * do they consider or use the concept of the *Power Law of Practice*?
     * how do they promote or encourage training and learning?
@@ -375,7 +376,7 @@ Enjoy your week.
 
 Any questions, please let me know.
 
-Enjoy your week.
+Enjoy your week. 
 -->
 
 #### Week 12 - 3rd April 2019
