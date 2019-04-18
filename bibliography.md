@@ -26,13 +26,13 @@ Course bibliography will be updated during the semester.
 ##### Week 15 - 25th April 2018
 
   * N/A
+-->
 
-##### Week 14 - 18th April 2018
+##### Week 14 - 17th April 2019
 
   * Nielsen, J. *Heuristic evaluation.* Usability inspection methods. New York. John Wiley and Sons. P. 30. 1994.
   * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
   * Wharton, C. et al. *The cognitive walkthrough method: A practitioner's guide.* Usability inspection methods. New York. John Wiley and Sons. PP. 105-140. 1994.
-  * -->
 
 ##### Week 13 - 10th April 2019
 

@@ -317,17 +317,23 @@ Enjoy your week, and Happy Easter.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 14 - 18th April 2018
+#### Week 14 - 17th April 2019
 * Review this week's [notes and material](/notes), which includes the class notes and the following extra notes
-  * [final report outline](/assets/docs/extras/comp441-final-report-outline.pdf)
+  * [final report outline](/assets/docs/extras/comp441-final-report-outline-2019.pdf)
 * Review this week's [bibliography](/bibliography) links and material
-* Please prepare your project's final presentation for next week's class, Wednesday 25th April 2018 at 4.15pm.
-  * each group presentation should be approximately 10 to 15 minutes in length
+* Please consider an application design for this evening's *Fun Exercises*
+  * use the material considered during class for each part of the exercise
+  * as an **individual**, please outline your design for the application
+  * submit a copy of this outline to the following Trello board,
+    * [Week 14 - Exercise Outline](https://trello.com/b/iZA9fDzM/week-14-exercise-outline)
+* Please prepare your project's final presentation for next week's class, Wednesday 24th April 2019 at 7pm.
+  * each group presentation should be approximately 10 minutes in length
   * style of presentation may include a formal presentation (slides &c.), online demo or video demonstration
     * or a combination of the above options
   * where possible, each member should contribute to the presentation
-  * your presentation should consider the pertinent aspects outlined in the [Final Report Outline](/assets/docs/extras/comp441-final-report-outline.pdf)
+  * your presentation should consider the pertinent aspects outlined in the [final report outline](/assets/docs/extras/comp441-final-report-outline-2019.pdf)
     * each presentation will be an opportunity to condense this information for demonstration purposes
 
 If there are any specific software or hardware requirements for this presentation, please let me know before the start of next week's class.
@@ -335,7 +341,6 @@ If there are any specific software or hardware requirements for this presentatio
 Any questions please let me know.
 
 Enjoy your week.
--->
 
 #### Week 13 - 10th April 2019
 * Review this week's [notes and material](/notes), which includes the class notes

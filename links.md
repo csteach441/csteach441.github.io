@@ -36,8 +36,6 @@ Course links will be updated during the semester.
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
   * [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
-<!--
-
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
   * [Bootstrap](http://getbootstrap.com/)
@@ -53,7 +51,6 @@ Course links will be updated during the semester.
 
 **NB:** there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8)
 and choose your favourite.
--->
 
 #### Mockup and Prototype Tools - a few examples
 
@@ -86,6 +83,7 @@ and choose your favourite.
   * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
   * [Four Realms fashion featurette](https://www.youtube.com/watch?v=yGkfS9MXzWc&index=573&list=WL&t=0s)
   * [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
+  * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
   * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
   * Google Prototyping Series
     * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
@@ -97,6 +95,8 @@ and choose your favourite.
   * [Macintosh UI demo](https://www.youtube.com/watch?v=y58u79RrK60)
   * [Mathematics of Visual Illusions](https://www.youtube.com/watch?v=ZmTtMZiR3xQ&index=456&list=WL&t=0s)
   * [Microsoft HoloLens 2 demo - MWC 2019](https://www.youtube.com/watch?v=8wHC2Rb46H4)
+  * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
+  * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
   * [Milton Glaser](http://vimeo.com/11577085)
   * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
   * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
@@ -113,18 +113,10 @@ and choose your favourite.
   * TED-Ed Talks
     * [How to Practice Effectively...](https://www.youtube.com/watch?v=f2O6mQkFiiw)
     * [How to Read Music](https://www.youtube.com/watch?v=ZN41d7Txcq0)
-  * [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY&index=428&list=WL&t=0s)
-  * [Xerox Star UI](https://www.youtube.com/watch?v=Cn4vC80Pv6Q)
-
-<!--
-  * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
-  * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
-  * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
+  * [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY&index=428&list=WL&t=0s)
   * [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
-
-* [Andi Bell explains the 'link method' memory technique](https://www.youtube.com/watch?v=9NROegsMqNc)
--->
+  * [Xerox Star UI](https://www.youtube.com/watch?v=Cn4vC80Pv6Q)
 
 #### Websites
 
