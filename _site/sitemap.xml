@@ -1,201 +1,267 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://localhost:4000/blog/week-15-update</loc>
-    <lastmod>2019-04-24T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-14-update</loc>
-    <lastmod>2019-04-17T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-13-update</loc>
-    <lastmod>2019-04-10T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-12-update</loc>
-    <lastmod>2019-04-03T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-11-update</loc>
-    <lastmod>2019-03-27T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-10-update</loc>
-    <lastmod>2019-03-20T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-9-update</loc>
-    <lastmod>2019-03-13T00:00:00-05:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-7-update</loc>
-    <lastmod>2019-02-27T00:00:00-06:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-6-update</loc>
-    <lastmod>2019-02-20T00:00:00-06:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-5-update</loc>
-    <lastmod>2019-02-13T00:00:00-06:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-4-update</loc>
-    <lastmod>2019-02-06T00:00:00-06:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-3-update</loc>
-    <lastmod>2019-01-30T00:00:00-06:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-2-update</loc>
-    <lastmod>2019-01-23T00:00:00-06:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/week-1-update</loc>
-    <lastmod>2019-01-16T00:00:00-06:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/new-semester</loc>
-    <lastmod>2019-01-14T00:00:00-06:00</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/about/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/assignments/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/bibliography/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/blog/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/contact/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/coursework/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/links/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/notes/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/overview/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/timetable/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/weekly_assignment/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/tags/general/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/tags/news/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/indices/categories/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/indices/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/indices/posts/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/indices/tags/</loc>
-    <lastmod>2019-04-24T17:51:47-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/cats/blog/index.html</loc>
-    <lastmod>2019-04-17T22:55:42-05:00</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/tags/general/index.html</loc>
-    <lastmod>2019-04-17T22:55:45-05:00</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>http://localhost:4000/tags/news/index.html</loc>
-    <lastmod>2019-04-17T22:55:45-05:00</lastmod>
-    <priority>0.6</priority>
-  </url>
+<url>
+<loc>http://localhost:4000/indices/categories/index</loc>
+<lastmod>2020-01-11T21:25:41-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/indices/index</loc>
+<lastmod>2020-01-11T21:25:41-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/indices/posts/index</loc>
+<lastmod>2020-01-11T21:25:41-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/indices/tags/index</loc>
+<lastmod>2020-01-11T21:25:41-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assignments/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/bibliography/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/contact/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/coursework/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/links/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/notes/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/overview/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/timetable/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/weekly_assignment/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2016/comp441-hci-week1.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2016/comp441-hci-week11.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2016/comp441-hci-week12.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2016/comp441-hci-week13.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2016/comp441-hci-week14.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2016/comp441-hci-week2.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2016/comp441-hci-week3.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2016/comp441-hci-week4.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2016/comp441-hci-week5.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2016/comp441-hci-week6.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2016/comp441-hci-week7.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2016/comp441-hci-week9.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/comp441-week1.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/comp441-week10.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/comp441-week11.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/comp441-week12.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/comp441-week14.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/comp441-week2.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/comp441-week3.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/comp441-week4.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/comp441-week5.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/comp441-week6.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/comp441-week9.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2017/final-report-outline-2017.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp441-week1.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp441-week10.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp441-week11.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp441-week12.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp441-week13.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp441-week14.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp441-week2.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp441-week3.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp441-week4.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp441-week6.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2018/comp441-week7.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp441-week1.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp441-week11.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp441-week12.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp441-week13.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp441-week14.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp441-week2.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp441-week4.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp441-week6.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp441-week7.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2019/comp441-week9.pdf</loc>
+<lastmod>2020-01-08T15:12:47-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/comp441-final-report-outline-2018.pdf</loc>
+<lastmod>2020-01-08T15:12:48-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/comp441-final-report-outline-2019.pdf</loc>
+<lastmod>2020-01-08T15:12:48-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/comp441-hci-design-mockups.pdf</loc>
+<lastmod>2020-01-08T15:12:48-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/design-mockups-hci.pdf</loc>
+<lastmod>2020-01-08T15:12:48-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/extras/week13-puzzle-answers.pdf</loc>
+<lastmod>2020-01-08T15:12:48-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/cats/blog/</loc>
+<lastmod>2020-01-08T15:12:48-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/tags/general/</loc>
+<lastmod>2020-01-08T15:12:48-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/tags/news/</loc>
+<lastmod>2020-01-08T15:12:48-06:00</lastmod>
+</url>
 </urlset>

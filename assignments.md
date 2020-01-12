@@ -9,7 +9,7 @@ categories:
 
 tags: assignments coursework
 published: true
-summary: assignments and coursework for COMP 441
+summary: assignments and coursework for COMP 341/441
 ---
 
 This page will be updated each week during the Spring semester with assignments, coursework, quizzes...

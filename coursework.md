@@ -9,7 +9,7 @@ categories:
 
 tags: coursework
 published: true
-summary: coursework for COMP 441
+summary: coursework for COMP 341/441
 ---
 
 Course assessment will continue throughout the semester.
@@ -37,7 +37,7 @@ If you have any questions on the following assessments, please [contact](/contac
     * group report must clearly define each student's work and contributions, where applicable
       * no attribution, no mark
 
-* [Final Report Outline - PDF Document](/assets/docs/extras/comp441-final-report-outline-2019.pdf)
+* [Final Report Outline - PDF Document](/assets/docs/extras/comp441-final-report-outline-2020.pdf)
 
 #### Assessed coursework will include the following primary categories
 
@@ -112,13 +112,13 @@ This assessment requires the design and development of a new interface for an ex
 #### Important assessment dates
 
 * project outline and mockup
-  * due Wednesday 13th February 2019 @ 7pm
+  * due Wednesday 12th February 2020 @ 7pm
 * DEV week demo
-  * due Wednesday 20th March 2019 @ 7pm
+  * due Wednesday 18th March 2020 @ 7pm
 * final team demo
-  * due Wednesday 24th April 2019 @ 7pm
+  * due Wednesday 22nd April 2020 @ 7pm
 * final team report
-  * due Wednesday 1st May 2019 @ 7pm
+  * due Wednesday 29th April 2020
 
 #### Grading
 

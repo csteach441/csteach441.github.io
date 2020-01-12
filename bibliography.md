@@ -9,7 +9,7 @@ categories:
 
 tags: bibliography
 published: true
-summary: course bibliography and references for COMP 441
+summary: course bibliography and references for COMP 341/441
 ---
 
 The course *bibliography & references* will be updated on a weekly basis with suggested reading, which will reflect each week's course notes and lecture.
@@ -22,6 +22,7 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
+<!-- 
 ##### Week 15 - 24th April 2019
 
   * N/A
@@ -106,4 +107,4 @@ Course bibliography will be updated during the semester.
   * Nielsen, J. & Molich, R. *Heuristic evaluation of user interfaces.* Proc ACM CHI'90 Conference,
 Seattle. 1990. PP.249-256.
   * Shneiderman, B. & Plaisant, C. *Designing the user interface: Strategies for effective human-computer
-interaction.* 5th Edition. Addison-Wesley. 2009.
+interaction.* 5th Edition. Addison-Wesley. 2009. -->

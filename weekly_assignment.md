@@ -9,7 +9,7 @@ categories:
 
 tags: coursework weekly
 published: true
-summary: weekly assignment for COMP 441
+summary: weekly assignment for COMP 341/441
 ---
 
 #### Assignment submission
@@ -297,6 +297,7 @@ Enjoy your week, and Happy Easter.
 
 -->
 
+<!-- 
 #### Week 15 - 24th April 2019
 
 * Please complete your group's final project report
@@ -357,7 +358,7 @@ Enjoy your week.
 
 Any questions, please let me know.
 
-Enjoy your week.
+Enjoy your week. -->
 
 <!-- 
 #### Week 13 - 10th April 2019
@@ -380,6 +381,7 @@ Any questions, please let me know.
 Enjoy your week. 
 -->
 
+<!-- 
 #### Week 12 - 3rd April 2019
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
@@ -432,11 +434,9 @@ Enjoy your week.
   * [Group 6 - Scare Board](https://goo.gl/forms/BEBXSj9sotQIGhAC3)
   * [Group 7 - Music Player](https://goo.gl/forms/x0oyakQUF361qDRk2)
   * [Group 8 - Craigslist](https://goo.gl/forms/ytAbfqexx3RM7XZB2)
-  
-  <!--
-  * [Group 10 - In Medias Res](https://goo.gl/forms/JC7LuPYN59dK1dql2) -->
+   -->
 
-
+<!-- 
 * Complete these peer review forms by **Wednesday 27th March 2019** at the latest
   * please complete these forms individually, and **NOT** as a project group
   * do **NOT** complete a review for your own group
@@ -535,7 +535,7 @@ Enjoy your week.
 
 Any questions, please let me know.
 
-Enjoy your week.
+Enjoy your week. -->
 
 <!--
 
@@ -553,6 +553,7 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
+<!-- 
 #### Week 4 - 6th February 2019
 * Review this week's [notes and material](/notes), which includes the class notes, and the following extras,
   * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
@@ -667,4 +668,4 @@ Please accept this invite as soon as possible. We shall be using Slack for class
 
 Any questions, please let me know.
 
-Enjoy your week.
+Enjoy your week. -->

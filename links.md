@@ -9,7 +9,7 @@ categories:
 
 tags: links resources
 published: true
-summary: suggested links and resources for COMP 441
+summary: suggested links and resources for COMP 341/441
 ---
 
 This list contains a variety of information, suggestions, and generally interesting material.
@@ -24,7 +24,7 @@ If you have any suggestions for additions to this section of the site, please fe
 
 Course links will be updated during the semester.
 
-
+<!-- 
 #### Articles & Papers
 
   * [Colour](https://robots.thoughtbot.com/color)
@@ -139,7 +139,7 @@ and choose your favourite.
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
 * [UX of VR](https://www.uxofvr.com/)
-* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
+* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/) -->
 
 ***
 

@@ -1,5 +1,5 @@
 ---
-title: COMP 441
+title: COMP 341/441
 layout: default-vertical
 
 categories:
@@ -8,10 +8,10 @@ categories:
 
 tags: general site home
 published: true
-summary: Human-Computer Interface Design, Spring 2019
+summary: Human-Computer Interface Design, Spring 2020
 ---
 
-Welcome to the course website for COMP 441.
+Welcome to the course website for COMP 341/441.
 
 This course is offered by the [Department of Computer Science](http://www.luc.edu/cs/) at [Loyola University Chicago](http://www.luc.edu).
 

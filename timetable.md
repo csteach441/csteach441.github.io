@@ -9,7 +9,7 @@ categories:
 
 tags: timetable
 published: true
-summary: course timetable for COMP 441
+summary: course timetable for COMP 341/441
 ---
 
 #### Class Schedule
@@ -17,28 +17,30 @@ summary: course timetable for COMP 441
 This class will meet at the following time and place,
 
 * Time: Wednesday 7pm to 9.30pm
-* Place: [Corboy Law Center - Room 105](http://www.luc.edu/media/lucedu/wtc.pdf)
+* Place: [Corboy Law Center - Room L08](http://www.luc.edu/media/lucedu/wtc.pdf)
 
 #### Important Dates
 
-* Project outline and mockup
-  * presentation & demo: Wednesday 13th February 2019
-* Spring Break: Monday 4th to Saturday 9th March 2019
-  * **n.b.** no formal class: Wednesday 6th March 2019
-* DEV week: Wednesday 13th to Wednesday 20th March 2019
-  * presentation & demo: Wednesday 20th March 2019 @ 7pm
-* Final class: Wednesday 24th April 2019
-	* presentation & demo: Wednesday 24th April 2019 @ 7pm
-* Exam week: Monday 29th April to Saturday 4th May 2019
-	* Final assessment due on Wednesday 1st May 2019 by 7pm
+* Project outline and mockup - presentation & demo
+  * 12th February 2020 @ 7pm
+* Spring break
+	* **n.b.** no formal class: Wednesday 4th March 2020
+* DEV week: 11th to 18th March 2020
+* DEV week - presentation & demo
+	* 18th March 2020 @ 7pm
+* Final class: 22nd April 2020
+* Final presentation & demo
+	* 22nd April 2020 @ 4.15pm
+* Exam week: 27th April to 2nd May 2020
+	* Final assessment due on 29th April 2020
 
 #### Coursework Schedule
 
-* project outline & mockup
-	* due Wednesday 13th February 2019 @ 7pm
+* project outline and mockup
+  * due Wednesday 12th February 2020 @ 7pm
 * DEV week demo
-  * due Wednesday 20th March 2019 @ 7pm
+  * due Wednesday 18th March 2020 @ 7pm
 * final team demo
-  * due Wednesday 24th April 2019 @ 7pm
+  * due Wednesday 22nd April 2020 @ 7pm
 * final team report
-  * due Wednesday 1st May 2019 @ 7pm
+  * due Wednesday 29th April 2020

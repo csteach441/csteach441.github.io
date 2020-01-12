@@ -9,7 +9,7 @@ categories:
 
 tags: notes material
 published: true
-summary: course notes and material for COMP 441
+summary: course notes and material for COMP 341/441
 ---
 
 Course notes and material will be added to this page during the semester.
@@ -20,6 +20,7 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
+<!-- 
 ##### Week 15 - 24th April 2019
   * extra - final report
     * [final report outline](/assets/docs/extras/comp441-final-report-outline-2019.pdf)
@@ -71,4 +72,4 @@ Course notes will be updated during the semester.
 ##### Week 1 - 16th January 2019
   * [course](/assets/docs/comp441-week1.pdf)
   * extras
-    * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
+    * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF) -->
