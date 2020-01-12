@@ -30,7 +30,7 @@ This class will meet at the following time and place,
 	* 18th March 2020 @ 7pm
 * Final class: 22nd April 2020
 * Final presentation & demo
-	* 22nd April 2020 @ 4.15pm
+	* 22nd April 2020 @ 7pm
 * Exam week: 27th April to 2nd May 2020
 	* Final assessment due on 29th April 2020
 
