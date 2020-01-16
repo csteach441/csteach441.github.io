@@ -101,10 +101,11 @@ Course bibliography will be updated during the semester.
   * Okabe, M. & Ito, K. *Color Universal Design (CUD) - How to make figures and presentations that are friendly to Colorblind people.* J*Fly. 2008. [http://jfly.iam.u-tokyo.ac.jp/color/](http://jfly.iam.u-tokyo.ac.jp/color/).
   * Waloszek, G. *Vision and visual disabilities: An introduction.* SAP Design Guild. 2005. (2012 Online)
     [https://experience.sap.com/archived/vision-and-visual-disabilities-an-introduction/](https://experience.sap.com/archived/vision-and-visual-disabilities-an-introduction/)
+-->
 
-##### Week 1 - 16th January 2019
+##### Week 1 - 15th January 2020
 
   * Nielsen, J. & Molich, R. *Heuristic evaluation of user interfaces.* Proc ACM CHI'90 Conference,
 Seattle. 1990. PP.249-256.
   * Shneiderman, B. & Plaisant, C. *Designing the user interface: Strategies for effective human-computer
-interaction.* 5th Edition. Addison-Wesley. 2009. -->
+interaction.* 5th Edition. Addison-Wesley. 2009.

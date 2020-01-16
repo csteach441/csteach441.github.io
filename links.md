@@ -24,15 +24,17 @@ If you have any suggestions for additions to this section of the site, please fe
 
 Course links will be updated during the semester.
 
-<!-- 
+ 
 #### Articles & Papers
 
+* [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
+
+<!--
   * [Colour](https://robots.thoughtbot.com/color)
   * [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
   * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
   * [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
   * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
-  * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
   * [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
@@ -51,6 +53,7 @@ Course links will be updated during the semester.
 
 **NB:** there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8)
 and choose your favourite.
+-->
 
 #### Mockup and Prototype Tools - a few examples
 
@@ -65,11 +68,17 @@ and choose your favourite.
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 
+<!--
 #### Various
   * NFL - [Colour Blindness](http://deadspin.com/stupid-nike-uniforms-wreaking-havoc-on-colorblind-nfl-f-1742272136)
+-->
 
 #### Videos
 
+* [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
+* [Milton Glaser](http://vimeo.com/11577085)
+
+<!--
   * [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
   * [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
   * [BBC - Design Rules - Colour](https://www.youtube.com/watch?v=fVjpKcAcZnw&index=496&list=WL&t=0s)
@@ -84,7 +93,7 @@ and choose your favourite.
   * [Four Realms fashion featurette](https://www.youtube.com/watch?v=yGkfS9MXzWc&index=573&list=WL&t=0s)
   * [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
-  * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
+  
   * Google Prototyping Series
     * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
     * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
@@ -97,7 +106,7 @@ and choose your favourite.
   * [Microsoft HoloLens 2 demo - MWC 2019](https://www.youtube.com/watch?v=8wHC2Rb46H4)
   * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
   * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
-  * [Milton Glaser](http://vimeo.com/11577085)
+  
   * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
   * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
   * [Royal Game of Ur - The British Museum](https://www.youtube.com/watch?v=WZskjLq040I)
@@ -117,21 +126,26 @@ and choose your favourite.
   * [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY&index=428&list=WL&t=0s)
   * [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
   * [Xerox Star UI](https://www.youtube.com/watch?v=Cn4vC80Pv6Q)
+-->
+
 
 #### Websites
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+* Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
+* Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
+* Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
+* [Milton Glaser](http://www.miltonglaser.com/)
+
+<!--
+
 * [Dark Patterns](http://darkpatterns.org/)
 * Gamification - [Yu-Kai Chou & Gamification](http://www.yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/#.VN0SLFPF-Qw)
 * Gestalt Principles - Brief Overviews
   * [APRK Topics](http://frnsys.com/topics/gestalt)
   * [Web Designer Depot](http://www.webdesignerdepot.com/2011/08/strengthening-behavioral-cues-in-ux-web-design-with-gestalt-principles/)
-* Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
-* Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 * Khan Academy - [Exercise Dashboard](https://www.khanacademy.org/exercisedashboard)
-* Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
 * Microsoft - [What are model-drive apps?](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/model-driven-app-overview)
-* [Milton Glaser](http://www.miltonglaser.com/)
 * Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
 * [The Chicago 00 Project](http://chicago00.org/) 
 * [usability.gov](http://www.usability.gov/)
