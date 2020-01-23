@@ -94,14 +94,14 @@ Course bibliography will be updated during the semester.
 ##### Week 3 - 30th January 2019
 
   * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
+-->
 
-##### Week 2 - 23rd January 2019
+##### Week 2 - 22d January 2020
 
   * Wolfmaier T. *Designing for the color-challenged: A challenge.* ITG Publication. 1999.
   * Okabe, M. & Ito, K. *Color Universal Design (CUD) - How to make figures and presentations that are friendly to Colorblind people.* J*Fly. 2008. [http://jfly.iam.u-tokyo.ac.jp/color/](http://jfly.iam.u-tokyo.ac.jp/color/).
   * Waloszek, G. *Vision and visual disabilities: An introduction.* SAP Design Guild. 2005. (2012 Online)
     [https://experience.sap.com/archived/vision-and-visual-disabilities-an-introduction/](https://experience.sap.com/archived/vision-and-visual-disabilities-an-introduction/)
--->
 
 ##### Week 1 - 15th January 2020
 

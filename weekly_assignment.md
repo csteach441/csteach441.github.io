@@ -607,8 +607,9 @@ You might also consider the books of Marcus Du Sautoy,
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 2 - 23rd January 2019
+#### Week 2 - 22nd January 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes
 * Review this week's [bibliography](/bibliography) links and material
@@ -617,10 +618,7 @@ Enjoy your week.
     * why do you like or dislike these products?
     * what would you like to change?
     * are there features or aspects of similar products that could be incorporated within these products?
-    * what is the design and development history for your chosen products?
-      * i.e. can you trace a series of design compromises and improvements in previous models up to the current product release?
-    * e.g. a website, mobile or desktop application, device specific UI (phone, camera...) &c. is an example product to consider and review
-  * add details for the above on the [Week 2 - Analysis of Devices](https://trello.com/b/TProUqYN/week-2-analysis-of-devices) board
+  * add details for the above on the [Week 2 - Analysis of Devices](https://trello.com/b/Bgb9YD0O/week-2-analysis-of-devices) board
     * further instructions are available on the week 2 board
 
 This product review provides an initial opportunity to consider products and designs for your final course assessment.
@@ -628,7 +626,6 @@ This product review provides an initial opportunity to consider products and des
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 1 - 15th January 2020
 

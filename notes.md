@@ -65,10 +65,10 @@ Course notes will be updated during the semester.
 
 ##### Week 3 - 30th January 2019
   * N/A
-
-##### Week 2 - 23rd January 2019
-  * [course](/assets/docs/comp441-week2.pdf)
 -->
+
+##### Week 2 - 22nd January 2020
+  * [course](/assets/docs/2020/comp441-week2.pdf)
 
 ##### Week 1 - 15th January 2020
   * [course](/assets/docs/2020/comp441-week1.pdf)

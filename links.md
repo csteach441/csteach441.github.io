@@ -27,16 +27,16 @@ Course links will be updated during the semester.
  
 #### Articles & Papers
 
+* [Colour](https://robots.thoughtbot.com/color)
+* [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
 * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
+* [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
 <!--
-  * [Colour](https://robots.thoughtbot.com/color)
-  * [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
   * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
   * [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
   * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
-  * [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -68,22 +68,27 @@ and choose your favourite.
   * [Sketch3](http://bohemiancoding.com/sketch/)
   * [XCode Interface Builder](https://developer.apple.com/xcode/interface-builder/)
 
-<!--
 #### Various
   * NFL - [Colour Blindness](http://deadspin.com/stupid-nike-uniforms-wreaking-havoc-on-colorblind-nfl-f-1742272136)
--->
+  * [Supper at Emmaus - Caravaggio](http://www.artble.com/artists/caravaggio/paintings/supper_at_emmaus)
 
 #### Videos
 
+* [BBC - Design Rules - Colour](https://www.youtube.com/watch?v=fVjpKcAcZnw&index=496&list=WL&t=0s)
+* [Beginning Graphic Design](https://www.youtube.com/playlist?list=PLpQQipWcxwt8vVzFpoJS5TtCh8Ktke9TH)
+    * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
+* [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
 * [Milton Glaser](http://vimeo.com/11577085)
+* ['No Such Thing as Color - what it's like to be color blind'](https://www.youtube.com/watch?v=AUsups6Mk3I)
+* Ted-Ed Talks
+  * [How we see color](https://www.youtube.com/watch?v=l8_fZPHasdo)
+* [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY&index=428&list=WL&t=0s)
 
 <!--
   * [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
   * [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
-  * [BBC - Design Rules - Colour](https://www.youtube.com/watch?v=fVjpKcAcZnw&index=496&list=WL&t=0s)
-  * [Beginning Graphic Design](https://www.youtube.com/playlist?list=PLpQQipWcxwt8vVzFpoJS5TtCh8Ktke9TH)
-    * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
+  * 
     * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
   * Chicago Tribune
     * [Touchscreens at Lincoln Park Zoo](https://www.youtube.com/watch?v=lusOgox4xMI)
@@ -99,7 +104,6 @@ and choose your favourite.
     * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
     * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI)
   * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
-  * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
   * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
   * [Macintosh UI demo](https://www.youtube.com/watch?v=y58u79RrK60)
   * [Mathematics of Visual Illusions](https://www.youtube.com/watch?v=ZmTtMZiR3xQ&index=456&list=WL&t=0s)
@@ -123,7 +127,6 @@ and choose your favourite.
     * [How to Practice Effectively...](https://www.youtube.com/watch?v=f2O6mQkFiiw)
     * [How to Read Music](https://www.youtube.com/watch?v=ZN41d7Txcq0)
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
-  * [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY&index=428&list=WL&t=0s)
   * [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
   * [Xerox Star UI](https://www.youtube.com/watch?v=Cn4vC80Pv6Q)
 -->
