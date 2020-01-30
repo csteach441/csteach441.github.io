@@ -74,28 +74,35 @@ and choose your favourite.
 
 #### Videos
 
+* [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
+* [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
 * [BBC - Design Rules - Colour](https://www.youtube.com/watch?v=fVjpKcAcZnw&index=496&list=WL&t=0s)
 * [Beginning Graphic Design](https://www.youtube.com/playlist?list=PLpQQipWcxwt8vVzFpoJS5TtCh8Ktke9TH)
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
+* [Digital Accessibility - YouTube](https://www.youtube.com/watch?v=grrx2Lva7T0)
+* [Four Realms fashion featurette](https://www.youtube.com/watch?v=yGkfS9MXzWc&index=573&list=WL&t=0s)
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
 * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
+* [How the hyperlink changed everything](https://www.youtube.com/watch?v=3Va3oY8pfSI&t=4s)
+* [Mathematics of Visual Illusions](https://www.youtube.com/watch?v=ZmTtMZiR3xQ&index=456&list=WL&t=0s)
 * [Milton Glaser](http://vimeo.com/11577085)
 * ['No Such Thing as Color - what it's like to be color blind'](https://www.youtube.com/watch?v=AUsups6Mk3I)
-* Ted-Ed Talks
+* [Samsung One UI 2](https://www.youtube.com/watch?v=wxwycoG41fc)
+* [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)
+  * [Super Mario Bros - Speed Run](https://www.youtube.com/watch?v=kcmKPmj9yeE)
+* TED Talks
+  * [Genius of the London Tube Map - YouTube](https://www.youtube.com/watch?v=iBErp8qvWZg&index=576&list=WL&t=0s)
+* TED-Ed Talks
   * [How we see color](https://www.youtube.com/watch?v=l8_fZPHasdo)
 * [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY&index=428&list=WL&t=0s)
 
 <!--
-  * [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
-  * [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
-  * 
     * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
   * Chicago Tribune
     * [Touchscreens at Lincoln Park Zoo](https://www.youtube.com/watch?v=lusOgox4xMI)
   * [Curator's Corner - The British Museum](https://www.youtube.com/watch?v=wHjznvH54Cw)
   * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
   * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
-  * [Four Realms fashion featurette](https://www.youtube.com/watch?v=yGkfS9MXzWc&index=573&list=WL&t=0s)
   * [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
   
@@ -106,21 +113,17 @@ and choose your favourite.
   * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
   * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
   * [Macintosh UI demo](https://www.youtube.com/watch?v=y58u79RrK60)
-  * [Mathematics of Visual Illusions](https://www.youtube.com/watch?v=ZmTtMZiR3xQ&index=456&list=WL&t=0s)
   * [Microsoft HoloLens 2 demo - MWC 2019](https://www.youtube.com/watch?v=8wHC2Rb46H4)
   * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
   * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
   
   * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
-  * [No Such Thing As Color - what it's like to be color blind](https://www.youtube.com/watch?v=AUsups6Mk3I)
   * [Royal Game of Ur - The British Museum](https://www.youtube.com/watch?v=WZskjLq040I)
   * [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
-  * [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)
-  * [Super Mario Bros - Speed Run](https://www.youtube.com/watch?v=kcmKPmj9yeE)
+
   * [Super Mario Run](https://www.youtube.com/watch?v=rKG5jU6DV70)
   * TED Talks
     * [Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
-    * [How the hyperlink changed everything](https://www.youtube.com/watch?v=3Va3oY8pfSI&t=4s)
     * [How the progress bar keeps you sane](https://www.youtube.com/watch?v=NAYkF04IZHI&index=577&list=WL&t=0s)
     * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
   * TED-Ed Talks

@@ -579,13 +579,15 @@ Please consider it useful practice for the remaining presentations.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 3 - 30th January 2019
-* Review the class notes for weeks one and two, [notes and material](/notes)
+#### Week 3 - 29th January 2020
+* Review this week's [notes and material](/notes), which includes the class notes and the following extras,
+  * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
 * Please ensure you have now added your group's details to the course's Trello group
-  * add group members, name &c. to the [Week 1 - Project Details](https://trello.com/b/PxADyged/week-1-project-details))
+  * add group members, name &c. to the [Week 1 - Project Details](https://trello.com/b/7ynUXBGN/week-1-project-details))
   * further instructions are available on this board
-* Please review the following design videos relative to last week's class notes,
+* Please review the following design videos relative to the class notes,
   * [BBC - Design Rules - Colour](https://www.youtube.com/watch?v=fVjpKcAcZnw&index=496&list=WL&t=0s)
   * [Beginning Graphic Design](https://www.youtube.com/playlist?list=PLpQQipWcxwt8vVzFpoJS5TtCh8Ktke9TH)
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
@@ -607,7 +609,6 @@ You might also consider the books of Marcus Du Sautoy,
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 2 - 22nd January 2020
 
