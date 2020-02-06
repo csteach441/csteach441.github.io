@@ -82,19 +82,25 @@ and choose your favourite.
 * [Digital Accessibility - YouTube](https://www.youtube.com/watch?v=grrx2Lva7T0)
 * [Four Realms fashion featurette](https://www.youtube.com/watch?v=yGkfS9MXzWc&index=573&list=WL&t=0s)
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
+* Google Prototyping Series
+    * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
 * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
 * [How the hyperlink changed everything](https://www.youtube.com/watch?v=3Va3oY8pfSI&t=4s)
 * [Mathematics of Visual Illusions](https://www.youtube.com/watch?v=ZmTtMZiR3xQ&index=456&list=WL&t=0s)
 * [Milton Glaser](http://vimeo.com/11577085)
 * ['No Such Thing as Color - what it's like to be color blind'](https://www.youtube.com/watch?v=AUsups6Mk3I)
 * [Samsung One UI 2](https://www.youtube.com/watch?v=wxwycoG41fc)
+* [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
 * [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)
   * [Super Mario Bros - Speed Run](https://www.youtube.com/watch?v=kcmKPmj9yeE)
+* [Super Mario Run](https://www.youtube.com/watch?v=rKG5jU6DV70)
 * TED Talks
   * [Genius of the London Tube Map - YouTube](https://www.youtube.com/watch?v=iBErp8qvWZg&index=576&list=WL&t=0s)
+  * [How the progress bar keeps you sane](https://www.youtube.com/watch?v=NAYkF04IZHI&index=577&list=WL&t=0s)
 * TED-Ed Talks
   * [How we see color](https://www.youtube.com/watch?v=l8_fZPHasdo)
 * [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY&index=428&list=WL&t=0s)
+* [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
 
 <!--
     * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
@@ -106,8 +112,6 @@ and choose your favourite.
   * [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
   
-  * Google Prototyping Series
-    * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
     * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
     * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI)
   * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
@@ -119,18 +123,18 @@ and choose your favourite.
   
   * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
   * [Royal Game of Ur - The British Museum](https://www.youtube.com/watch?v=WZskjLq040I)
-  * [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
+  * 
 
-  * [Super Mario Run](https://www.youtube.com/watch?v=rKG5jU6DV70)
+  * 
   * TED Talks
     * [Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
-    * [How the progress bar keeps you sane](https://www.youtube.com/watch?v=NAYkF04IZHI&index=577&list=WL&t=0s)
+    * 
     * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
   * TED-Ed Talks
     * [How to Practice Effectively...](https://www.youtube.com/watch?v=f2O6mQkFiiw)
     * [How to Read Music](https://www.youtube.com/watch?v=ZN41d7Txcq0)
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
-  * [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
+  * 
   * [Xerox Star UI](https://www.youtube.com/watch?v=Cn4vC80Pv6Q)
 -->
 

@@ -553,8 +553,7 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
-<!-- 
-#### Week 4 - 6th February 2019
+#### Week 4 - 5th February 2020
 * Review this week's [notes and material](/notes), which includes the class notes, and the following extras,
   * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
 * Review this week's [bibliography](/bibliography) links and material
@@ -568,7 +567,7 @@ Enjoy your week.
     * initial thoughts on aspects you'd like to improve and modify for your final assessment
     * brief comments on proposed development plan up to the DEV week demo in Week 10 of the semester
 
-Presentations will be scheduled for the start of next week's class, which begins at 7pm on Wednesday 13th February 2019.
+Presentations will be scheduled for the start of next week's class, which begins at 7pm on Wednesday 12th February 2020.
 
 **NB:** A formal slide presentation is optional. It is up to you to decide upon a preferred presentation style for this assignment. This style of quick presentation is becoming increasingly popular at less formal conferences.
 
@@ -579,7 +578,6 @@ Please consider it useful practice for the remaining presentations.
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 3 - 29th January 2020
 * Review this week's [notes and material](/notes), which includes the class notes and the following extras,

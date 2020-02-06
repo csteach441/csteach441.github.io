@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/indices/categories/index</loc>
-<lastmod>2020-01-30T14:54:08-06:00</lastmod>
+<lastmod>2020-02-06T14:47:45-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/indices/index</loc>
-<lastmod>2020-01-30T14:54:08-06:00</lastmod>
+<lastmod>2020-02-06T14:47:45-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/indices/posts/index</loc>
-<lastmod>2020-01-30T14:54:08-06:00</lastmod>
+<lastmod>2020-02-06T14:47:45-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/indices/tags/index</loc>
-<lastmod>2020-01-30T14:54:08-06:00</lastmod>
+<lastmod>2020-02-06T14:47:45-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/new-semester</loc>
@@ -31,6 +31,10 @@
 <url>
 <loc>http://localhost:4000/blog/week-3-update</loc>
 <lastmod>2020-01-29T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-4-update</loc>
+<lastmod>2020-02-05T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -268,6 +272,10 @@
 <url>
 <loc>http://localhost:4000/assets/docs/2020/comp441-week3.pdf</loc>
 <lastmod>2020-01-30T14:33:34-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2020/comp441-week4.pdf</loc>
+<lastmod>2020-02-06T14:40:26-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/docs/extras/comp441-final-report-outline-2018.pdf</loc>
