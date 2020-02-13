@@ -507,35 +507,7 @@ Enjoy your Spring Break.
 Any questions, please let me know.
 
 Enjoy your week.
-
-#### Week 5 - 13th February 2019
-* Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 1 - Tapioca](https://goo.gl/forms/MVpxHuNjZvLNWsHz1)
-  * [Group 2 - Music Player](https://goo.gl/forms/qUX7Hrneh530TTN83)
-  * [Group 3 - Scare Board](https://goo.gl/forms/h1kYeMZPq7u2dEHI3)
-  * [Group 4 - ParkChicago](https://goo.gl/forms/qRBsZq72AnIZM3e63)
-  * [Group 5 - Craigslist](https://goo.gl/forms/ccdPzJHl8tOSBUF63)
-  * [Group 6 - Berkshire Hathaway](https://goo.gl/forms/O0ze5eYGaDPIdZnz1)
-  * [Group 7 - In Medias Res](https://goo.gl/forms/Zky3IjxjmanstEOw2)
-  * [Group 8 - Path of Exile](https://goo.gl/forms/GLwcORlTTrBT1eMa2)
-  * [Group 9 - Project LTD](https://goo.gl/forms/w1P0VbcgxGXQV3993)
-  * [Group 10 - Recipes](https://goo.gl/forms/6o9Fq1kMJRy8cYSK2)
-* Complete these peer review forms by **Wednesday 20th February 2019** at the latest
-  * please complete these forms individually, and **NOT** as a project group
-  * do **NOT** complete a review for your own group
-* You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
-* Please add your presentation files, notes, &c. to the following board on Trello,
-  * [Week 5 - Presentation Files](https://trello.com/b/GDzcs02m/week-5-presentation-files)
-  * Please add these files as soon as possible, and by **Wednesday 20th February 2019** at the latest
-  * instructions are included as a list on the above board
-* Complete the following Trello board,
-  * [Week 5 - Project Contributions](https://trello.com/b/ij94ulXh/week-5-project-contributions)
-  * this board is **important** - it will help to establish member contributions for the project
-  * please complete this requirement by **Wednesday 20th February 2019** at the latest
-
-Any questions, please let me know.
-
-Enjoy your week. -->
+ -->
 
 <!--
 
@@ -552,6 +524,40 @@ Any questions, please let me know.
 
 Enjoy your week.
 -->
+
+#### Week 5 - 12th February 2020
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - Craigslist Makeover](https://forms.gle/FXuJXsmHwLd3bTVbA)
+  * [Group 2 - 8 Ride](https://forms.gle/s9b9A6AP7c7FkYFC7)
+  * [Group 3 - Accessibility Enhanced Sound and Haptics](https://forms.gle/HMZiakK54WgyYA2YA)
+  * [Group 4 - Connectivity](https://forms.gle/192ye197gCPazrMc9)
+  * [Group 5 - Seniors Website](https://forms.gle/n3d8PYiuXYZAkp7T7)
+  * [Group 6 - Encore (Opera Mini)](https://forms.gle/tfUH8NVVzCJEfQTJ8)
+  * [Group 7 - Etsy](https://forms.gle/nJBXVS2epFBBQPQu6)
+  * [Group 8 - Wings ROTC Cadet Portal](https://forms.gle/rDkJiub3oTQ2T9BV7)
+  * [Group 9 - Pinterest](https://forms.gle/tGfiLTBTFwB1b78NA)
+  
+  <!-- * [Group 10 - ](https://forms.gle/RLMo7bwywhib83ys7)
+  * [Group 11 - ](https://forms.gle/Y2Ur1ZY83hK94voD9)
+  * [Group 12 - ](https://forms.gle/6fX6YLxcv2kFUR828)
+  * [Group 13 - ](https://forms.gle/6cETkua9NimKJqGR6) -->
+
+* Complete these peer review forms by **Wednesday 19th February 2020** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 5 - Presentation Files](https://trello.com/b/f5cIW8os/week-5-presentation-files)
+  * Please add these files as soon as possible, and by **Wednesday 19th February 2020** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 5 - Project Contributions](https://trello.com/b/f5tPwf2x/week-5-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Wednesday 19th February 2020** at the latest
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 #### Week 4 - 5th February 2020
 * Review this week's [notes and material](/notes), which includes the class notes, and the following extras,

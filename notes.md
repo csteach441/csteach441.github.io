@@ -54,11 +54,10 @@ Course notes will be updated during the semester.
 
 ##### Week 6 - 20th February 2019
   * [course](/assets/docs/comp441-week6.pdf)
-
-##### Week 5 - 13th February 2019
-  * N/A - Presentations
-
 -->
+
+##### Week 5 - 12th February 2020
+  * N/A - Presentations
 
 ##### Week 4 - 5th February 2020
   * [course](/assets/docs/2020/comp441-week4.pdf)

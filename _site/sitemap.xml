@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/indices/categories/index</loc>
-<lastmod>2020-02-06T14:47:45-06:00</lastmod>
+<lastmod>2020-02-13T13:18:01-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/indices/index</loc>
-<lastmod>2020-02-06T14:47:45-06:00</lastmod>
+<lastmod>2020-02-13T13:18:01-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/indices/posts/index</loc>
-<lastmod>2020-02-06T14:47:45-06:00</lastmod>
+<lastmod>2020-02-13T13:18:01-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/indices/tags/index</loc>
-<lastmod>2020-02-06T14:47:45-06:00</lastmod>
+<lastmod>2020-02-13T13:18:01-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/new-semester</loc>
@@ -35,6 +35,10 @@
 <url>
 <loc>http://localhost:4000/blog/week-4-update</loc>
 <lastmod>2020-02-05T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/week-5-update</loc>
+<lastmod>2020-02-12T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>

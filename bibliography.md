@@ -80,11 +80,11 @@ Course bibliography will be updated during the semester.
   * Kieras, D. *Using the Keystroke-Level Model to Estimate Execution Times.* 1993. [http://courses.wccnet.edu/~jwithrow/docs/klm.pdf](http://courses.wccnet.edu/~jwithrow/docs/klm.pdf)
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
   * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
+-->
 
-##### Week 5 - 13th February 2019
+##### Week 5 - 12th February 2020
 
   * N/A - Presentations
--->
 
 ##### Week 4 - 5th February 2020
 
