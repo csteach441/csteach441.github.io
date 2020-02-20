@@ -523,7 +523,47 @@ Further instructions are available on the [Week 3 - Problem Domain & Experience]
 Any questions, please let me know.
 
 Enjoy your week.
+
+
+#### Week 7 - 26th February 2020
+
+* Review this week's [notes and material](/notes), in particular the material concerning the KLM-GOMS model.
+* Review this week's [bibliography](/bibliography) links and material
+Relative to your chosen project for the final assessment, please consider and define the following,
+  * the primary, default functionality for your project's product, website, service &c.
+    * in effect, your project's 'big, green button'
+  * test user interaction with this defined primary, default functionality using the KLM-GOMS model
+    * please refer to the KLM-GOMS model as defined in this week's notes
+    * use the example listed in this week's notes as a guide to test your own project's product
+  * Please add a copy of this material to the following Trello board,
+    * [Week 6 - Initial Testing]()
+
 -->
+
+#### Week 6 - 19th February 2020
+* Review this week's [notes and material](/notes)
+* Review this week's [bibliography](/bibliography) links and material
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 10 - Self-booking for Independent Musicians](https://forms.gle/RLMo7bwywhib83ys7)
+  * [Group 11 - Snapchat 2.0](https://forms.gle/Y2Ur1ZY83hK94voD9)
+  * [Group 12 - Global Chat](https://forms.gle/6fX6YLxcv2kFUR828)
+  <!-- * [Group 13 - ](https://forms.gle/6cETkua9NimKJqGR6) -->
+* Complete these peer review forms by **Wednesday 26th February 2020** at the latest
+  * please complete these forms individually, and **NOT** as a project group
+  * do **NOT** complete a review for your own group
+* You may use the new **Slack** channel, **#week5-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 5 - Presentation Files](https://trello.com/b/f5cIW8os/week-5-presentation-files)
+  * Please add these files as soon as possible, and by **Wednesday 26th February 2020** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 5 - Project Contributions](https://trello.com/b/f5tPwf2x/week-5-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Wednesday 26th February 2020** at the latest
+
+Any questions, please let me know.
+
+Enjoy your week.
 
 #### Week 5 - 12th February 2020
 * Complete the following peer review forms individually for the DEV Week projects and presentations

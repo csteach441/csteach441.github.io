@@ -74,13 +74,14 @@ Course bibliography will be updated during the semester.
   * Van Eck, R.N. *Digital game-based learning.* Educause Review 41. PP.17-30. 2006.
   * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
 
-##### Week 6 - 20th February 2019
-
-  * Holleis, P. et al. *Keystroke-level model for advanced mobile phone interaction.* CHI' 07. New York, USA. 2007.
+  Holleis, P. et al. *Keystroke-level model for advanced mobile phone interaction.* CHI' 07. New York, USA. 2007.
   * Kieras, D. *Using the Keystroke-Level Model to Estimate Execution Times.* 1993. [http://courses.wccnet.edu/~jwithrow/docs/klm.pdf](http://courses.wccnet.edu/~jwithrow/docs/klm.pdf)
+-->
+
+##### Week 6 - 19th February 2020
+
   * Krug, S. *Don't make me think, revisited: A common sense approach to web usability.* 3rd Edition. New Riders. 2014.
   * Norman, D. *The Design of Everyday Things.* Basic Books. 2013.
--->
 
 ##### Week 5 - 12th February 2020
 

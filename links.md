@@ -95,6 +95,7 @@ and choose your favourite.
   * [Super Mario Bros - Speed Run](https://www.youtube.com/watch?v=kcmKPmj9yeE)
 * [Super Mario Run](https://www.youtube.com/watch?v=rKG5jU6DV70)
 * TED Talks
+  * [Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
   * [Genius of the London Tube Map - YouTube](https://www.youtube.com/watch?v=iBErp8qvWZg&index=576&list=WL&t=0s)
   * [How the progress bar keeps you sane](https://www.youtube.com/watch?v=NAYkF04IZHI&index=577&list=WL&t=0s)
 * TED-Ed Talks
@@ -127,7 +128,7 @@ and choose your favourite.
 
   * 
   * TED Talks
-    * [Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
+    * 
     * 
     * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
   * TED-Ed Talks
