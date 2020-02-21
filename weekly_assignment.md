@@ -544,7 +544,7 @@ Relative to your chosen project for the final assessment, please consider and de
 * Review this week's [notes and material](/notes)
 * Review this week's [bibliography](/bibliography) links and material
 * Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 10 - Self-booking for Independent Musicians](https://forms.gle/RLMo7bwywhib83ys7)
+  * [Group 10 - DIY Music Event App](https://forms.gle/RLMo7bwywhib83ys7)
   * [Group 11 - Snapchat 2.0](https://forms.gle/Y2Ur1ZY83hK94voD9)
   * [Group 12 - Global Chat](https://forms.gle/6fX6YLxcv2kFUR828)
   <!-- * [Group 13 - ](https://forms.gle/6cETkua9NimKJqGR6) -->
