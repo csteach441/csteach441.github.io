@@ -29,13 +29,13 @@ Course links will be updated during the semester.
 
 * [Colour](https://robots.thoughtbot.com/color)
 * [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
+* [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
 * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
 * [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
 <!--
   * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
   * [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
-  * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
@@ -80,7 +80,10 @@ and choose your favourite.
 * [Beginning Graphic Design](https://www.youtube.com/playlist?list=PLpQQipWcxwt8vVzFpoJS5TtCh8Ktke9TH)
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
 * [Digital Accessibility - YouTube](https://www.youtube.com/watch?v=grrx2Lva7T0)
+* [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
+* [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
 * [Four Realms fashion featurette](https://www.youtube.com/watch?v=yGkfS9MXzWc&index=573&list=WL&t=0s)
+* [Gamification - Extra Credits - YouTube](https://www.youtube.com/watch?v=1dLK9MW-9sY)
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
 * Google Prototyping Series
     * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
@@ -88,6 +91,7 @@ and choose your favourite.
 * [How the hyperlink changed everything](https://www.youtube.com/watch?v=3Va3oY8pfSI&t=4s)
 * [Mathematics of Visual Illusions](https://www.youtube.com/watch?v=ZmTtMZiR3xQ&index=456&list=WL&t=0s)
 * [Milton Glaser](http://vimeo.com/11577085)
+* [Mouse Pointers & Fitts's Law - Computerphile - YouTube](https://www.youtube.com/watch?v=E3gS9tjACwU)
 * ['No Such Thing as Color - what it's like to be color blind'](https://www.youtube.com/watch?v=AUsups6Mk3I)
 * [Samsung One UI 2](https://www.youtube.com/watch?v=wxwycoG41fc)
 * [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
@@ -98,6 +102,7 @@ and choose your favourite.
   * [Flow, the secret to happiness](http://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
   * [Genius of the London Tube Map - YouTube](https://www.youtube.com/watch?v=iBErp8qvWZg&index=576&list=WL&t=0s)
   * [How the progress bar keeps you sane](https://www.youtube.com/watch?v=NAYkF04IZHI&index=577&list=WL&t=0s)
+  * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
 * TED-Ed Talks
   * [How we see color](https://www.youtube.com/watch?v=l8_fZPHasdo)
 * [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY&index=428&list=WL&t=0s)
@@ -108,8 +113,7 @@ and choose your favourite.
   * Chicago Tribune
     * [Touchscreens at Lincoln Park Zoo](https://www.youtube.com/watch?v=lusOgox4xMI)
   * [Curator's Corner - The British Museum](https://www.youtube.com/watch?v=wHjznvH54Cw)
-  * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
-  * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
+  * 
   * [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
   
@@ -127,10 +131,6 @@ and choose your favourite.
   * 
 
   * 
-  * TED Talks
-    * 
-    * 
-    * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
   * TED-Ed Talks
     * [How to Practice Effectively...](https://www.youtube.com/watch?v=f2O6mQkFiiw)
     * [How to Read Music](https://www.youtube.com/watch?v=ZN41d7Txcq0)

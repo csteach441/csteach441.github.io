@@ -481,18 +481,10 @@ Enjoy your week.
 #### Week 8 - 6th March 2019
 
 * N/A - Spring Break
+-->
 
-#### Week 7 - 27th February 2019
-* Review this week's [notes and material](/notes), which includes the following extra document
-  * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
-* Review this week's [bibliography](/bibliography) links and material
-* Please continue development of your project application towards *Week 10 - DEV Week* demo and presentations 
+#### Week 7 - 26th February 2020
 
-Any questions, please let me know.
-
-Enjoy your Spring Break.
-
-#### Week 6 - 20th February 2019
 * Review this week's [notes and material](/notes), in particular the material concerning the KLM-GOMS model.
 * Review this week's [bibliography](/bibliography) links and material
 * Relative to your chosen project for the final assessment, please consider and define the following,
@@ -502,43 +494,12 @@ Enjoy your Spring Break.
     * please refer to the KLM-GOMS model as defined in this week's notes
     * use the example listed in this week's notes as a guide to test your own project's product
   * Please add a copy of this material to the following Trello board,
-    * [Week 6 - Initial Testing](https://trello.com/b/metQgWhd/wek-6-initial-testing)
+    * [Week 7 - Initial Testing](https://trello.com/b/ObgilF43/week-7-initial-testing)
+  * Please continue development of your project application towards *Week 10 - DEV Week* demo and presentations 
 
 Any questions, please let me know.
 
-Enjoy your week.
- -->
-
-<!--
-
-#### Week 3 - 31st January 2018
-* Review this week's [notes and material](/notes), which includes the class notes
-* Please answer the following questions on the [Week 3 - Problem Domain & Experience](https://trello.com/b/47MpJkFc/week-3-problem-domain-experience) board on Trello,
-  * can you identify the **problem domain** for one of your applications/products?
-  * can you think of any application interfaces with an **inherent assumption of experience**?
-  *  Is this **inherent assumption of experience** a strength or weakness of the application's design? Why is it a strength or weakness?
-
-Further instructions are available on the [Week 3 - Problem Domain & Experience](https://trello.com/b/47MpJkFc/week-3-problem-domain-experience) board.
-
-Any questions, please let me know.
-
-Enjoy your week.
-
-
-#### Week 7 - 26th February 2020
-
-* Review this week's [notes and material](/notes), in particular the material concerning the KLM-GOMS model.
-* Review this week's [bibliography](/bibliography) links and material
-Relative to your chosen project for the final assessment, please consider and define the following,
-  * the primary, default functionality for your project's product, website, service &c.
-    * in effect, your project's 'big, green button'
-  * test user interaction with this defined primary, default functionality using the KLM-GOMS model
-    * please refer to the KLM-GOMS model as defined in this week's notes
-    * use the example listed in this week's notes as a guide to test your own project's product
-  * Please add a copy of this material to the following Trello board,
-    * [Week 6 - Initial Testing]()
-
--->
+Enjoy your week, and Spring Break.
 
 #### Week 6 - 19th February 2020
 * Review this week's [notes and material](/notes)

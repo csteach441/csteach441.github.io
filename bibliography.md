@@ -63,20 +63,20 @@ Course bibliography will be updated during the semester.
 
   * N/A - Spring Break
 
-##### Week 7 - 27th February 2019
+-->
+
+##### Week 7 - 26th February 2020
 
   * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
   * Carstens, A., and Beck, J. *Get ready for the gamer generation.* Tech Trends 49. PP.22-25. 2005.
   * Hays, R.T. *The effectiveness of instructional games: A literature review and discussion.* Technical Report 2005-004. Washington. 2005.
+  * Holleis, P. et al. *Keystroke-level model for advanced mobile phone interaction.* CHI' 07. New York, USA. 2007.
   * Issenberg, S.B., McGaghie, W.C., Petrusa, E.R., Gordon, D.L., and Scalese, R.J. 2005. *Features and uses of high fidelity medical simulations that lead to effective learning.* Medical Teacher 27. PP. 10-29.
+  * Kieras, D. *Using the Keystroke-Level Model to Estimate Execution Times.* 1993. [http://courses.wccnet.edu/~jwithrow/docs/klm.pdf](http://courses.wccnet.edu/~jwithrow/docs/klm.pdf)
   * Nielsen, J. and Pernice, K. *Eyetracking web usability.* New Riders. 2009.
   * Prensky, M. *Digital game-based learning.* McGraw-Hill. P.17. 2001.
   * Van Eck, R.N. *Digital game-based learning.* Educause Review 41. PP.17-30. 2006.
   * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
-
-  Holleis, P. et al. *Keystroke-level model for advanced mobile phone interaction.* CHI' 07. New York, USA. 2007.
-  * Kieras, D. *Using the Keystroke-Level Model to Estimate Execution Times.* 1993. [http://courses.wccnet.edu/~jwithrow/docs/klm.pdf](http://courses.wccnet.edu/~jwithrow/docs/klm.pdf)
--->
 
 ##### Week 6 - 19th February 2020
 
