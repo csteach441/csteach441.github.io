@@ -29,14 +29,16 @@ Course links will be updated during the semester.
 
 * [Colour](https://robots.thoughtbot.com/color)
 * [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
+* [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
 * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
 * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
 * [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
 
 <!--
   * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
-  * [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
+  * 
   * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
+-->
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -53,7 +55,6 @@ Course links will be updated during the semester.
 
 **NB:** there are many other options available, simply search online for [css frameworks](https://www.google.com/search?q=css+frameworks&oq=css+frameworks&aqs=chrome..69i57.2866j0j1&sourceid=chrome&es_sm=119&ie=UTF-8)
 and choose your favourite.
--->
 
 #### Mockup and Prototype Tools - a few examples
 
@@ -79,14 +80,17 @@ and choose your favourite.
 * [BBC - Design Rules - Colour](https://www.youtube.com/watch?v=fVjpKcAcZnw&index=496&list=WL&t=0s)
 * [Beginning Graphic Design](https://www.youtube.com/playlist?list=PLpQQipWcxwt8vVzFpoJS5TtCh8Ktke9TH)
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
+    * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
 * [Digital Accessibility - YouTube](https://www.youtube.com/watch?v=grrx2Lva7T0)
 * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
 * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
 * [Four Realms fashion featurette](https://www.youtube.com/watch?v=yGkfS9MXzWc&index=573&list=WL&t=0s)
 * [Gamification - Extra Credits - YouTube](https://www.youtube.com/watch?v=1dLK9MW-9sY)
+* [Gestalt Laws - YouTube](https://www.youtube.com/watch?v=ZWucNQawpWY&feature=emb_title)
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
 * Google Prototyping Series
     * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
+    * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
 * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
 * [How the hyperlink changed everything](https://www.youtube.com/watch?v=3Va3oY8pfSI&t=4s)
 * [Mathematics of Visual Illusions](https://www.youtube.com/watch?v=ZmTtMZiR3xQ&index=456&list=WL&t=0s)
@@ -109,7 +113,6 @@ and choose your favourite.
 * [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
 
 <!--
-    * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
   * Chicago Tribune
     * [Touchscreens at Lincoln Park Zoo](https://www.youtube.com/watch?v=lusOgox4xMI)
   * [Curator's Corner - The British Museum](https://www.youtube.com/watch?v=wHjznvH54Cw)
@@ -117,7 +120,7 @@ and choose your favourite.
   * [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
   
-    * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
+    * 
     * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI)
   * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
   * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)

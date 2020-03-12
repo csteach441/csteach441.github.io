@@ -41,15 +41,14 @@ Course notes will be updated during the semester.
 
 ##### Week 10 - 20th March 2019
   *  N/A - Presentations
+-->
 
-##### Week 9 - 13th March 2019
-  * [course](/assets/docs/comp441-week9.pdf)
+##### Week 9 - 11th March 2020
+  * [course](/assets/docs/2020/comp441-week9.pdf)
 
-##### Week 8 - 6th March 2019
+##### Week 8 - 4th March 2020
 
   * N/A - Spring Break
-
--->
 
 ##### Week 7 - 26th February 2020
   * [course](/assets/docs/2020/comp441-week7.pdf)

@@ -453,8 +453,9 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
+-->
 
-#### Week 9 - 13th March 2019
+#### Week 9 - 11th March 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the following extras,
   * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
@@ -472,16 +473,17 @@ Enjoy your week.
     * show and explain differences from Week 5 presentation
     * ...
 
-Presentations will be scheduled for the start of next week's class, which begins at 7pm on Wednesday 20th March 2019.
+Presentations will be scheduled for the start of next week's class, which begins at 7pm on Wednesday 18th March 2020.
+
+**n.b.** I will post further details to the course's Slack group on the specifics of *online* presentations.
 
 Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 8 - 6th March 2019
+#### Week 8 - 4th March 2020
 
 * N/A - Spring Break
--->
 
 #### Week 7 - 26th February 2020
 
