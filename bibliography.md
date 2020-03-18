@@ -48,11 +48,14 @@ Course bibliography will be updated during the semester.
 ##### Week 11 - 27th March 2019
 
   * Shackel, B. *Usability - context, framework, design, and evolution.* Human factors for informatics usability. Cambridge University Press. PP. 21-38. 1991.
-
-##### Week 10 - 20th March 2019
-
-  * N/A - Presentations
 -->
+
+##### Week 10 - 18th March 2020
+
+  * [Being left handed in a right-handed world - YouTube](https://www.youtube.com/watch?v=g1swN72r5Fk)
+  * Card, S.K., Moran, T.P. and Newell, A. *The psychology of human-computer interaction.* Lawrence Erlbaum Associates. 1983.
+  * [Google Art Project](http://goo.gl/zyGHqb)
+  * [Usability - RightLeftRightWrong](http://www.rightleftrightwrong.com/issues_tools.html)
 
 ##### Week 9 - 11th March 2020
 

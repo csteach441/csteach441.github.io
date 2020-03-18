@@ -455,6 +455,28 @@ Any questions, please let me know.
 Enjoy your week.
 -->
 
+#### Week 10 - 18th March 2020
+
+* Review this week's [notes and material](/notes), which includes the class notes, and the following extras,
+  * extras - Design
+    * [design and interface](/assets/docs/extras/design/design-interface-intro.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Please continue to prepare your DEV Week group project and demonstration for **Wednesday 25th March 2020**
+* Please add your presentation files, notes, &c. to the following board on Trello,
+  * [Week 10 - Presentation & Dev Files](https://trello.com/b/3Yjk42Yj/week-10-presentation-files)
+  * Please add these files by **Wednesday 25th March 2020** at the latest
+  * instructions are included as a list on the above board
+* Complete the following Trello board,
+  * [Week 10 - Project Contributions](https://trello.com/b/7AdqG6yg/week-10-project-contributions)
+  * this board is **important** - it will help to establish member contributions for the project
+  * please complete this requirement by **Wednesday 25th March 2020** at the latest
+
+**n.b.** I will post further details to the course's Slack group on the specifics of *online* presentations.
+
+Any questions, please let me know.
+
+Enjoy your week.
+
 #### Week 9 - 11th March 2020
 
 * Review this week's [notes and material](/notes), which includes the class notes, and the following extras,
@@ -472,10 +494,10 @@ Enjoy your week.
     * explain what does & does not work
     * show and explain differences from Week 5 presentation
     * ...
-
+<!-- 
 Presentations will be scheduled for the start of next week's class, which begins at 7pm on Wednesday 18th March 2020.
 
-**n.b.** I will post further details to the course's Slack group on the specifics of *online* presentations.
+**n.b.** I will post further details to the course's Slack group on the specifics of *online* presentations. -->
 
 Any questions, please let me know.
 

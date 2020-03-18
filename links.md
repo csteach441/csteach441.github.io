@@ -81,6 +81,7 @@ and choose your favourite.
 * [Beginning Graphic Design](https://www.youtube.com/playlist?list=PLpQQipWcxwt8vVzFpoJS5TtCh8Ktke9TH)
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
     * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
+* [Being left handed in a right-handed world - YouTube](https://www.youtube.com/watch?v=g1swN72r5Fk)
 * [Digital Accessibility - YouTube](https://www.youtube.com/watch?v=grrx2Lva7T0)
 * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
 * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
@@ -146,28 +147,32 @@ and choose your favourite.
 #### Websites
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
-* Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
-* Google - [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
-* Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
-* [Milton Glaser](http://www.miltonglaser.com/)
-
-<!--
-
-* [Dark Patterns](http://darkpatterns.org/)
 * Gamification - [Yu-Kai Chou & Gamification](http://www.yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/#.VN0SLFPF-Qw)
 * Gestalt Principles - Brief Overviews
   * [APRK Topics](http://frnsys.com/topics/gestalt)
   * [Web Designer Depot](http://www.webdesignerdepot.com/2011/08/strengthening-behavioral-cues-in-ux-web-design-with-gestalt-principles/)
+* Gnome - [Human Interface Guidelines](https://developer.gnome.org/)
+* Google
+  * [Art Project](http://goo.gl/zyGHqb)
+  * [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 * Khan Academy - [Exercise Dashboard](https://www.khanacademy.org/exercisedashboard)
-* Microsoft - [What are model-drive apps?](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/model-driven-app-overview)
-* Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
-* [The Chicago 00 Project](http://chicago00.org/) 
+* Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
+* [Milton Glaser](http://www.miltonglaser.com/)
+* [Usability - RightLeftRightWrong](http://www.rightleftrightwrong.com/issues_tools.html)
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
-* [UX of VR](https://www.uxofvr.com/)
-* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/) -->
+* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/
+
+<!--
+
+* [Dark Patterns](http://darkpatterns.org/) 
+* Microsoft - [What are model-drive apps?](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/model-driven-app-overview)
+* Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
+* [The Chicago 00 Project](http://chicago00.org/) 
+* [UX of VR](https://www.uxofvr.com/)) 
+-->
 
 ***
 

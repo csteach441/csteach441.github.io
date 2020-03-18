@@ -38,10 +38,12 @@ Course notes will be updated during the semester.
 
 ##### Week 11 - 27th March 2019
   * [course](/assets/docs/comp441-week11.pdf)
-
-##### Week 10 - 20th March 2019
-  *  N/A - Presentations
 -->
+
+##### Week 10 - 18th March 2020
+  *  [course](/assets/docs/2020/comp441-week10.pdf)
+  *  extras
+     * [design and interface](/assets/docs/extras/design/design-interface-intro.pdf)
 
 ##### Week 9 - 11th March 2020
   * [course](/assets/docs/2020/comp441-week9.pdf)
@@ -64,7 +66,7 @@ Course notes will be updated during the semester.
 
 ##### Week 3 - 29th January 2020
   * [course](/assets/docs/2020/comp441-week3.pdf)
-  * extra
+  * extras
     * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
 
 ##### Week 2 - 22nd January 2020
