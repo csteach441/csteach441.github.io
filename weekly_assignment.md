@@ -424,36 +424,50 @@ Any questions, please let me know.
 
 Enjoy your week.
 
-#### Week 10 - 20th March 2019
-* Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 1 - Project LTD](https://goo.gl/forms/ujDNaTOTLItq0k8w2)
-  * [Group 2 - Path of Exile](https://goo.gl/forms/eF4ax5GJrUPpeD4p2)
-  * [Group 3 - ParkChicago](https://goo.gl/forms/hgc0cpPEku2SAqJ03)
-  * [Group 4 - Tapioca](https://goo.gl/forms/DLdU3eB9k5rROp5q2)
-  * [Group 5 - Berkshire Hathaway](https://goo.gl/forms/cjlVWJxKD4V9tbaX2)
-  * [Group 6 - Scare Board](https://goo.gl/forms/BEBXSj9sotQIGhAC3)
-  * [Group 7 - Music Player](https://goo.gl/forms/x0oyakQUF361qDRk2)
-  * [Group 8 - Craigslist](https://goo.gl/forms/ytAbfqexx3RM7XZB2)
-   -->
+-->
 
-<!-- 
-* Complete these peer review forms by **Wednesday 27th March 2019** at the latest
+#### Week 11 - 25th March 2020
+
+* Review this week's [notes and material](/notes), which includes the following extras,
+  * extras - Design
+    * [designing our app](/assets/docs/extras/design/design-our-app.pdf)
+* Review this week's [bibliography](/bibliography) links and material
+* Complete the following peer review forms individually for the DEV Week projects and presentations
+  * [Group 1 - 8 Ride](https://forms.gle/xCqh3CpKj8eiCFSt8)
+  * [Group 2 - Accessibility Enhanced Sound and Haptics](https://forms.gle/G1PAwndts4ySaqb38)
+  * [Group 3 - Connectivity](https://forms.gle/2eTALX1qKPgD4VRh8)
+  * [Group 4 - Craigslist Makeover](https://forms.gle/qsEUMHJBV8EvC8kY7)
+  * [Group 5 - DIY Music Event App](https://forms.gle/1EPiD3kVY972AtJk7)
+  * [Group 6 - Encore (Opera Mini)](https://forms.gle/dAxANj9VR1DS31NF7)
+  * [Group 7 - Etsy](https://forms.gle/KAUmPxrbMyPCQo8q7)
+  * [Group 8 - Global Chat](https://forms.gle/Dx8jZcGTAXSxJaZcA)
+  * [Group 9 - Pinterest](https://forms.gle/Zsp5gMjYGj3SXzn37)
+  * [Group 10 - Seniors Website](https://forms.gle/EngLxXs3e2efggLx5)
+  * [Group 11 - Snapchat 2.0](https://forms.gle/H3LHzuuyYpXFHZZR8)
+  * [Group 12 - Wings ROTC Cadet Portal](https://forms.gle/VM5RrsjDZVRuA2hn6)
+* Complete these peer review forms by **Wednesday 1st April 2020** at the latest
   * please complete these forms individually, and **NOT** as a project group
   * do **NOT** complete a review for your own group
-* You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
-* Please add your presentation files, notes, &c. to the following board on Trello,
-  * [Week 10 - Presentation Files](https://trello.com/b/zXCKNjTm/week-10-presentation-files)
-  * Please add these files as soon as possible, and by **Wednesday 27th March 2019** at the latest
+* You may use the new **Slack** channel, **#week11-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
+* Please ensure you've added your presentation files, notes, and video (where appropriate) &c. to the following board on Trello,
+  * [Week 10 - Presentation & Dev Files](https://trello.com/b/3Yjk42Yj/week-10-presentation-files)
   * instructions are included as a list on the above board
 * Complete the following Trello board,
-  * [Week 10 - Project Contributions](https://trello.com/b/3hMYvf30/week-10-project-contributions)
+  * [Week 10 - Project Contributions](https://trello.com/b/7AdqG6yg/week-10-project-contributions)
   * this board is **important** - it will help to establish member contributions for the project
-  * please complete this requirement by **Wednesday 27th March 2019** at the latest
+  * please ensure you've now added your contribution details to this board
+* Please contribute to this week's class discussion on Slack, **#discussion-week11**, by adding the following information,
+  * choose three favourite data visualisations you've recently seen in an article, website, mobile application &c.
+      * why did you choose these visualisations?
+      * which Gestalt laws were used to help design these example visualisations?
+      * was the use of each applicable law beneficial to an understanding of the data in the visualisation?
+      * did your interpretation of the visualisation match the original dataset? - i.e. inferred claims of a visualisation compared with expectations of the data
+      * did the visualisation help improve understanding of the data?
+  * **n.b.** this discussion should be completed as an **individual**, and not in your project groups.
 
 Any questions, please let me know.
 
 Enjoy your week.
--->
 
 #### Week 10 - 18th March 2020
 
@@ -561,12 +575,6 @@ Enjoy your week.
   * [Group 7 - Etsy](https://forms.gle/nJBXVS2epFBBQPQu6)
   * [Group 8 - Wings ROTC Cadet Portal](https://forms.gle/rDkJiub3oTQ2T9BV7)
   * [Group 9 - Pinterest](https://forms.gle/tGfiLTBTFwB1b78NA)
-  
-  <!-- * [Group 10 - ](https://forms.gle/RLMo7bwywhib83ys7)
-  * [Group 11 - ](https://forms.gle/Y2Ur1ZY83hK94voD9)
-  * [Group 12 - ](https://forms.gle/6fX6YLxcv2kFUR828)
-  * [Group 13 - ](https://forms.gle/6cETkua9NimKJqGR6) -->
-
 * Complete these peer review forms by **Wednesday 19th February 2020** at the latest
   * please complete these forms individually, and **NOT** as a project group
   * do **NOT** complete a review for your own group

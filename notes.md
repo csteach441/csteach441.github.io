@@ -35,15 +35,17 @@ Course notes will be updated during the semester.
 
 ##### Week 12 - 3rd April 2019
   * [course](/assets/docs/comp441-week12.pdf)
-
-##### Week 11 - 27th March 2019
-  * [course](/assets/docs/comp441-week11.pdf)
 -->
 
+##### Week 11 - 25th March 2020
+  <!-- * [course](/assets/docs/2020/comp441-week11.pdf) -->
+  * extras
+    * [designing our app](/assets/docs/extras/design/design-our-app.pdf)
+
 ##### Week 10 - 18th March 2020
-  *  [course](/assets/docs/2020/comp441-week10.pdf)
-  *  extras
-     * [design and interface](/assets/docs/extras/design/design-interface-intro.pdf)
+  * [course](/assets/docs/2020/comp441-week10.pdf)
+  * extras
+    * [design and interface](/assets/docs/extras/design/design-interface-intro.pdf)
 
 ##### Week 9 - 11th March 2020
   * [course](/assets/docs/2020/comp441-week9.pdf)
