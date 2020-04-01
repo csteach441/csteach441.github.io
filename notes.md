@@ -32,19 +32,21 @@ Course notes will be updated during the semester.
 
 ##### Week 13 - 10th April 2019
   * [course](/assets/docs/comp441-week13.pdf)
-
-##### Week 12 - 3rd April 2019
-  * [course](/assets/docs/comp441-week12.pdf)
 -->
+
+##### Week 12 - 1st April 2020
+  * [course](/assets/docs/2020/comp441-week12.pdf)
+  * extras - design
+    * [Design and Information Architecture](/assets/docs/extras/design/design-information-architecture.pdf)
 
 ##### Week 11 - 25th March 2020
   <!-- * [course](/assets/docs/2020/comp441-week11.pdf) -->
-  * extras
+  * extras - design
     * [designing our app](/assets/docs/extras/design/design-our-app.pdf)
 
 ##### Week 10 - 18th March 2020
   * [course](/assets/docs/2020/comp441-week10.pdf)
-  * extras
+  * extras - design
     * [design and interface](/assets/docs/extras/design/design-interface-intro.pdf)
 
 ##### Week 9 - 11th March 2020
@@ -68,7 +70,7 @@ Course notes will be updated during the semester.
 
 ##### Week 3 - 29th January 2020
   * [course](/assets/docs/2020/comp441-week3.pdf)
-  * extras
+  * extras - design
     * [design mockups and prototypes](/assets/docs/extras/design-mockups-hci.pdf)
 
 ##### Week 2 - 22nd January 2020
@@ -76,5 +78,5 @@ Course notes will be updated during the semester.
 
 ##### Week 1 - 15th January 2020
   * [course](/assets/docs/2020/comp441-week1.pdf)
-  * extras
+  * extras - various
     * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)

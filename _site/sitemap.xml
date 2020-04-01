@@ -2,19 +2,19 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/indices/categories/index</loc>
-<lastmod>2020-03-27T16:17:55-05:00</lastmod>
+<lastmod>2020-03-31T23:58:54-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/indices/index</loc>
-<lastmod>2020-03-27T16:17:55-05:00</lastmod>
+<lastmod>2020-03-31T23:58:54-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/indices/posts/index</loc>
-<lastmod>2020-03-27T16:17:55-05:00</lastmod>
+<lastmod>2020-03-31T23:58:54-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/indices/tags/index</loc>
-<lastmod>2020-03-27T16:17:55-05:00</lastmod>
+<lastmod>2020-03-31T23:58:54-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/new-semester</loc>
@@ -92,6 +92,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/timetable/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/videos/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/weekly_assignment/</loc>
@@ -292,6 +295,10 @@
 <url>
 <loc>http://localhost:4000/assets/docs/2020/comp441-week10.pdf</loc>
 <lastmod>2020-03-17T20:26:11-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/docs/2020/comp441-week12.pdf</loc>
+<lastmod>2020-03-31T22:52:52-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/docs/2020/comp441-week2.pdf</loc>

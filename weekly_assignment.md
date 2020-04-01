@@ -381,15 +381,18 @@ Any questions, please let me know.
 Enjoy your week. 
 -->
 
-<!-- 
-#### Week 12 - 3rd April 2019
-* Review this week's [notes and material](/notes), which includes the class notes
+#### Week 12 - 1st April 2020
+
+* Review this week's [notes and material](/notes), which includes the class notes abd the following extras
+  * extras - Design
+    * [Design and Information Architecture](/assets/docs/extras/design/design-information-architecture.pdf)
+* Review this week's [videos and material](/videos)
 * Review this week's [bibliography](/bibliography) links and material
-* Please consider an application design for this evening's *Fun Exercises*
-  * use the material considered during class for each part of the exercise
+* Please consider an application design for this week's *Fun Exercises* - as detailed in the class notes
+  * use the material considered in the class notes for each part of the exercise
   * as an **individual**, please create a **prototype/s** of your design for the application
-  * submit a copy of this mockup to the following Trello board,
-    * [Week 12 - Exercise Prototype](https://trello.com/b/2mkNoXnR/week-12-exercise-prototype)
+  * submit a copy of this design to the following Trello board,
+    * [Week 12 - Exercise Prototype](https://trello.com/b/xwQstm35/week-12-exercise-prototype)
 * Please contribute to this week's class discussion on Slack, **#discussion-week12**, by adding the following information,
   * choose three favourite tutorial websites or applications. For each application, please consider the following
     * what is the considered scope of the application's functionality?
@@ -401,30 +404,6 @@ Enjoy your week.
 Any questions, please let me know.
 
 Enjoy your week.
-
-#### Week 11 - 27th March 2019
-* * Complete the following peer review forms individually for the DEV Week projects and presentations
-  * [Group 9 - Recipes](https://goo.gl/forms/f27mntMBNF36inW82)
-* Complete these peer review forms by **Wednesday 3rd April 2019** at the latest
-  * please complete these forms individually, and **NOT** as a project group
-  * do **NOT** complete a review for your own group
-* You may use the new **Slack** channel, **#week10-peer-reviews**, for posting any questions, comments, or other information regarding these peer reviews
-* Review this week's [notes and material](/notes), which includes the class notes
-* Review this week's [bibliography](/bibliography) links and material
-* Please contribute to this week's class discussion on Slack, **#discussion-week11**, by adding the following information,
-  * choose three favourite data visualisations you've recently seen in an article, website, mobile application &c.
-      * why did you choose these visualisations?
-      * which Gestalt laws were used to help design these example visualisations?
-      * was the use of each applicable law beneficial to an understanding of the data in the visualisation?
-      * did your interpretation of the visualisation match the original dataset? - i.e. inferred claims of a visualisation compared with expectations of the data
-      * did the visualisation help improve understanding of the data?
-  * **n.b.** this discussion should be completed as an **individual**, and not in your project groups.
-
-Any questions, please let me know.
-
-Enjoy your week.
-
--->
 
 #### Week 11 - 25th March 2020
 

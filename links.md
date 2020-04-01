@@ -82,22 +82,30 @@ and choose your favourite.
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
     * Typography - [YouTube](https://youtu.be/sByzHoiYFX0)
 * [Being left handed in a right-handed world - YouTube](https://www.youtube.com/watch?v=g1swN72r5Fk)
+* Chicago Tribune
+    * [Touchscreens at Lincoln Park Zoo](https://www.youtube.com/watch?v=lusOgox4xMI)
+* [Curator's Corner - The British Museum](https://www.youtube.com/watch?v=wHjznvH54Cw)
 * [Digital Accessibility - YouTube](https://www.youtube.com/watch?v=grrx2Lva7T0)
 * [Eye-tracking - Etre Demo](https://www.youtube.com/embed/lo_a2cfBUGc)
 * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
 * [Four Realms fashion featurette](https://www.youtube.com/watch?v=yGkfS9MXzWc&index=573&list=WL&t=0s)
 * [Gamification - Extra Credits - YouTube](https://www.youtube.com/watch?v=1dLK9MW-9sY)
 * [Gestalt Laws - YouTube](https://www.youtube.com/watch?v=ZWucNQawpWY&feature=emb_title)
+* [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
 * Google Prototyping Series
     * [Paper Prototyping](https://www.youtube.com/watch?v=JMjozqJS44M&t=7s)
     * [Digital Prototyping](https://www.youtube.com/watch?v=KWGBGTGryFk)
+    * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI)
 * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
 * [How the hyperlink changed everything](https://www.youtube.com/watch?v=3Va3oY8pfSI&t=4s)
+* [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
 * [Mathematics of Visual Illusions](https://www.youtube.com/watch?v=ZmTtMZiR3xQ&index=456&list=WL&t=0s)
 * [Milton Glaser](http://vimeo.com/11577085)
 * [Mouse Pointers & Fitts's Law - Computerphile - YouTube](https://www.youtube.com/watch?v=E3gS9tjACwU)
+* [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
 * ['No Such Thing as Color - what it's like to be color blind'](https://www.youtube.com/watch?v=AUsups6Mk3I)
+* [Royal Game of Ur - The British Museum](https://www.youtube.com/watch?v=WZskjLq040I)
 * [Samsung One UI 2](https://www.youtube.com/watch?v=wxwycoG41fc)
 * [Sherlock Holmes' Mind Palace](http://www.criticalcommons.org/Members/ccManager/clips/sherlocks2e2memorypalace.mp4/view)
 * [Super Mario Bros](http://youtu.be/2ZuhSB64quY?t=27s)
@@ -109,35 +117,30 @@ and choose your favourite.
   * [How the progress bar keeps you sane](https://www.youtube.com/watch?v=NAYkF04IZHI&index=577&list=WL&t=0s)
   * [How your "working memory" makes sense of the world](http://www.ted.com/talks/peter_doolittle_how_your_working_memory_makes_sense_of_the_world?language=en)
 * TED-Ed Talks
+  * [How to Practice Effectively...](https://www.youtube.com/watch?v=f2O6mQkFiiw)
+  * [How to Read Music](https://www.youtube.com/watch?v=ZN41d7Txcq0)
   * [How we see color](https://www.youtube.com/watch?v=l8_fZPHasdo)
 * [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY&index=428&list=WL&t=0s)
 * [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
 
 <!--
-  * Chicago Tribune
-    * [Touchscreens at Lincoln Park Zoo](https://www.youtube.com/watch?v=lusOgox4xMI)
-  * [Curator's Corner - The British Museum](https://www.youtube.com/watch?v=wHjznvH54Cw)
+  * 
   * 
   * [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
   * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
   
     * 
-    * [Native Prototyping](https://www.youtube.com/watch?v=lusOgox4xMI)
-  * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
-  * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
+    * 
+  * 
+  * 
   * [Macintosh UI demo](https://www.youtube.com/watch?v=y58u79RrK60)
   * [Microsoft HoloLens 2 demo - MWC 2019](https://www.youtube.com/watch?v=8wHC2Rb46H4)
   * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
   * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
   
-  * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
-  * [Royal Game of Ur - The British Museum](https://www.youtube.com/watch?v=WZskjLq040I)
   * 
 
-  * 
-  * TED-Ed Talks
-    * [How to Practice Effectively...](https://www.youtube.com/watch?v=f2O6mQkFiiw)
-    * [How to Read Music](https://www.youtube.com/watch?v=ZN41d7Txcq0)
+    * 
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
   * 
   * [Xerox Star UI](https://www.youtube.com/watch?v=Cn4vC80Pv6Q)
@@ -163,12 +166,12 @@ and choose your favourite.
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
-* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/
+* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
 
 <!--
 
 * [Dark Patterns](http://darkpatterns.org/) 
-* Microsoft - [What are model-drive apps?](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/model-driven-app-overview)
+* Microsoft - [What are model-driven apps?](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/model-driven-app-overview)
 * Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
 * [The Chicago 00 Project](http://chicago00.org/) 
 * [UX of VR](https://www.uxofvr.com/)) 
