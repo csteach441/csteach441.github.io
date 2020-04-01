@@ -38,6 +38,7 @@ Course videos will be updated during the semester.
 ##### Week 11 - 25th March 2020
 
   * N/A - Presentations
+  * **n.b.** class video link on Slack
 
 ##### Week 10 - 18th March 2020
 
