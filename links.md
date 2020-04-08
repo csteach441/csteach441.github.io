@@ -29,16 +29,12 @@ Course links will be updated during the semester.
 
 * [Colour](https://robots.thoughtbot.com/color)
 * [Colour Inspiration](https://www.smashingmagazine.com/2017/02/colorful-inspiration-gray-days-illustration-photography/)
+* [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
 * [How Functional Animation Helps Improve User Experience](https://www.smashingmagazine.com/2017/01/how-functional-animation-helps-improve-user-experience/)
 * [Keystroke-level model for advanced mobile phone interaction](http://dl.acm.org/citation.cfm?id=1240851)
 * [Microsoft's Metro Design](/assets/docs/extras/Windows_Metro.PDF)
+* [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
 * [Underestimated Power of Colour in Mobile App Design](https://www.smashingmagazine.com/2017/01/underestimated-power-color-mobile-app-design/)
-
-<!--
-  * [Getting Started With VR Interface Design](https://www.smashingmagazine.com/2017/02/getting-started-with-vr-interface-design/)
-  * 
-  * [Shigeru Miyamoto - Wikipedia](https://en.wikipedia.org/wiki/Shigeru_Miyamoto)
--->
 
 #### Frameworks & Libraries - CSS, JS... (a few examples)
 
@@ -75,8 +71,8 @@ and choose your favourite.
 
 #### Videos
 
-* [Adobe Lightroom Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
-* [Adobe Photoshop Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
+* [Adobe Lightroom - Metadata](https://helpx.adobe.com/lightroom/how-to/lightroom-filter-metadata.html)
+* [Adobe Photoshop - Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
 * [BBC - Design Rules - Colour](https://www.youtube.com/watch?v=fVjpKcAcZnw&index=496&list=WL&t=0s)
 * [Beginning Graphic Design](https://www.youtube.com/playlist?list=PLpQQipWcxwt8vVzFpoJS5TtCh8Ktke9TH)
     * Colour - [YouTube](https://youtu.be/_2LLXnUdUIc)
@@ -100,7 +96,9 @@ and choose your favourite.
 * [Grey square optical illusion](https://www.youtube.com/watch?v=z9Sen1HTu5o)
 * [How the hyperlink changed everything](https://www.youtube.com/watch?v=3Va3oY8pfSI&t=4s)
 * [Left-handed in a right-handed world](https://www.youtube.com/watch?v=g1swN72r5Fk)
+* [Macintosh UI demo](https://www.youtube.com/watch?v=y58u79RrK60)
 * [Mathematics of Visual Illusions](https://www.youtube.com/watch?v=ZmTtMZiR3xQ&index=456&list=WL&t=0s)
+* [Microsoft HoloLens 2 demo - MWC 2019](https://www.youtube.com/watch?v=8wHC2Rb46H4)
 * [Milton Glaser](http://vimeo.com/11577085)
 * [Mouse Pointers & Fitts's Law - Computerphile - YouTube](https://www.youtube.com/watch?v=E3gS9tjACwU)
 * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
@@ -122,6 +120,7 @@ and choose your favourite.
   * [How we see color](https://www.youtube.com/watch?v=l8_fZPHasdo)
 * [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY&index=428&list=WL&t=0s)
 * [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
+* [Xerox Star UI](https://www.youtube.com/watch?v=Cn4vC80Pv6Q)
 
 <!--
   * 
@@ -133,23 +132,23 @@ and choose your favourite.
     * 
   * 
   * 
-  * [Macintosh UI demo](https://www.youtube.com/watch?v=y58u79RrK60)
-  * [Microsoft HoloLens 2 demo - MWC 2019](https://www.youtube.com/watch?v=8wHC2Rb46H4)
-  * [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
-  * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
+  * 
+  * 
   
   * 
-
+    [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
+* [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
     * 
   * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
   * 
-  * [Xerox Star UI](https://www.youtube.com/watch?v=Cn4vC80Pv6Q)
+  * 
 -->
 
 
 #### Websites
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
+* [The Chicago 00 Project](http://chicago00.org/) 
 * Gamification - [Yu-Kai Chou & Gamification](http://www.yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/#.VN0SLFPF-Qw)
 * Gestalt Principles - Brief Overviews
   * [APRK Topics](http://frnsys.com/topics/gestalt)
@@ -161,6 +160,7 @@ and choose your favourite.
 * Khan Academy - [Exercise Dashboard](https://www.khanacademy.org/exercisedashboard)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
 * [Milton Glaser](http://www.miltonglaser.com/)
+* Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
 * [Usability - RightLeftRightWrong](http://www.rightleftrightwrong.com/issues_tools.html)
 * [usability.gov](http://www.usability.gov/)
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
@@ -172,8 +172,8 @@ and choose your favourite.
 
 * [Dark Patterns](http://darkpatterns.org/) 
 * Microsoft - [What are model-driven apps?](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/model-driven-app-overview)
-* Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
-* [The Chicago 00 Project](http://chicago00.org/) 
+* 
+* 
 * [UX of VR](https://www.uxofvr.com/)) 
 -->
 

@@ -20,6 +20,16 @@ This material will be updated on a weekly basis.
 
 Course videos will be updated during the semester.
 
+##### Week 13 - 8th April 2020
+
+  * extras - interaction style
+    * [Macintosh UI](https://www.youtube.com/watch?v=y58u79RrK60)
+    * [Microsoft Hololens 2](https://www.youtube.com/watch?v=8wHC2Rb46H4)
+    * [Xerox Star](https://www.youtube.com/watch?v=Cn4vC80Pv6Q)
+  * extras - principles for usability
+    * [Adobe Photoshop - Contextual Menu](https://www.youtube.com/watch?v=CMuhA4HO3MI)
+    * [Google - Material Design](https://www.youtube.com/watch?v=Q8TXgCzxEnw)
+
 ##### Week 12 - 1st April 2020
 
   * extras - design guides
