@@ -118,7 +118,7 @@ This assessment requires the design and development of a new interface for an ex
 * final team demo
   * due Wednesday 22nd April 2020 @ 7pm
 * final team report
-  * due Wednesday 29th April 2020
+  * due Wednesday 29th April 2020 @ 9.30pm
 
 #### Grading
 

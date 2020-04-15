@@ -20,6 +20,21 @@ This material will be updated on a weekly basis.
 
 Course videos will be updated during the semester.
 
+##### Week 14 - 15th April 2020
+
+  * extras - designing a common interaction framework
+    * [Complex relationship between data and design in UX](https://www.youtube.com/watch?v=YTRIeWI0EGQ)
+  * extras - designing the information architecture
+    * [The Chicago 00 Project](https://www.youtube.com/watch?v=c_DtsJl9V-Q)
+  * extras - testing and evaluating usability
+    * [Create Better Website: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
+    * [Microsoft Usability Testing](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
+    * [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
+    * mobile analytics
+      * [Event tracking](https://www.youtube.com/watch?v=5mEQato-p2Q&list=PLI5YfMzCfRtZCt8JgQWN-irBbYYAuJ_U9&index=8)
+      * [Screen tracking](https://www.youtube.com/watch?v=0Vk6c8JNEYM&list=PLI5YfMzCfRtZCt8JgQWN-irBbYYAuJ_U9&index=7)
+    * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
+
 ##### Week 13 - 8th April 2020
 
   * extras - interaction style

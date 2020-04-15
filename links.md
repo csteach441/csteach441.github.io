@@ -86,7 +86,9 @@ and choose your favourite.
 * [Eye-tracking - Google Chrome in Japan](https://www.youtube.com/embed/-K94bZIAiGo)
 * [Four Realms fashion featurette](https://www.youtube.com/watch?v=yGkfS9MXzWc&index=573&list=WL&t=0s)
 * [Gamification - Extra Credits - YouTube](https://www.youtube.com/watch?v=1dLK9MW-9sY)
+* [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
 * [Gestalt Laws - YouTube](https://www.youtube.com/watch?v=ZWucNQawpWY&feature=emb_title)
+* [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
 * [Google Apps Script Tutorials](https://www.youtube.com/watch?v=Pgfbl_o9WvM&index=27&list=PL68F511F6E3C122EB)
 * [Google's Material Design](https://www.youtube.com/watch?v=p4gmvHyuZzw)
 * Google Prototyping Series
@@ -99,6 +101,8 @@ and choose your favourite.
 * [Macintosh UI demo](https://www.youtube.com/watch?v=y58u79RrK60)
 * [Mathematics of Visual Illusions](https://www.youtube.com/watch?v=ZmTtMZiR3xQ&index=456&list=WL&t=0s)
 * [Microsoft HoloLens 2 demo - MWC 2019](https://www.youtube.com/watch?v=8wHC2Rb46H4)
+* [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
+* [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
 * [Milton Glaser](http://vimeo.com/11577085)
 * [Mouse Pointers & Fitts's Law - Computerphile - YouTube](https://www.youtube.com/watch?v=E3gS9tjACwU)
 * [Nintendo's Brain Age](https://www.youtube.com/watch?v=JUvBQxBgis0)
@@ -118,37 +122,16 @@ and choose your favourite.
   * [How to Practice Effectively...](https://www.youtube.com/watch?v=f2O6mQkFiiw)
   * [How to Read Music](https://www.youtube.com/watch?v=ZN41d7Txcq0)
   * [How we see color](https://www.youtube.com/watch?v=l8_fZPHasdo)
+* [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
 * [Understanding Color](https://www.youtube.com/watch?v=Qj1FK8n7WgY&index=428&list=WL&t=0s)
 * [Why the Human Brain Can't Multitask](https://www.youtube.com/watch?v=BpD3PxrgICU)
 * [Xerox Star UI](https://www.youtube.com/watch?v=Cn4vC80Pv6Q)
-
-<!--
-  * 
-  * 
-  * [Genius of Shigeru Miyamoto](https://www.youtube.com/watch?v=K-NBcP0YUQI)
-  * [Google Analytics: Introducing Content Experiments](https://www.youtube.com/watch?v=TGrujIh2H0I)
-  
-    * 
-    * 
-  * 
-  * 
-  * 
-  * 
-  
-  * 
-    [Microsoft Usability Testing - Windows 95](https://www.youtube.com/watch?v=2tdxj-5u7Eo)
-* [Microsoft User Research](https://www.youtube.com/watch?v=v_s13VtPpJQ)
-    * 
-  * [Touring SOE's Usability Lab](https://www.youtube.com/watch?v=pAZglMkQsmg)
-  * 
-  * 
--->
-
 
 #### Websites
 
 * Apple - [UI Design Basics](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html)
 * [The Chicago 00 Project](http://chicago00.org/) 
+* [Dark Patterns](http://darkpatterns.org/) 
 * Gamification - [Yu-Kai Chou & Gamification](http://www.yukaichou.com/gamification-examples/top-10-gamification-examples-human-race/#.VN0SLFPF-Qw)
 * Gestalt Principles - Brief Overviews
   * [APRK Topics](http://frnsys.com/topics/gestalt)
@@ -159,6 +142,7 @@ and choose your favourite.
   * [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
 * Khan Academy - [Exercise Dashboard](https://www.khanacademy.org/exercisedashboard)
 * Microsoft - [Guidelines for Windows Runtime apps](http://msdn.microsoft.com/library/windows/apps/hh465424.aspx)
+* Microsoft - [What are model-driven apps?](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/model-driven-app-overview)
 * [Milton Glaser](http://www.miltonglaser.com/)
 * Spore (Electronic Arts) -  [Various Prototypes](http://www.spore.com/comm/prototypes)
 * [Usability - RightLeftRightWrong](http://www.rightleftrightwrong.com/issues_tools.html)
@@ -166,16 +150,8 @@ and choose your favourite.
   * ["Research-Based Web Design and Usability Guidelines"](http://guidelines.usability.gov/)
   * ["What & Why of Usability"](http://www.usability.gov/what-and-why/index.html)
   * ["How To & Tools"](http://www.usability.gov/how-to-and-tools/index.html)
-* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
-
-<!--
-
-* [Dark Patterns](http://darkpatterns.org/) 
-* Microsoft - [What are model-driven apps?](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/model-driven-app-overview)
-* 
-* 
 * [UX of VR](https://www.uxofvr.com/)) 
--->
+* Yahoo - [Yahoo! Weather Mobile App](https://mobile.yahoo.com/weather/)
 
 ***
 
