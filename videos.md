@@ -22,6 +22,10 @@ Course videos will be updated during the semester.
 
 ##### Week 14 - 15th April 2020
 
+  * N/A - Final Presentations
+
+##### Week 14 - 15th April 2020
+
   * extras - designing a common interaction framework
     * [Complex relationship between data and design in UX](https://www.youtube.com/watch?v=YTRIeWI0EGQ)
   * extras - designing the information architecture
@@ -62,7 +66,7 @@ Course videos will be updated during the semester.
 
 ##### Week 11 - 25th March 2020
 
-  * N/A - Presentations
+  * N/A - DEV Week Presentations
   * **n.b.** class video link on Slack
 
 ##### Week 10 - 18th March 2020
@@ -107,7 +111,7 @@ Course videos will be updated during the semester.
 
 ##### Week 5 - 12th February 2020
 
-  * N/A - Presentations
+  * N/A - Mockup Presentations
 
 ##### Week 4 - 5th February 2020
 

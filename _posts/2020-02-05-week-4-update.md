@@ -12,7 +12,7 @@ month: 02
 day: 05
 published: true
 summary: site updated and week 4 assignment
-menu: new-semester
+menu: week4-update
 ---
 
 The course website has now been updated for this week's class, week 4.

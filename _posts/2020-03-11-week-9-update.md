@@ -12,7 +12,7 @@ month: 03
 day: 11
 published: true
 summary: site updated and week 9 assignment
-menu: new-semester
+menu: week9-update
 ---
 
 The course website has now been updated for this week's class, week 9.

@@ -22,11 +22,10 @@ There is no specific textbook for this course.
 
 Course bibliography will be updated during the semester.
 
-<!-- 
-##### Week 15 - 24th April 2019
+
+##### Week 15 - 22nd April 2020
 
   * N/A
--->
 
 ##### Week 14 - 15th April 2020
 

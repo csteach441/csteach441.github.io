@@ -20,11 +20,10 @@ This material will be updated on a weekly basis.
 
 Course notes will be updated during the semester.
 
-<!-- 
-##### Week 15 - 24th April 2019
+
+##### Week 15 - 22nd April 2020
   * extra - final report
-    * [final report outline](/assets/docs/extras/comp441-final-report-outline-2019.pdf)
--->
+    * [final report outline](/assets/docs/extras/comp441-final-report-outline-2020.pdf)
 
 ##### Week 14 - 15th April 2020
   * [course](/assets/docs/2020/comp441-week14.pdf)
